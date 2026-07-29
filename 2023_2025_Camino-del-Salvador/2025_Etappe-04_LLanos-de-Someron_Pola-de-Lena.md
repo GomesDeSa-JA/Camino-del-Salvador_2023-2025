@@ -1,0 +1,75 @@
+## Camino del Salvador 2025
+---
+### Etappe_04: LLanos de Somerón → Pola de Lena
+07 Mai 2025
+![](media/2025_Etappe-04/20250507_091123c.jpg)
+####  Decidimos ⁘ Wir haben uns entschieden ⁘ We’ve decided ⁘ Hemos decidido
+
+![](media/2025_Etappe-04/20250507_091315c.jpg)
+- Der Weg durch den Tal ist sicher, aber ich glaube nicht, dass es so beeindruckend ist.
+- O caminho pelo vale é seguro, mas acho que não é assim tão impressionante
+- The route through the valley is safe, But I don't think it's that spectacular.
+- El camino que atraviesa el valle es seguro, pero no creo que sea tan impresionante
+#### 🇪🇸 A partir de aquí hay un tramo difícil de unos 50 m.
+
+![](media/2025_Etappe-04/20250507_102208c.jpg)
+Hay dos tramos de entre 1 y 2 m de longitud en los que hay que tener las manos libres para poder utilizarlas como apoyo.
+
+ 🇩🇪 Ab hier folgt ein schwieriger Abschnitt von etwa 50 m.
+Es gibt zwei Stellen von 1 bis 2 m Länge, an denen man die Hände frei haben muss, um sie als Stütze nutzen zu können.
+
+🇵🇹 A partir daqui, há um troço difícil com cerca de 50 m.
+Existem dois troços com 1 a 2 m de comprimento em que é necessário ter as mãos livres para poder utilizá-los como apoio.
+
+🇬🇧 From here on, there is a difficult stretch of about 50 metres.
+There are two sections, each 1 to 2 metres long, where you need to have your hands free so that you can use them for support.
+![](media/2025_Etappe-04/20250507_102224c.jpg)
+
+![](media/2025_Etappe-04/20250507_103042c.jpg)
+#### 🇩🇪 Mein Hut wurde gefunden.
+- Irgendwo auf dieser Wegstrecke
+![](media/2025_Etappe-04/20250507_120757c.jpg)
+
+Vielen Dank an die deutsche Pilgerin und Skandinavien-Kennerin.
+Ich habe deinen Namen irgendwo tief in meinem Gedächtnis gespeichert, aber wenn wir uns wieder begegnen, werde ich dich erneut zu einem Butterbrot mit Bärlauch einladen, auch wenn mein Hut nicht verloren geht. Und ich hoffe, dass es dir in der Herberge in Bendueños genauso gut gefallen hat wie mir zwei Jahre zuvor.
+#### # 🇪🇸 Me han encontrado el sombrero.
+- En algún punto de este tramo del camino![](media/2025_Etappe-04/20250507_122023c.jpg)
+
+Muchas gracias a la peregrina alemana y experta en Escandinavia.
+He guardado tu nombre en lo más profundo de mi memoria, pero si volvemos a encontrarnos, te invitaré de nuevo a un bocadillo  con ajo silvestre, aunque no se me pierda el sombrero. Y espero que te lo hayas pasado tan bien en el albergue de Bendueños como yo dos años antes.
+##### 🇵🇹 Encontraram o meu chapéu.
+- Algures ao longo deste percurso
+![](media/2025_Etappe-04/20250507_123953c.jpg)
+Muito obrigado à peregrina alemã e conhecedora da Escandinávia.
+Guardei o teu nome algures no fundo da minha memória, mas quando nos voltarmos a encontrar, vou convidar-te novamente para um sanduíche com alho selvagem, mesmo que o meu chapéu não se perca. E espero que tenhas apreciado o albergue em Bendueños tanto quanto eu há dois anos.
+#### 🇬🇧 My hat has been found.
+- Somewhere along this stretch of the route
+![](media/2025_Etappe-04/20250507_140510c.jpg)
+Many thanks to the German pilgrim and expert on Scandinavia.
+I’ve stored your name somewhere deep in my memory, but if we meet again, I’ll treat you to a buttered bread roll with wild garlic once more, even if I don’t lose my hat. And I hope you enjoyed the hostel in Bendueños just as much as I did two years ago.
+#### Mas antes desta foto
+![](media/2025_Etappe-04/20250507_155952c.jpg)
+- Aber vor diesem Foto
+- But before this photo
+- Pero antes de esta foto
+#### Pola de Lena
+🇩🇪 Albergue de peregrinos San Martín
+Wir haben es geschafft, vor 18:30 Uhr dort anzukommen, und wurden sehr herzlich empfangen. Vielen Dank für den tollen Aufenthalt.
+
+🇵🇹 Albergue de peregrinos San Martín
+Conseguimos chegar lá antes das 18h30 e fomos recebidos de forma muito bem-vinda. Muito obrigado pela agradável estadia.
+
+🇪🇸 Albergue de peregrinos San Martín
+Conseguimos llegar antes de las 18:30 y nos recibieron muy cordialmente. Muchas gracias por esta estancia tan agradable.
+
+🇬🇧 San Martín Pilgrims’ Albergue
+We managed to arrive there before 6.30 pm and were given a very warm welcome. Thank you very much for a lovely stay.
+
+---
+# →
+
+🔁 [2023_2025_Camino-del-Salvador_Etappen](2023_2025_Camino-del-Salvador_Etappen.md)
+
+↪ [2025_Etappe-05_Pola-de-Lena_Oviedo](2025_Etappe-05_Pola-de-Lena_Oviedo.md)
+
+
