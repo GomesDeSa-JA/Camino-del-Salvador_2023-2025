@@ -1,4 +1,4 @@
-
+###### Top
 ## Camino del Salvador 2023 
 
 ###  León 
@@ -34,11 +34,13 @@ Yo (nosotros) seguí (seguimos) a lo largo del río Bernesga hasta el Estadio Ol
 ### Etappe_01: León - Cabanillas  (18,4 Km ) 
 27 April 2023 
 #### Monumento a las Infantas de Leon
+
 ![](media/2023_Etappe-01/20230427_082444c.jpg)
+.
 Ein Foto am Morgen ⁘ Una foto por la mañana ⁘ Uma foto na manhã ⁘ A photo taken in the morning
 
-#### Ich bin auf den richtigen Weg ⁘ I’m on the right path ⁘ Voy por el buen camino
-- Estou no caminho certo
+#### Ich bin auf den richtigen Weg ⁘ I’m on the right path ⁘ Voy por el buen camino ⁘Estou no caminho certo
+
 ![](media/2023_Etappe-01/20230427_095424.jpg)
 
 #### 🇩🇪 Ab hier nur ich (wir) und die Natur
@@ -47,6 +49,7 @@ Ein Foto am Morgen ⁘ Una foto por la mañana ⁘ Uma foto na manhã ⁘ A phot
 Am Wochenende sind bereits viele Wanderer und Sportler auf dem Wanderweg unterwegs, sodass man den Weg nicht mehr ganz für sich allein hat. 
 
 🇪🇸 A partir de aquí, solo  yo (nosotros) y la naturaleza
+
 ![](media/2023_Etappe-01/20230427_112929c.jpg)
 Durante el fin de semana ya hay muchos excursionistas y deportistas en la ruta de senderismo, por lo que ya no se tiene el camino completamente para usted solo.
 
@@ -58,15 +61,15 @@ Ao fim de semana, já há muitos caminhantes e desportistas a percorrer o trilho
 
  At the weekend, there are already plenty of walkers and sports enthusiasts out on the trail, so you no longer have the path all to yourself. 
 
-
 #### Albergue de peregrinos de Cabanillas
-![](media/2023_Etappe-01/20230427_172818c.jpg) 
 
-![](media/2023_Etappe-01/20230427_153852c.jpg)
+![](media/2023_Etappe-01/20230427_172818c.jpg) 
 
 *Ich habe 2023 in dieser Herberge übernachtet, und 2025 haben wir den überdachten Bereich und den Tisch genutzt, um uns auszuruhen und etwas zu essen*.
 
-Diese Unterkunft eignet sich besonders für Pilger, die die erste Etappe nicht bis nach La Robla verlängern möchten. Wer hier übernachten möchte, sollte vorher telefonisch nachfragen und vorsichtshalber etwas Verpflegung mitnehmen, da die Versorgungsmöglichkeiten im Ort begrenzt sind bzw nicht vorhanden sind.
+![](media/2023_Etappe-01/20230427_153852c.jpg)
+
+🇩🇪  Diese Unterkunft eignet sich besonders für Pilger, die die erste Etappe nicht bis nach La Robla verlängern möchten. Wer hier übernachten möchte, sollte vorher telefonisch nachfragen und vorsichtshalber etwas Verpflegung mitnehmen, da die Versorgungsmöglichkeiten im Ort begrenzt sind bzw nicht vorhanden sind.
 
 Die Herberge befindet sich in einem Mehrzweckgebäude des Dorfes, das auch für Veranstaltungen genutzt wird. Für Pilger wurden an einer Wand vier klappbare Betten eingerichtet. Als ich 2023 dort übernachtete, gab es lediglich einen Kaffee- und Getränkeautomaten. Aus früheren Pilgerberichten wusste ich, dass diese Automaten nicht immer aufgefüllt waren.
 
@@ -87,9 +90,10 @@ Felizmente tive sorte. À chegada pude beber uma bebida bem fresca e, na manhã 
 
 Em 2024, Roze e eu fizemos aqui uma pausa. Aproveitámos os bancos cobertos para descansar e recuperar energias com bebidas frescas. Muitos peregrinos nem se apercebem deste local, situado apenas cerca de 50 metros à direita do caminho. Mesmo sem pernoitar, vale a pena parar aqui para descansar.
 
+---
 ##### 🇪🇸  Albergue de Peregrinos de Cabanillas 
 
-Me alojé en este albergue en 2023 y, en 2025, utilizamos la zona cubierta y la mesa para descansar y comer algo.
+*Me alojé en este albergue en 2023 y, en 2025, utilizamos la zona cubierta y la mesa para descansar y comer algo.*
  
 Es una buena alternativa para quienes prefieren no caminar hasta La Robla el primer día. Conviene llamar con antelación y llevar algo de comida, ya que la oferta de servicios es limitada.
 
@@ -98,9 +102,11 @@ El edificio funciona principalmente como centro social del pueblo y dispone de c
 Tuve suerte: al llegar disfruté de una bebida bien fría y, a la mañana siguiente, pude empezar la etapa con dos cafés espresso.
 
 En 2025, Roze y yo hicimos aquí una agradable pausa para descansar bajo la zona cubierta y recuperar fuerzas antes de continuar.
+
+---
 ##### 🇬🇧  Albergue de Peregrinos de Cabanillas
 
-I stayed at this hostel in 2023, and in 2025 we used the covered area and the table to relax and have a bite to eat.
+*I stayed at this hostel in 2023, and in 2025 we used the covered area and the table to relax and have a bite to eat.*
 
 It is an excellent option for pilgrims who do not wish to continue all the way to La Robla on the first day. It is advisable to call in advance and bring some food, as services in the village are limited.
 
@@ -111,13 +117,14 @@ Fortunately, I was lucky. After arriving, I enjoyed a cold drink, and the follow
 In 2024, Roze and I stopped here for a break. The covered benches provided the perfect place to rest and recharge before continuing our journey.
 
 ---
-# →
 
-🔁 [2023_2025_Camino-del-Salvador_Etappen](2023_2025_Camino-del-Salvador_Etappen.md)
+🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
-↪ [2023_Etappe-02_Cabanillas_La-Robla](2023_Etappe-02_Cabanillas_La-Robla.md)
+↪ [Etapa-02_Cabanillas_La-Robla](Etapa-02_Cabanillas_La-Robla.md)
 
 ---
-*👣 "Gehen ist des Menschen beste Medizin" Ultreia et Suseia ! 🌟*
-
+*👣 "Gehen ist des Menschen beste Medizin"
 Hippokrates von Kos, griechischer Arzt, um 460 v. Chr. – um 370 v. Chr.)
+
+ Ultreia et Suseia ! 🌟*
+ ...→

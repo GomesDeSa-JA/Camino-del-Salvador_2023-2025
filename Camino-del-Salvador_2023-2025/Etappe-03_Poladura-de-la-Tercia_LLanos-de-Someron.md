@@ -1,9 +1,10 @@
 ## Camino del Salvador 2025
----
+
 ### Etappe_03: Poladura de la Tercia → LLanos de Somerón
 06 Mai 2025
 
 #### Der französische Pilger ⁘ The French pilgrim ⁘ El peregrino francés
+
 ##### 🇩🇪 Wir haben ihn nicht mehr gesehen
 
 Er stand früh auf und war, ohne etwas zu versprechen, fest entschlossen, es zu schaffen.
@@ -25,6 +26,10 @@ Roze und ich waren froh, dass wir es bis nach Llanos de Somerón geschafft hatte
 Der französische Pilger war jung, und während wir erst seit zwei Tagen unterwegs waren, befand er sich bereits seit mehreren Monaten auf dem Jakobsweg und war deshalb deutlich besser in Form als wir.
 
 Ich hoffe, eines Tages wieder in der Herberge von Bendueños zu übernachten und den Namen dieses französischen Pilgers herauszufinden. An sein Gesicht und an unsere Gespräche erinnere ich mich noch gut – aber Namen vergesse ich leider immer.
+
+[🔁](#Top)
+
+---
 ##### 🇵🇹 Nunca mais o vimos
 Levantou-se cedo e, sem prometer nada, estava determinado a conseguir.
 
@@ -46,6 +51,7 @@ O peregrino francês era jovem e, enquanto nós caminhávamos apenas há dois di
 
 Espero um dia voltar a dormir no albergue de Bendueños e descobrir o nome daquele peregrino francês. Lembro-me perfeitamente do seu rosto e das conversas que tivemos, mas, infelizmente, esqueço-me sempre dos nomes.
 
+---
 ##### 🇪🇸 Nunca volvimos a verlo
 
 Se levantó temprano y, sin prometer nada, estaba decidido a conseguirlo.
@@ -65,11 +71,11 @@ También le expliqué que en 2023 yo tampoco había hecho ninguna reserva y que,
 Roze y yo nos sentimos felices de haber llegado hasta Llanos de Somerón. Allí encontramos un alojamiento acogedor donde pudimos descansar bien y disfrutar de una buena comida. 
 Mirando atrás, incluso nos alegramos de que nuestra solicitud de reserva de la víspera no hubiera sido aceptada. Si hubiéramos reservado para ese día, con toda seguridad ya no habríamos sido capaces de superar la subida de aproximadamente un kilómetro desde la fuente del pueblo hasta el albergue. Estábamos completamente agotados.
 
-
 El peregrino francés era joven y, mientras nosotros solo llevábamos dos días caminando, él ya llevaba varios meses en el Camino y estaba, naturalmente, en mucha mejor forma que nosotros.
 
 Espero volver algún día al albergue de Bendueños y averiguar el nombre de aquel peregrino francés. Recuerdo perfectamente su rostro y las conversaciones que mantuvimos, pero, por desgracia, siempre olvido los nombres.
 
+---
 ##### 🇬🇧 We Never Saw Him Again
 
 He got up early and, without making any promises, was determined to make it.
@@ -88,7 +94,6 @@ I also explained that I had not made a reservation in 2023 either. When I arrive
 
 Roze and I were happy that we had made it as far as Llanos de Somerón. There we found a cosy place to stay, where we enjoyed a good night's sleep and a good meal. Looking back, we were actually glad that our reservation request the previous evening had not been accepted. If we had reserved for that day, we certainly would not have been able to manage the roughly one-kilometre climb from the village fountain to the hostel. We were simply too exhausted.
 
-
 The French pilgrim was young, and while we had only been walking for two days, he had already spent several months on the Camino and was therefore in much better physical condition than we were.
 
 I hope that one day I will stay again at the hostel in Bendueños and finally learn the name of that French pilgrim. I remember his face and the conversations we had very well, but I have always been terrible at remembering names.
@@ -99,13 +104,7 @@ Am Abend davor haben wir in die Herberg von Poladura de la Tercia einen französ
 
 Er war schon sehr lange unterwegs und durch diese Umweg über den Camino del Salvador und ich glaube anschließend  den Camino Primitivo  wollte er endlich in Santiago ankommen, deswegen hat er in Bedueños angerufen um einen paar Km zu gewinnen um sich seinen Ziel näher zu kommen. 
 
-Bitte den Text in eckigen Klammern korrigieren  und ins Deutsch, Portugiesisch, Spanisch und Englisch übersetzen [    
-
-
-
-
-
-
+---
 #### Vivir y agradecer la creación de Dios 
 - To live and give thanks for God’s creation. 
 - Leben und Gottes Schöpfung danken
@@ -114,10 +113,12 @@ Bitte den Text in eckigen Klammern korrigieren  und ins Deutsch, Portugiesisch, 
 ![](media/2025_Etappe-03/20250506_084615.jpg)
 
 ![](media/2025_Etappe-03/20250506_090019c.jpg)
+
 - You discover the true and wonderful life with your feet
 - La vida auténtica y maravillosa la descubres con tus pies
 - Das wahre und wundervolle Leben entdeckst du mit deinen Füßen
 - É com os pés que descobres a vida verdadeira e maravilhosa
+
 ![](media/2025_Etappe-03/20250506_090026c.jpg)
 
 ![](media/2025_Etappe-03/20250506_094849c.jpg)
@@ -125,10 +126,13 @@ Bitte den Text in eckigen Klammern korrigieren  und ins Deutsch, Portugiesisch, 
 ![](media/2025_Etappe-03/20250506_102937c.jpg)
 
 ![](media/2025_Etappe-03/20250506_103212c.jpg)
+
+---
 #### Puerto de Pajares
 - Spätestens genau hier sollte man an dem Haus rechts abbiegen
 - O mais tardar, é precisamente aqui que se deve virar à direita, junto à casa
 - Como muy tarde, es precisamente aquí donde hay que girar a la derecha, junto a la casa
+
 ![](media/2025_Etappe-03/20250506_114133c.jpg)
 ##### 🇩🇪 Spätestens genau hier sollte man an dem Haus rechts abbiegen 
 Da der Pfad rechts von der Straße schlammig war, blieben wir zunächst auf der Straße. 
@@ -213,6 +217,7 @@ Foto von 30 April  2023
 - Que todas as minhas quedas fossem assim
 - Ojalá todas mis caídas fueran así 
 - Ich wünschte, alle meine Stürze wären so 
+
 ![](media/2025_Etappe-03/20250506_130620c.jpg)
 ##### 🇩🇪 Gut gelandet, das macht glücklich
 Gerade dort, wo wir uns am sichersten fühlen, rutschen wir aus.
@@ -223,19 +228,21 @@ Ob die Waschmaschine das genauso sieht … nun ja, niemand fragt sie, solange ma
 É precisamente onde nos sentimos mais seguros que escorregamos.
 
 Os joelhos e os cotovelos ainda estão intactos, tive sorte, porque vou precisar deles em todos os meus caminhos; só a roupa ficou com algumas manchas.
-Será que a máquina de lavar roupa pensa o mesmo… bem, ninguém lhe pergunta, desde que se consiga encontrar uma
+Será que a máquina de lavar roupa pensa o mesmo… bem, ninguém lhe pergunta, desde que se consiga encontrar uma.
 ##### 🇬🇧 Landed safely – that makes me happy
 It is precisely when we feel most secure that we slip up.
 
 My knees and elbows are still in one piece; I was lucky, because I’m going to need them desperately on all my journeys; only my clothes have got a few stains on them.
-Whether the washing machine sees it that way too… well, nobody asks it, as long as you can find one at all
+Whether the washing machine sees it that way too… well, nobody asks it, as long as you can find one at all.
 ##### 🇪🇸 He aterrizado bien, eso me hace feliz
 Es precisamente donde nos sentimos más seguros donde resbalamos.
 
 Las rodillas y los codos siguen intactos, he tenido suerte, porque los voy a necesitar en todos mis caminos; solo la ropa ha quedado con algunas manchas.
 ¿Pensará lo mismo la lavadora?… Bueno, nadie le pregunta, mientras se encuentre una.
 
+---
 #### Santa Marina 
+
 ![](media/2025_Etappe-03/20250506_151023c.jpg)
 ##### 🇩🇪 Llanos de Somerón ist nicht mehr weit
 Und wir haben immer noch keinen Kaffee getrunken.
@@ -253,12 +260,13 @@ And we haven’t had a coffee yet.
 Even when we passed through Pajares, there weren’t any cafés or bars open at that time of day, so we carried on. Luckily, there’s a bar at the ‘Albergue Cascoxu’ hostel, so we can round off our day with a beer.
 
 ---
-# →
 
-🔁 [2023_2025_Camino-del-Salvador_Etappen](2023_2025_Camino-del-Salvador_Etappen.md)
+🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
-↪ [2025_Etappe-04_LLanos-de-Someron_Pola-de-Lena](2025_Etappe-04_LLanos-de-Someron_Pola-de-Lena.md)
+↪ [Etappe-04_LLanos-de-Someron_Pola-de-Lena](Etappe-04_LLanos-de-Someron_Pola-de-Lena.md)
 
 ---
 ***„Der Mensch braucht Erde unter den Füßen, sonst verdorrt ihm das Herz.“***
 Gertrud von le Fort, deutsche Schriftstellerin, 1876 – 1971
+
+ ...→

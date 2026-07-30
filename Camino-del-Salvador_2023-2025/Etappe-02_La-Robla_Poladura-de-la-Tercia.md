@@ -33,11 +33,13 @@ para cumprir o que está escrito na parede.
 
 ![](media/2025_Etappe-02/20250505_130817c.jpg)
 #### Dieser Weg muss man fühlen, es lässt sich nicht erklären.
+
 ![](media/2025_Etappe-02/20250505_132234c.jpg)
 
 Esta caminho tem de se sentir, não se pode explicar.
 
 ![](media/2025_Etappe-02/20250505_132252c.jpg)
+
  ![](media/2025_Etappe-02/20250505_132508c.jpg)
  Este camino hay que sentirlo, no se puede explicar.
  ![](media/2025_Etappe-02/20250505_132609c.jpg)
@@ -73,15 +75,15 @@ Muito obrigado pela acolhida e boa hospitalidade.
 Thank you very much for the warm welcome and your kind hospitality.
 
 ---
-# →
 
-🔁 [2023_2025_Camino-del-Salvador_Etappen](2023_2025_Camino-del-Salvador_Etappen.md)
+🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
-↪[2025_Etappe-03_Poladura-de-la-Tercia_LLanos-de-Someron](2025_Etappe-03_Poladura-de-la-Tercia_LLanos-de-Someron.md)
+↪[Etappe-03_Poladura-de-la-Tercia_LLanos-de-Someron](Etappe-03_Poladura-de-la-Tercia_LLanos-de-Someron.md)
 
 ---
  ***„Der Weg ist immer besser als die schönste Herberge.“***
  Miguel de Cervantes, spanischer Schriftsteller, 1547 – 1616)
-
+ 
+ ...→
 
 

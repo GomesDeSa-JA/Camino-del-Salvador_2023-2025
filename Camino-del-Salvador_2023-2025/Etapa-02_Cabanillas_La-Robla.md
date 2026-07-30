@@ -18,7 +18,7 @@ Sem palavras Without words Sin palabras
 🇪🇸 Una forma diferente de diseñar el paisaje
 
 ---
-#### 🇬🇧Street art invites you to sit down 
+#### 🇬🇧 Street art invites you to sit down 
 – thanks, but on these sunny days I’d rather find a bit of shade.
 ![](media/2023_Etappe-02/20230428_154208.jpg)
 I didn’t notice that in 2025; the poncho does restrict your view.
@@ -45,10 +45,23 @@ En el año 2025 se me pasó por alto; el poncho ya limita la visión.
 - Un banco que te invita a sentarte un momento, a quitarte las botas de montaña y a respirar hondo. Ya has llegado.
 
 ---
-# →
 
-🔁 [2023_2025_Camino-del-Salvador_Etappen](2023_2025_Camino-del-Salvador_Etappen.md)
+🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
-↪ [2023_Etappe-03_La-Robla_Poladura-de-la-Tercia](2023_Etappe-03_La-Robla_Poladura-de-la-Tercia.md)
+↪ [La-Robla_Poladura-de-la-Tercia](Etapa-03_La-Robla_Poladura-de-la-Tercia.md)
 
 ---
+
+*Un nuevo día, un nuevo camino!*
+
+ *Einer neue  Tag,  eine neue Weg!* 
+
+*A new day, a new path!*
+
+*Um novo dia, um novo caminho!*
+
+---
+
+👣 *Buon Cammino!*
+
+ ...→

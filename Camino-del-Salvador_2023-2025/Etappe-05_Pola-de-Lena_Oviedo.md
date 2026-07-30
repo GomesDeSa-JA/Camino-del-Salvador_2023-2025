@@ -1,29 +1,34 @@
-# Camino del Salvador 2025
+## Camino del Salvador 2025
 
-## Etappe_05: Pola de Lena  → Oviedo
+### Etappe_05: Pola de Lena  → Oviedo
 08 Mai 2025
 
-#### 🇩🇪 Heute beginnen wir den Tag ganz anders
-🇵🇹 Hoje começamos o dia de uma forma completamente diferente
-🇪🇸 Hoy hemos empezado el día de una forma totalmente diferente
-🇬🇧 Today we’re starting the day in a completely different way
 
-> [!success]- 
-> 
-> Un simple café
-> Einfach ein Kaffee
-> ![](media/2025_Ettappe-05/20250508_082954c1.jpg)
-> A simple coffee
-> Um simples café
+#### 🇩🇪 Heute beginnen wir den Tag ganz anders
+- Mit einem einfachen Kaffee.
+
+🇵🇹 Hoje começamos o dia de uma forma completamente diferente.
+- Com um simples café
+
+>-  ![](media/2025_Ettappe-05/20250508_082954c1.jpg)
+
+🇪🇸 Hoy hemos empezado el día de una forma totalmente diferente
+- Con un simple café
+
+🇬🇧 Today we’re starting the day in a completely different way
+- With a simple cup of coffee
 
 ![](media/2025_Ettappe-05/20250508_083705c.jpg)
 
+---
 #### 🇪🇸 Simplemente disfrutar
 🇬🇧 Just enjoy it
 🇩🇪 Einfach genießen
 🇵🇹 Simplesmente desfrutar
+
 ![](media/2025_Ettappe-05/20250508_101329c.jpg)
 
+---
 #### 🇬🇧 Civilisation
 We have left behind the world shaped by God, and civilisation has got hold of us once again.
 I hear strange noises that constantly wash over me.
@@ -44,33 +49,36 @@ I hear strange noises that constantly wash over me.
 
 ---
 #### 🇵🇹 A criação de Deus cuidada pelas mãos humanas
-Pequenos oásis no meio da civilização
+Pequenos oásis no meio da civilização.
 
-> [!hint]-
-> ![](media/2025_Ettappe-05/20250508_100543.jpg)
-> 
+ ![](media/2025_Ettappe-05/20250508_100543.jpg)
 
-**God’s creation, tended by human hands**
+
+- **God’s creation, tended by human hands**
 Little oases in the heart of civilisation
+
 ![](media/2025_Ettappe-05/20250508_100731.jpg)
 
-**Gottes Schöpfung, gepflegt von Menschenhand**
+- **Gottes Schöpfung, gepflegt von Menschenhand**
 Kleine Oasen inmitten der Zivilisation
+
 ![](media/2025_Ettappe-05/20250508_100823.jpg)
 
-**La creación de Dios, cuidada por la mano del ser humano**
+- **La creación de Dios, cuidada por la mano del ser humano**
 Pequeños oasis en medio de la civilización
+
 ![](media/2025_Ettappe-05/20250508_100757.jpg)
 
-## →
-
-🔁 [2023_2025_Camino-del-Salvador_Etappen](2023_2025_Camino-del-Salvador_Etappen.md)
-
-↪ [2023_2025_Camino-del-Salvador](2023_2025_Camino-del-Salvador.md)
-
-
 ---
-# Iter Sancti Salvatoris: Narratio Creationis Meae
+
+🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
+
+↪ [Camino-del-Salvador](Camino-del-Salvador.md)
+
+ ...→
+ 
+---
+## Iter Sancti Salvatoris: Narratio Creationis Meae
 
 ### 🇩🇪 In sechs Tagen schuf Gott die Welt
 Ich habe den Weg des Erlösers bereits zweimal zurückgelegt. Das erste Mal in 7 Tagen, das zweite Mal in 5 Tagen. Abschließend möchte ich diese Erfahrung mit der Schöpfungsgeschichte in Verbindung bringen, da der Weg des Erlösers von allen Wegen diese Geschichte am besten verkörpert.
@@ -86,7 +94,7 @@ Ich habe den Weg des Erlösers bereits zweimal zurückgelegt. Das erste Mal in 7
 Genau so viele Tage hatten wir für meinen zweiten Durchlauf ursprünglich auch geplant. Es sind die sechs Tage, die man sich für diesen unglaublichen Weg eigentlich nehmen sollte. Doch aufgrund von menschengemachten Terminen mussten wir die Reise auf fünf Tage verkürzen – deshalb mussten wir einen Teil dieser unglaublichen Strecke etwas schneller zurücklegen.
 
 ### Am siebten Tag, Gott ruht sich aus und macht diesen Tag zu einem heiligen Tag.
-Um betracht was er geschaffen hat.
+***Und betracht was Er geschaffen hat.***
 
 ---
 ### 🇪🇸 En seis días, Dios creó el mundo
@@ -107,7 +115,7 @@ Dios descansa y hace de este día un día santo.
 Y contempla lo que ha creado.
 
 ### El séptimo día, Dios descansa y hace de este día un día santo.
-Y contempla lo que ha creado.
+***Y contempla lo que ha Creado.***
 
 ---
 ### 🇵🇹  Em seis dias, Deus criou o mundo
@@ -125,7 +133,7 @@ Já percorri o Caminho do Salvador duas vezes. A primeira vez em 7 dias, a segun
 Era exatamente esse o número de dias que tínhamos planeado inicialmente, e é exatamente esse o número de dias que se deve prever para o Caminho de Salvador. Tivemos de encurtar a caminhada para cinco dias devido a outros compromissos, razão pela qual  fomos obrigados a percorrer uma parte deste percurso incrível um pouco mais depressa.
 
 ### No sétimo dia, Deus descansa e faz deste dia um dia santo.
-E contempla o que criou.
+**E contempla o que Criou.**
 
 ---
 ### 🇬🇧  In six days, God created the world
@@ -142,9 +150,47 @@ I have already completed the Path of the Saviour twice. The first time in 7 days
 Is that a coincidence?
 That’s exactly how many days we’d originally planned, and that’s exactly how many days you should allow for the Camino del Salvador. We’ve shortened the walk to five days due to other commitments, so we had to cover part of this incredible route a little more quickly.
 ### On the seventh day, God rests and makes this day a holy day.
-And He contemplates what He has created.
+**And He contemplates what He has created.**
 
 ---
-# 🌐
+# 🌍 
   ![](media/2025_Etappe-03/20250506_090019c.jpg)
 
+좋은 여행 되세요!   ⁘  Bun viadi!   ⁘ Guten Weg!   ⁘ Hyvää matkaa!   ⁘Jó utat!   ⁘رحلة موفقة  ⁘
+Buon Cammino!   ⁘   İyi yolculuklar!   ⁘God rejse!   ⁘  よい旅を！   ⁘  God tur!   ⁘   Bo Camiño! ⁘
+Good Camino!   ⁘  Magandang paglalakbay!   ⁘Goede reis!   ⁘   Bon viatge!   ⁘  Drum bun! ⁘
+Chúc thượng lộ bình an!   ⁘ Bon Chemin!   ⁘一路順風   ⁘   Bom Caminho!   ⁘   Bon Camín! ⁘
+一路顺风   ⁘  שיהיה לך מסע טוב   ⁘   Счастливого пути!   ⁘   Selamat jalan!   ⁘  शुभ यात्रा!   ⁘ 
+ভাল যাত্রা!   ⁘   Καλό δρόμο!   ⁘   Šťastnú cestu!   ⁘   Счастливого пути!   ⁘   Szczęśliwej drogi!   ⁘Доброго шляху!   ⁘   Selamat jalan!   
+
+ 👣¡Buen Camino!
+
+
+
+  
+
+  
+  
+
+ 
+  
+  
+ 
+  
+ 
+  
+  
+  
+ 
+  
+  
+
+
+
+  
+
+  
+ 
+
+
+ 

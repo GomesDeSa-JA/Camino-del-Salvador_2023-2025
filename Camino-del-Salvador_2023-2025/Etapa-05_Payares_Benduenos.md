@@ -4,6 +4,7 @@
 ### Etappe_05: Payares → Bendueños
 01 Mai 2023
 #### So begann der Tag 
+
 ![](media/2023_Etappe-05/20230501_090344c.jpg)
 
 ![](media/2023_Etappe-05/20230501_094840c.jpg)
@@ -52,8 +53,6 @@ That morning, however, I felt very well and trusted my gut feeling, so I did not
 When I walked this trail again with Roze two years later, this difficult section had been improved a little despite the warnings, even though it remains hard to navigate. Since there were two of us and we could help each other, it was much easier for us this time.
 
 ---
-
-
 #### Da drüben in der Kurve muss man sich entscheiden 
 
 ![](media/2023_Etappe-05/20230501_111234c1.jpg)
@@ -84,13 +83,18 @@ When I walked this trail again with Roze two years later, this difficult section
 ![](media/2023_Etappe-05/20230501_171614c1.jpg)
 #### «Bienvenidos, peregrinos» en el Albergue parroquial Virgen de Bendueños
 , así nos recibieron
+
 ![](media/2023_Etappe-05/20230501_173503c1.jpg)
+
 - „Herzlich willkommen, Pilger“, so wurden wir empfangen
 - «Sejam muito bem-vindos, peregrinos», foi assim que fomos recebidos
 - “A warm welcome, pilgrims” – that’s how we were greeted.
+
 ![](media/2023_Etappe-05/20230501_182310c1.jpg)
+
 - Vamos começar a nos acomodar ⁘ Lasst uns es uns gemütlich machen
 - Empecemos a acomodarnos ⁘  Let’s make ourselves comfortable
+
 ![](media/2023_Etappe-05/20230501_182319c1.jpg)
 ##### Uma estadia perfeita ⁘ Ein perfekter Aufenthalt ⁘ A perfect stay ⁘ Una estancia perfecta
 
@@ -108,7 +112,9 @@ Después de ponernos cómodos, Sandra llegó con un delicioso guiso / cocido. De
 After we had settled in and made ourselves comfortable, Sandra arrived with a delicious stew. After staying in this wonderful accommodation, I honestly wasn't expecting anything more. It is truly a wonderful place to recharge your energy for the next stage of the journey.
 #### Un lugar de silencio, paz y recogimiento
 Si la iglesia está cerrada, pregúntale a Sandra; ella tiene la llave.
+
 ![](media/2023_Etappe-05/20230501_201722c22.jpg)
+
 - Ein Ort der Stille. Zum Innehalten. Zum Kraftschöpfen
 	Sollte die Kirche geschlossen sein, frag einfach Sandra – sie hat den Schlüssel.
 	
@@ -119,13 +125,16 @@ Si la iglesia está cerrada, pregúntale a Sandra; ella tiene la llave.
 	Se a igreja estiver fechada, basta perguntar à Sandra — ela tem a chave.
 
 ---
-# →
 
-🔁 [2023_2025_Camino-del-Salvador_Etappen](2023_2025_Camino-del-Salvador_Etappen.md)
+🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
-↪ [2023_Etappe-06_Benduenos_Mieres](2023_Etappe-06_Benduenos_Mieres.md)
+↪ [Etapa-06_Benduenos_Mieres](Etapa-06_Benduenos_Mieres.md)
 
+---
 
+_좋은 길 되세요_ (jo-eun gil doeseyo) 
+
+...→
 
 
 

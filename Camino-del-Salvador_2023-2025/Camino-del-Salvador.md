@@ -1,14 +1,26 @@
 # Camino del Salvador
 
-- [[#🇩🇪 Mein Weg 2023 ⁘ 2025]] ⁘  [[#🇵🇹 Meu caminho em 2023 ⁘ 2025]]
+ [🇩🇪 Mein Weg 2023 ⁘ 2025](#Mein_Weg_2023_2025)  ✦  [🇵🇹 Meu caminho em 2023 ⁘ 2025](#Meu_Caminho_2023_2025)
 
-- [[#🇪🇸 Mi camino en 2023 ⁘ 2025]] ⁘  [[#🇬🇧 My Path 2023 ⁘ 2025]]
+[🇬🇧  My Path 2023 ⁘ 2025](#My_Path_2023_2025)   ✦  [🇪🇸 Mi camino en 2023 ⁘ 2025](#Mi_Camino_2023_2025)
+
+Top
+
+## Readme
+
+🇩🇪 Meine persönliche Wanderung auf dem **Camino del Salvador** "Weg des Erlösers". Sie sollen als Anregung dienen, diesen wunderbaren Weg zu beschreiten, und erheben weder den Anspruch auf Vollständigkeit noch auf Aktualität. Ich freue mich, wenn sie auch anderen Menschen als Anregung dienen.
+
+🇵🇹 A minha peregrinação pessoal no **Caminho do Salvador**. Estas reflexões pretendem servir de incentivo para percorrer este caminho maravilhoso e não pretendem ser exaustivas nem estar atualizadas. Ficarei contente se também servirem de inspiração para outras pessoas. 
+
+🇬🇧 My personal journey along the **Camino del Salvador** "Path of the Saviour". These accounts are intended to inspire others to set out on this wonderful path, and do not claim to be either exhaustive or up to date. I would be delighted if they served as inspiration to others as well. 
+
+🇪🇸 Mi recorrido personal por el **Camino del Salvador**. Mi intención es que sirva de inspiración para recorrer este maravilloso camino, sin pretender que sea exhaustivo ni que refleje la situación actual. Me alegraría que también sirviera de inspiración para otras personas.
 
 ---
-## 🇩🇪 Mein Weg 2023 ⁘  2025 
+## Mein_Weg_2023_2025 
 
 Wie der unvollendete Camino del Norte mich zum Camino del Salvador führte
-#### _„Wer nach Santiago geht und den Salvador nicht besucht, ehrt den Diener und vergisst den Herrn.“_
+#### 🇩🇪  _„Wer nach Santiago geht und den Salvador nicht besucht, ehrt den Diener und vergisst den Herrn.“_
 
 Und daraus entstand die Frage: Wie komme ich dorthin?
 
@@ -54,11 +66,15 @@ Eine gute Ausrüstung, insbesondere geeignetes Schuhwerk, ist in solchen Situati
 Trotzdem habe ich fest vor, diesen Weg noch einmal zu gehen. Die Erfahrungen, die ich bei meinen beiden Begehungen gemacht habe, hätten unterschiedlicher kaum sein können. Auf diese Kontraste werde ich bei der Beschreibung der einzelnen Etappen und meiner persönlichen Erfahrungen noch ausführlicher eingehen.
 
 ---
+🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
-## 🇬🇧 My Path 2023 ⁘ 2025
+↪ [Camino-del-Salvador_Erfahrung](Camino-del-Salvador_Erfahrung.md)
+
+---
+## My_Path_2023_2025
 
 How the unfinished Camino del Norte led me to the Camino del Salvador
-#### _"Whoever goes to Santiago and does not visit the Savior, honors the servant and forgets the Lord."_
+#### 🇬🇧  _" Whoever goes to Santiago and does not visit the Savior, honors the servant and forgets the Lord."_
 
 And from that came the question: How do I get there?
 
@@ -103,10 +119,15 @@ Good equipment, especially suitable footwear, is essential in such conditions. E
 Despite this, I fully intend to walk this route again. The experiences I had on my two journeys could hardly have been more different. I will discuss those contrasts in greater detail when describing the individual stages and my experiences on each of them.
 
 ---
-## 🇵🇹 Meu caminho em 2023 ⁘ 2025
+🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
+
+↪ [Camino-del-Salvador_Erfahrung](Camino-del-Salvador_Erfahrung.md)
+
+---
+## Meu_Caminho_2023_2025
 
 Como o Camino del Norte inacabado me levou ao Camino del Salvador
-#### _«Quem vai a Santiago e não visita o Salvador, honra o servo e esquece o Senhor.»_
+#### 🇵🇹 _«Quem vai a Santiago e não visita o Salvador, honra o servo e esquece o Senhor.»_
 
 E daí surgiu a pergunta: como chegar até lá?
 
@@ -151,11 +172,16 @@ Um bom equipamento, especialmente calçado adequado, é indispensável nestas si
 Mesmo assim, pretendo voltar a fazer este caminho. As experiências que vivi nas duas ocasiões não poderiam ter sido mais diferentes. Falarei desses contrastes quando descrever as etapas e as experiências vividas em cada uma delas.
 
 ---
+🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
-## 🇪🇸 Mi camino en 2023 ⁘ 2025
+↪ [Camino-del-Salvador_Erfahrung](Camino-del-Salvador_Erfahrung.md)
+
+---
+
+## Mi_Camino_2023_2025
 
 Cómo el Camino del Norte, aún sin terminar, me llevó al Camino del Salvador
-#### _«Quien va a Santiago y no visita a Salvador, honra al siervo y se olvida del Señor»._
+#### 🇪🇸 _«Quien va a Santiago y no visita a Salvador, honra al siervo y se olvida del Señor»._
 
 Y ahí surgió la pregunta: ¿cómo llegar hasta allí?
 
@@ -201,11 +227,11 @@ Aun así, tengo intención de volver a recorrer este camino. Las experiencias qu
 
 ---
 
-# →
+🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
-🔁 [2023_2025_Camino-del-Salvador_Etappen](2023_2025_Camino-del-Salvador_Etappen.md)
-
-↪ [2023_2025_Camino-del-Salvador_Erfahrung](2023_2025_Camino-del-Salvador_Erfahrung.md)
+↪ [Camino-del-Salvador_Erfahrung](Camino-del-Salvador_Erfahrung.md)
 
 ---
 👣 _Bom Caminho !_
+
+ ...→

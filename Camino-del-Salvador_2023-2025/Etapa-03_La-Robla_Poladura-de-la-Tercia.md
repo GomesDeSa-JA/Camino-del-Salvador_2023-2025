@@ -2,6 +2,7 @@
 ### Etappe_03:  La Robla → Poladura de la Tercia
 29 April 2023
 #### 13 Portugiesen, eine eingeschworene Gemeinschaft 
+
 ![](media/2023_Etappe-03/20230429_073624.jpg)
 
 🇵🇹 Há anos que fazem peregrinações juntos; só isso já é algo especial
@@ -15,6 +16,7 @@
 ---
 #### 🇵🇹 O grupo seguiu em frente, 
 eu fiquei para trás; os meus pés pareciam, de alguma forma, pesados neste caminho
+
 ![](media/2023_Etappe-03/20230429_083117.jpg)
 
 🇩🇪 Die Gruppe gingen weiter, ich ließe mich zurück fallen, meine Füsse waren irgendwie schwer auf diesen Weg.
@@ -25,6 +27,7 @@ eu fiquei para trás; os meus pés pareciam, de alguma forma, pesados neste cami
 
 ---
 #### 🇬🇧 A link to the world
+
 ![](media/2023_Etappe-03/20230429_090525.jpg)
 
 Even when you’re deep in the mountains, you can stay in touch with the world for free thanks to state-of-the-art communication systems. 
@@ -40,6 +43,7 @@ Mesmo estando no meio das montanhas, é possível manter-se em contacto com o mu
 
 ---
 #### Transhumancia 
+
 ![](media/2023_Etappe-03/20230429_093729.jpg)
 ##### 🇪🇸 Transhumancia o pastoreo migratorio
 **Un recuerdo de tiempos pasados.** 
@@ -84,18 +88,25 @@ Antigamente, este caminho era mais do que apenas um percurso espiritual e de cam
 ---
 #### Ein Wolf beobachtet uns.
 Schau in die Ferne, nach links, auf den Felsvorsprung dort oben; bleib auf dem Weg, dann wird dir nichts passieren.
+
 ![](media/2023_Etappe-03/20230429_110116.jpg)
 
-Im Jahr 2025 haben wir die Gefahr nicht bemerkt; der Poncho hat uns die Sicht versperrt.
+Im Jahr 2025 haben wir die Gefahr nicht bemerkt; die Regentropfen haben uns abgelenkt.
 
 🇵🇹 Um lobo está a observar-nos.
 Olha para longe, para a esquerda, para o saliente rochoso lá em cima; mantém-te no caminho e nada acontecerá.
 
+Em 2025, não nos demos conta do perigo; as gotas de chuva distraíram-nos.
+
 🇬🇧 A wolf is watching us.
 Look into the distance, to the left, at the rocky outcrop up there; stay on the path, and nothing will happen.
 
+In 2025, we didn’t realise the danger; the raindrops distracted us.
+
 🇪🇸 Un lobo nos está observando.
 Mira a lo lejos, a la izquierda, hacia ese saliente rocoso de ahí arriba; no te salgas del camino y no pasará nada.
+
+En el año 2025 no nos dimos cuenta del peligro; las gotas de lluvia nos distrajeron.
 
 ---
 #### 🇪🇸 Buiza
@@ -113,38 +124,42 @@ A place where I would have liked to stay a little longer, but I’d arrived far 
 
 ---
 #### 🇩🇪 Der vergessene Weg nach Santiago
-Kaum hatte ich begonnen, diesen Weg zu gehen, wurde schon meine Neugier auf einen neuen geweckt. Es gibt so viel zu entdecken. Wer weiß, aber mir läuft die Zeit davon
+Kaum hatte ich begonnen, diesen Weg zu gehen, wurde schon meine Neugier auf einen neuen geweckt. Es gibt so viel zu entdecken. Wer weiß, aber mir läuft die Zeit davon.
+
 ![](media/2023_Etappe-03/20230429_111806.jpg)
 
 🇬🇧 The Forgotten Way to Santiago
-No sooner had I set out on this path than my curiosity was piqued by a new one. There’s so much to discover. Who knows – but time is running out for me
+No sooner had I set out on this path than my curiosity was piqued by a new one. There’s so much to discover. Who knows – but time is running out for me.
 
 🇪🇸 Camino Olvidado a Santigo
 Apenas había empezado a recorrer este camino cuando ya se había despertado mi curiosidad por uno nuevo. Hay tanto por descubrir. Quién sabe, pero se me acaba el tiempo.
 
 🇵🇹 Caminho Esquecido a Santiago
-Mal tinha começado a caminhar este caminho e já me despertaram a curiosidade por um novo. Há tanto para descobrir. Quem sabe, mas o tempo está a esgotar-se-me  
+Mal tinha começado a caminhar este caminho e já me despertaram a curiosidade por um novo. Há tanto para descobrir. Quem sabe, mas o tempo está a esgotar-se-me.  
 
 ---
 #### 🇩🇪 Die Bilder sprechen für sich.
 Das lässt sich nicht in Worte fassen.
+
 ![](media/2023_Etappe-03/20230429_115830.jpg)
 
 ![](media/2023_Etappe-03/20230429_121454.jpg)
 
 🇪🇸  Las imágenes hablan por sí solas.
 No se puede explicar con palabras.
+
 ![](media/2023_Etappe-03/20230429_122212c.jpg)
 
-![](media/2023_Etappe-03/20230429_130625c.jpg)
-
+>![](media/2023_Etappe-03/20230429_130625c.jpg)
 
 🇵🇹  As imagens falam por si.
 Não se consegue explicar com palavras.
+
 ![](media/2023_Etappe-03/20230429_130756c.jpg)
 
 🇬🇧  The pictures speak for themselves.
 It’s impossible to put into words.
+
 ![](media/2023_Etappe-03/20230429_142414c.jpg)
 
 ![](media/2023_Etappe-03/20230429_143726c.jpg)
@@ -166,6 +181,7 @@ Anschließend ging ich in die Bar und gönnte mir zwei kleine Bier à 0,3 Liter.
 
 Als ich zwei Jahre später mit Roze wieder dort war, wollte ich diese Köstlichkeit noch einmal zubereiten. Doch wir waren zu müde, um noch einmal zum Flussufer zu gehen und Brennnesseln zu sammeln. Für den Caminho de Salvador hatte ich mir im Jahr 2023 sieben Tage Zeit genommen; 2025 blieben uns für dieselbe Strecke nur noch fünf Tage.
 
+---
 ##### 🇵🇹 A chegada
 
 No final desta etapa, cheguei finalmente a Poladura de la Tercia. Fui o último peregrino a chegar e todas as camas já estavam ocupadas. Disse então que ficaria satisfeito até com um pequeno espaço debaixo de uma mesa, em qualquer canto do albergue. O casal responsável pediu-me que descansasse um pouco, pois encontrariam uma solução.
@@ -181,6 +197,8 @@ Para mim, estava deliciosa. E, como costumamos dizer: **"Na montanha, tudo sabe 
 Mais tarde fui ao bar e ofereci-me duas cervejas pequenas de 0,3 litros. Em Espanha e Portugal, esse é o tamanho habitual, enquanto na Alemanha é uma medida pouco comum.
 
 Quando voltei ali dois anos depois com a Roze, queria preparar novamente esta iguaria. Mas estávamos demasiado cansados para voltar à margem do rio apanhar urtigas. Em 2023 reservei sete dias para percorrer o Caminho de Salvador; em 2025 restavam-nos apenas cinco dias para fazer o mesmo percurso.
+
+---
 ##### 🇪🇸 La llegada
 
 Al final de esta etapa llegué por fin a Poladura de la Tercia. Fui el último peregrino en llegar y todas las camas ya estaban ocupadas. Así que dije que me conformaría incluso con un pequeño rincón debajo de una mesa, en cualquier parte del albergue. Los hospitaleros me pidieron que descansara un poco mientras encontraban una solución.
@@ -197,6 +215,7 @@ Después fui al bar y me tomé dos cervezas pequeñas de 0,3 litros. En España 
 
 Cuando regresé dos años después con Roze, quise preparar de nuevo esta delicia. Sin embargo, estábamos demasiado cansados para volver hasta la orilla del río a recoger ortigas. En 2023 había reservado siete días para recorrer el Caminho de Salvador; en 2025 solo nos quedaban cinco días para realizar el mismo recorrido.
 
+---
 ##### 🇬🇧 The arrival
 
 At the end of this stage, I finally arrived in Poladura de la Tercia. I was the last pilgrim to arrive, and all the beds were already taken. So I said I would be happy with a small space under a table somewhere in the hostel. The couple who ran the hostel told me to get some rest while they looked for a solution.
@@ -213,12 +232,15 @@ Later, I went to the bar and treated myself to two small beers (0.3 litres each)
 
 When I returned two years later with Roze, I wanted to prepare this delicacy again. However, we were too tired to walk back to the riverbank to collect nettles. In 2023, I had set aside seven days for the Caminho de Salvador, but in 2025 we had only five days available to cover the same route.
 
+---
+
+🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
+
+↪ [Etapa-04_Poladura-de-la-Tercia_Payares](Etapa-04_Poladura-de-la-Tercia_Payares.md)
 
 ---
-# →
 
-🔁 [2023_2025_Camino-del-Salvador_Etappen](2023_2025_Camino-del-Salvador_Etappen.md)
-
-↪ [2023_Etappe-04_Poladura-de-la-Tercia_Payares](2023_Etappe-04_Poladura-de-la-Tercia_Payares.md)
-
----
+ _Bon Chemin_  
+ 
+ ...→
+ 

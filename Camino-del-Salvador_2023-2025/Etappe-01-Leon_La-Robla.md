@@ -2,7 +2,7 @@
 ***"Ob du eilst oder langsam gehst, der Weg vor dir bleibt derselbe."*** 
 Aus China
 
-> [!quote]- Ultreia et Suseia
+> [!quote] Ultreia et Suseia
 > 
 > >That is the question
 > That's open to debate, and everyone will have a different opinion.
@@ -18,6 +18,7 @@ Aus China
 > 
 >![224](media/IwiekDanD.png)
 >
+
 ## Camino del Salvador 2025 
 
 > _Der Camino del Salvador begann für uns einen Tag später als geplant. Ein Gerichtstermin in Sintra hatte unsere sorgfältig vorbereitete Planung durcheinander gebracht. Trotzdem standen wir nun in León – voller Vorfreude auf einen Weg, von dem ich  sagen kann, dass er einer der schönsten Spaniens ist._
@@ -29,23 +30,29 @@ Distanz:** 27,2 km ✦ ↑ 356 m |↓ 240 m  ✦  ca. 7 h
 
 ---
 #### 🇬🇧 We have a long journey ahead of us
+
 ![](media/2025_Etappe-01/20250504_060302.jpg)
 
 - Eine lange Etappe steht uns bevor
 - Temos uma longa etapa pela frente
 -  Nos espera una etapa larga
-#### 🇩🇪Noch bevor wir den Pilgerweg angefangen haben, wurde unsere Motivation getestet. 
+#### 🇩🇪 Noch bevor wir den Pilgerweg angefangen haben, wurde unsere Motivation getestet. 
+
 ![](media/2025_Etappe-01/20250504_063628c.jpg)
 
 🇵🇹 Ainda antes de iniciarmos o caminho de peregrinação, a nossa motivação foi posta à prova.
 🇬🇧 Even before we set out on our pilgrimage, our determination was put to the test.
 🇪🇸 Aún antes de emprender el camino de peregrinación, nuestra motivación se puso a prueba.
 
-#### 🇵🇹 Apesar disso, não é motivo para parar, vai ser um belo percurso
+#### 🇵🇹 Apesar disso, não é motivo para parar, vai ser um belo percurso.
+
 ![](media/2025_Etappe-01/20250504_094234c%20.jpg)
+
 🇩🇪 Trotzdem ist das kein Grund, stehen zu bleiben – es wird eine schöne Wanderung werden.
-🇵🇹 A pesar de ello, no es motivo para parar, va a ser un recorrido precioso
-🇬🇧 Despite that, it’s no reason to stop – it’s going to be a lovely walk
+
+🇵🇹 A pesar de ello, no es motivo para parar, va a ser un recorrido precioso.
+
+🇬🇧 Despite that, it’s no reason to stop – it’s going to be a lovely walk.
 
 ![](media/2025_Etappe-01/20250504_100151c.jpg)
 
@@ -57,6 +64,7 @@ Seid herzlich willkommen, Pilger
 
 Allein hütete er die Kuhherde; er sah uns, kam respektvoll auf uns zu und begrüßte uns freundlich. 
 Ich wünschte, er hätte uns den ganzen Weg begleitet. Das ging jedoch nicht, er musste zurückkehren, denn er konnte die Herde nicht schutzlos den Wölfen überlassen.
+
 ![](media/2025_Etappe-01/20250504_120551c.jpg)
 
 🇵🇹 **Que alegria!**
@@ -78,8 +86,10 @@ Estaba solo cuidando el rebaño de vacas. Al vernos, se acercó a nosotros con r
 ---
 ### Es wird sonnig  ⁘ Vai estar sol
 It’s going to be sunny ⁘ Va a hacer sol
+
 ![](media/2025_Etappe-01/20250504_121048c.jpg)
 #### Das Wetter scheint uns motivieren zu wollen, denn wir haben noch ein paar Meter vor uns.
+
 ![](media/2025_Etappe-01/20250504_122144.jpg)
 
 - O tempo parece querer motivar-nos, pois ainda temos alguns metros para percorrer.
@@ -91,12 +101,16 @@ It’s going to be sunny ⁘ Va a hacer sol
 - Es gibt noch mehr Fotos von diesem Tag – wo sind sie denn?
 
 ---
-# →
 
-🔁 [2023_2025_Camino-del-Salvador_Etappen](2023_2025_Camino-del-Salvador_Etappen.md)
+🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
-↪ [2025_Etappe-02_La-Robla_Poladura-de-la-Tercia](2025_Etappe-02_La-Robla_Poladura-de-la-Tercia.md)
+↪ [Etappe-02_La-Robla_Poladura-de-la-Tercia](Etappe-02_La-Robla_Poladura-de-la-Tercia.md)
 
 ---
-
+  
+  _良い旅を_ (yoi tabi o)  
+  
+  _良い道を_ (yoi michi o) 
+  
+ ...→
 
