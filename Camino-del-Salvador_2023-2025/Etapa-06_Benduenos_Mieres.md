@@ -6,8 +6,10 @@
 
 ![](media/2023_Etappe-06/20230502_094254c.jpg)
 #### No te pases el desvío a la derecha
-Die Abzweigung nach rechts nicht verpassen
-Não perder o desvio para a direita
+Die Abzweigung nach rechts nicht verpassen 
+⁘ 
+Não perder o desvio para a direita 
+⁘  
 Don’t miss the turn-off to the right
 
 ![](media/2023_Etappe-06/20230502_095223c.jpg)
@@ -21,7 +23,7 @@ Don’t miss the turn-off to the right
 
 ![](media/2023_Etappe-06/20230502_111623c.jpg)
 
-Zwei Bekannte vom vergangenen Nachmittag ⁘ Dos conocidos de la tarde de ayer
+Zwei Bekannte vom vergangenen Nachmittag ⁘ Dos conocidos de la tarde de ayer ⁘ 
 Two people I met yesterday afternoon ⁘ Dois conhecidos da tarde de ontem
 #### Eine kleine Pause, um neue Energie zu tanken,
 denn bis Mieres ist es noch ein kleines Stückchen

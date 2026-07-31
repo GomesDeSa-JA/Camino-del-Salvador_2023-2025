@@ -3,11 +3,15 @@
 
 ### Etappe_05: Payares → Bendueños
 01 Mai 2023
-#### So begann der Tag 
+#### Así empezó el día So begann der Tag 
 
 ![](media/2023_Etappe-05/20230501_090344c.jpg)
 
+- That’s how the day began
+
 ![](media/2023_Etappe-05/20230501_094840c.jpg)
+
+- Assim começou o dia 
 
 ![](media/2023_Etappe-05/20230501_105610c.jpg)
 
@@ -20,7 +24,7 @@
 ![](media/2023_Etappe-05/20230501_111129c1.jpg)
 
 ##### 🇩🇪 Ein wunderbarer Tag
-Am Abend zuvor hatte ich gut zu Abend gegessen und gut geschlafen. An diesem Morgen genoss ich einfach den Augenblick und dachte mir, so könnte jeder Tag beginnen – als mich eine Stimme mit den Worten „Guten Morgen“ ansprach. Es war ein älterer Herr, der gerade seinen morgendlichen Spaziergang in Llanos de Somerón machte. Nachdem wir gemeinsam diesen wunderbaren Tag gelobt hatten, riet er mir, der Straße bis ins Tal zu folgen, da dies sicherer sei. Zudem fügte er hinzu, dass der Weg, der am Berghang parallel zum Tal verläuft, an einigen Stellen sehr schwierig oder sogar unpassierbar sein könnte.
+Am Abend zuvor hatte ich gut zu Abend gegessen und gut geschlafen. An diesem Morgen genoss ich einfach den Augenblick und dachte mir, so könnte jeder Tag beginnen – als mich eine Stimme mit den Worten **„Buenos días“** ansprach. Es war ein älterer Herr, der gerade seinen morgendlichen Spaziergang in Llanos de Somerón machte. Nachdem wir gemeinsam diesen wunderbaren Tag gelobt hatten, riet er mir, der Straße bis ins Tal zu folgen, da dies sicherer sei. Zudem fügte er hinzu, dass der Weg, der am Berghang parallel zum Tal verläuft, an einigen Stellen sehr schwierig oder sogar unpassierbar sein könnte.
 
 An diesem Morgen fühlte ich mich jedoch sehr wohl und vertraute meinem Bauchgefühl, also folgte ich seinem Rat nicht. Ich hätte es mir nie verziehen, wenn ich diesen wunderschönen Abschnitt nicht gegangen wäre. Der ältere Herr hatte allerdings recht: Auf einem etwa 50 Meter langen Stück musste ich meine Hände benutzen, um sicher voranzukommen. Während dieser gesamten Passage waren mir meine wertvollen Wanderstöcke im Weg, da ich meine Hände frei haben musste. Deshalb ist es im Grunde ratsam, seinem Rat zu folgen.
 
@@ -28,7 +32,7 @@ Als ich zwei Jahre später mit Roze diesen Weg erneut ging, hatte man diesen sch
 
 ---
 ##### 🇵🇹 Um dia maravilhoso
-Na noite anterior eu tinha jantado bem e dormido bem. Naquela manhã, eu estava apenas aproveitando o momento e pensando que todo dia poderia começar assim, quando uma voz me cumprimentou com um "Bom dia". Era um senhor idoso que fazia sua caminhada matinal em Llanos de Somerón. Depois de elogiarmos juntos aquele dia maravilhoso, ele me aconselhou a seguir pela estrada até o vale, pois seria mais seguro. Além disso, acrescentou que a trilha que corre pela encosta da montanha, paralela ao vale, poderia ser muito difícil ou até intransitável em alguns pontos.
+Na noite anterior eu tinha jantado bem e dormido bem. Naquela manhã, eu estava apenas aproveitando o momento e pensando que todo dia poderia começar assim, quando uma voz me cumprimentou com um **„Buenos días“**. Era um senhor idoso que fazia sua caminhada matinal em Llanos de Somerón. Depois de elogiarmos juntos aquele dia maravilhoso, ele me aconselhou a seguir pela estrada até o vale, pois seria mais seguro. Além disso, acrescentou que a trilha que corre pela encosta da montanha, paralela ao vale, poderia ser muito difícil ou até intransitável em alguns pontos.
 
 Naquela manhã, porém, eu me sentia muito bem e confiei na minha intuição, por isso não segui o conselho dele. Eu nunca teria me perdoado se não tivesse percorrido esse trecho tão lindo. Mas o senhor idoso tinha razão: em um trecho de cerca de 50 metros, precisei usar as mãos para avançar com segurança. Durante toda essa passagem, meus valiosos bastões de caminhada só me atrapalharam, pois eu precisava das mãos livres. Por isso, no fundo, é recomendável seguir o conselho dele.
 
@@ -37,7 +41,7 @@ Quando voltei a fazer essa trilha com a Roze, dois anos depois, tinham melhorado
 ---
 ##### 🇪🇸 Un día maravilloso
 
-La noche anterior había cenado bien y dormido bien. Aquella mañana simplemente disfrutaba del momento e imaginaba que ojalá todos los días empezaran así, quando una voz me saludó com un "Buenos días". Era un señor mayor que estaba dando su paseo matutino por Llanos de Somerón. Tras elogiar juntos aquel día tan maravilloso, me aconsejó que siguiera por la carretera hasta el valle, ya que era más seguro. Además, añadió que el sendero que discurre por la ladera de la montaña en paralelo al valle podía ser muy difícil o incluso estar intransitable en algunos tramos.
+La noche anterior había cenado bien y dormido bien. Aquella mañana simplemente disfrutaba del momento e imaginaba que ojalá todos los días empezaran así, quando una voz me saludó com un **"Buenos días"**. Era un señor mayor que estaba dando su paseo matutino por Llanos de Somerón. Tras elogiar juntos aquel día tan maravilloso, me aconsejó que siguiera por la carretera hasta el valle, ya que era más seguro. Además, añadió que el sendero que discurre por la ladera de la montaña en paralelo al valle podía ser muy difícil o incluso estar intransitable en algunos tramos.
 
 Sin embargo, aquella mañana me sentía muy bien y confié en mi instinto, por lo que no seguí su consejo. Jamás me lo hubiera perdonado si no hubiese recorrido este tramo tan hermoso. Pero el señor mayor tenía razón: en un tramo de unos 50 metros tuve que usar las manos para avanzar con seguridad. Durante todo ese paso, mis valiosos bastones de senderismo me estorbaron, ya que necesitaba tener las manos libres. Por eso, en el fondo, lo más recomendable es seguir su consejo.
 
@@ -46,7 +50,7 @@ Cuando volví a recorrer este sendero con Roze dos años después, habían mejor
 ---
 ##### 🇬🇧 A wonderful day
 
-The night before, I had eaten a good dinner and slept well. That morning, I was simply enjoying the moment and thinking that every day should start like this, when a voice greeted me with a "Good morning." It was an elderly gentleman who was out for his morning walk in Llanos de Somerón. After we both praised the wonderful day, he advised me to follow the road down into the valley, as it was safer. He added that the trail running along the mountainside parallel to the valley could be very difficult or even impassable in some places.
+The night before, I had eaten a good dinner and slept well. That morning, I was simply enjoying the moment and thinking that every day should start like this, when a voice greeted me with a **„Buenos días“**.  It was an elderly gentleman who was out for his morning walk in Llanos de Somerón. After we both praised the wonderful day, he advised me to follow the road down into the valley, as it was safer. He added that the trail running along the mountainside parallel to the valley could be very difficult or even impassable in some places.
 
 That morning, however, I felt very well and trusted my gut feeling, so I did not follow his advice. I would never have forgiven myself if I hadn't walked this beautiful section. But the elderly gentleman was right: on a stretch of about 50 meters, I had to use my hands to move forward safely. Throughout this entire passage, my valuable trekking poles were just in the way, as I needed my hands free. Therefore, it is actually advisable to follow his counsel.
 

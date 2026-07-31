@@ -113,5 +113,17 @@ I did not disagree with her because the Camino Primitivo is undoubtedly exactly 
 ***“Sage nicht, wenn ich Zeit dazu habe, vielleicht hast du nie Zeit dazu."*** 
 ***" Wenn nicht jetzt, wann dann?“***
 Aus dem Talmud, einem der wichtigsten Schriftwerke des Judentums
+
+***«No digas “cuando tenga tiempo”, porque quizá nunca lo tengas».***
+***«Si no es ahora, ¿cuándo entonces?»***
+Del Talmud, una de las obras escritas más importantes del judaísmo
+
+***«Não digas “quando tiver tempo”, porque talvez nunca o tenhas».***
+***«Se não for agora, então quando?»***
+Do Talmude, uma das obras escritas mais importantes do judaísmo
+
+***‘Don’t say “when I have time”, because you might never have it.’***
+***‘If not now, then when?’***
+From the Talmud, one of Judaism’s most important written works
  
  ...→

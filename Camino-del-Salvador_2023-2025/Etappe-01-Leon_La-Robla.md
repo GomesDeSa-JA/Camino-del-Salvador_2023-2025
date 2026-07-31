@@ -1,23 +1,8 @@
 
-***"Ob du eilst oder langsam gehst, der Weg vor dir bleibt derselbe."*** 
-Aus China
 
-> [!quote] Ultreia et Suseia
-> 
-> >That is the question
-> That's open to debate, and everyone will have a different opinion.
-> 
->> Das ist die Frage
-> Darüber lässt sich diskutieren, und jeder wird eine andere Meinung dazu haben.
-> 
->> Esa es la cuestión
-> Esto es objeto de debate, y cada uno tendrá una opinión diferente.
-> 
->> Essa é a questão
-> Este assunto é motivo de debate, e cada um terá uma opinião diferente.
-> 
->![224](media/IwiekDanD.png)
->
+
+### 🇪🇸 Spanisch
+
 
 ## Camino del Salvador 2025 
 
@@ -26,6 +11,7 @@ Aus China
 ---
 ### Etappe 1: León – La Robla 
 Distanz:** 27,2 km ✦ ↑ 356 m |↓ 240 m  ✦  ca. 7 h 
+
 04 Mai 2025 
 
 ---

@@ -6,7 +6,7 @@
 
 ![](media/2023_Etappe-02/20230428_084251c.jpg)
 
-Sem palavras Without words Sin palabras
+Sem palavras  ⁘  Without words ⁘ Sin palabras
 
 #### 🇵🇹 Uma forma diferente de paisagismo 
  ![](media/2023_Etappe-02/20230428_105103.jpg)
@@ -52,13 +52,13 @@ En el año 2025 se me pasó por alto; el poncho ya limita la visión.
 
 ---
 
-*Un nuevo día, un nuevo camino!*
+Mañana? *Un nuevo día, un nuevo camino!*
 
- *Einer neue  Tag,  eine neue Weg!* 
+ Morgen? *Einer neue  Tag,  eine neue Weg!* 
 
-*A new day, a new path!*
+Tomorrow?  *A new day, a new path!*
 
-*Um novo dia, um novo caminho!*
+Amanhã?  *Um novo dia, um novo caminho!*
 
 ---
 

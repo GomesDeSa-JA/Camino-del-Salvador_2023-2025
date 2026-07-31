@@ -55,7 +55,7 @@ Esta caminho tem de se sentir, não se pode explicar.
  You have to experience this path; it can't be explained.
  
 ![](media/2025_Etappe-02/20250505_145923c.jpg)
- 
+
 ![](media/2025_Etappe-02/20250505_152143c.jpg)
 
 ![](media/2025_Etappe-02/20250505_155118c.jpg)
@@ -81,9 +81,18 @@ Thank you very much for the warm welcome and your kind hospitality.
 ↪[Etappe-03_Poladura-de-la-Tercia_LLanos-de-Someron](Etappe-03_Poladura-de-la-Tercia_LLanos-de-Someron.md)
 
 ---
- ***„Der Weg ist immer besser als die schönste Herberge.“***
+> ***„Der Weg ist immer besser als die schönste Herberge.“***
  Miguel de Cervantes, spanischer Schriftsteller, 1547 – 1616)
- 
+
+> _**«El camino siempre es mejor que la posada más hermosa.»**_  
+> — _Miguel de Cervantes, escritor español (1547–1616)_
+
+> _**«O caminho é sempre melhor do que a mais bela hospedaria.»**_  
+> — _Miguel de Cervantes, escritor espanhol (1547–1616)_
+
+> _**“The journey is always better than the most beautiful inn.”**_  
+> — _Miguel de Cervantes, Spanish writer (1547–1616)_
+
  ...→
 
 

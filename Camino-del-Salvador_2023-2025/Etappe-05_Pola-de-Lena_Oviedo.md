@@ -3,6 +3,39 @@
 ### Etappe_05: Pola de Lena  → Oviedo
 08 Mai 2025
 
+> [!quote]
+> 
+> 🇪🇸
+> > _**«Ya sea que vayas deprisa o despacio, el camino que tienes por delante sigue siendo el mismo.»**_  
+> > — _Proverbio chino_
+> > 
+> > **Esa es la cuestión.**  
+> > Sobre ello se puede debatir, y cada cual tendrá una opinión diferente.  
+> 
+> 🇵🇹 
+> > _**«Quer vás depressa, quer vás devagar, o caminho à tua frente continua a ser o mesmo.»**_  
+> > — _Provérbio chinês_
+> >
+> > **Essa é a questão.**  
+> > Sobre isso pode-se discutir, e cada pessoa terá uma opinião diferente.  
+> 
+> 🇩🇪
+> > _**„Ob du eilst oder langsam gehst, der Weg vor dir bleibt derselbe.“**_  
+> > — _Aus China_
+> > 
+> > **Das ist die Frage.**  
+> > Darüber lässt sich diskutieren, und jeder wird eine andere Meinung dazu haben.  
+> 
+>  🇬🇧
+> > _**“Whether you walk quickly or slowly, the road ahead remains the same.”**_  
+> > — _Chinese proverb_
+> >
+> > **That is the question.**  
+> >It is open to debate, and everyone will have a different opinion about it.  
+> 
+>- ![224](media/IwiekDanD.png)
+
+---
 
 #### 🇩🇪 Heute beginnen wir den Tag ganz anders
 - Mit einem einfachen Kaffee.

@@ -1,11 +1,12 @@
 # Camino del Salvador
 
- [🇩🇪 Mein Weg 2023 ⁘ 2025](#Mein_Weg_2023_2025)  ✦  [🇵🇹 Meu caminho em 2023 ⁘ 2025](#Meu_Caminho_2023_2025)
+[🇩🇪 Mein Weg 2023 ⁘ 2025](#Mein_Weg_2023_2025)  ✦  [🇵🇹 Meu caminho em 2023 ⁘ 2025](#Meu_Caminho_2023_2025)
 
 [🇬🇧  My Path 2023 ⁘ 2025](#My_Path_2023_2025)   ✦  [🇪🇸 Mi camino en 2023 ⁘ 2025](#Mi_Camino_2023_2025)
 
-Top
+###### Top
 
+---
 ## Readme
 
 🇩🇪 Meine persönliche Wanderung auf dem **Camino del Salvador** "Weg des Erlösers". Sie sollen als Anregung dienen, diesen wunderbaren Weg zu beschreiten, und erheben weder den Anspruch auf Vollständigkeit noch auf Aktualität. Ich freue mich, wenn sie auch anderen Menschen als Anregung dienen.
@@ -65,10 +66,14 @@ Eine gute Ausrüstung, insbesondere geeignetes Schuhwerk, ist in solchen Situati
 
 Trotzdem habe ich fest vor, diesen Weg noch einmal zu gehen. Die Erfahrungen, die ich bei meinen beiden Begehungen gemacht habe, hätten unterschiedlicher kaum sein können. Auf diese Kontraste werde ich bei der Beschreibung der einzelnen Etappen und meiner persönlichen Erfahrungen noch ausführlicher eingehen.
 
+
+
 ---
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
 ↪ [Camino-del-Salvador_Erfahrung](Camino-del-Salvador_Erfahrung.md)
+
+  **←**[Top](#Top)
 
 ---
 ## My_Path_2023_2025
@@ -123,6 +128,8 @@ Despite this, I fully intend to walk this route again. The experiences I had on 
 
 ↪ [Camino-del-Salvador_Erfahrung](Camino-del-Salvador_Erfahrung.md)
 
+  **←**[Top](#Top)
+  
 ---
 ## Meu_Caminho_2023_2025
 
@@ -176,6 +183,8 @@ Mesmo assim, pretendo voltar a fazer este caminho. As experiências que vivi nas
 
 ↪ [Camino-del-Salvador_Erfahrung](Camino-del-Salvador_Erfahrung.md)
 
+  **←**[Top](#Top)
+  
 ---
 
 ## Mi_Camino_2023_2025
@@ -229,8 +238,10 @@ Aun así, tengo intención de volver a recorrer este camino. Las experiencias qu
 
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
-↪ [Camino-del-Salvador_Erfahrung](Camino-del-Salvador_Erfahrung.md)
-
+**↪** [Camino-del-Salvador_Erfahrung](Camino-del-Salvador_Erfahrung.md)
+ 
+  **←**[Top](#Top)
+  
 ---
 👣 _Bom Caminho !_
 

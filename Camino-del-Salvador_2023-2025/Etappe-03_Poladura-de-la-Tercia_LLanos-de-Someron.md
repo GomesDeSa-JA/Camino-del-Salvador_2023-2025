@@ -15,7 +15,7 @@ Ich wusste, dass selbst dann, wenn wir es bis zum Brunnen im Dorf Bendueños sch
 
 Er war bereits seit langer Zeit unterwegs, und aufgrund dieses Umwegs über den Caminho do Salvador und, wie ich glaube, später auch über den Caminho Primitivo wollte er endlich in Santiago ankommen. Deshalb rief er in Bendueños an, um einen Schlafplatz zu reservieren und so noch einige Kilometer zu sammeln und seinem Ziel näherzukommen.
 
-Doch die Reservierung wurde von der Herberge in Bendueños abgelehnt, da man aus früheren Erfahrungen wusste, dass viele Pilger die anspruchsvollen Bergwege mit den flachen Etappen von La Mesa verwechseln.
+Doch die Reservierung wurde von der Herberge in Bendueños abgelehnt, da man aus früheren Erfahrungen wusste, dass viele Pilger die anspruchsvollen Bergwege mit den flachen Etappen von "La Meseta" verwechseln.
 
 Da ich die Herberge in Bendueños kannte, sagte ich ihm, dass er dort, falls er es bis Bendueños schaffen sollte, ganz sicher einen Schlafplatz bekommen würde.
 
@@ -26,8 +26,6 @@ Roze und ich waren froh, dass wir es bis nach Llanos de Somerón geschafft hatte
 Der französische Pilger war jung, und während wir erst seit zwei Tagen unterwegs waren, befand er sich bereits seit mehreren Monaten auf dem Jakobsweg und war deshalb deutlich besser in Form als wir.
 
 Ich hoffe, eines Tages wieder in der Herberge von Bendueños zu übernachten und den Namen dieses französischen Pilgers herauszufinden. An sein Gesicht und an unsere Gespräche erinnere ich mich noch gut – aber Namen vergesse ich leider immer.
-
-[🔁](#Top)
 
 ---
 ##### 🇵🇹 Nunca mais o vimos
@@ -86,7 +84,7 @@ I knew that even if we managed to reach the village fountain in Bendueños, ther
 
 He had already been on the road for a long time and, because of this detour along the Camino del Salvador and, I believe, later the Camino Primitivo, he was eager to finally reach Santiago. That is why he called the hostel in Bendueños to reserve a bed, hoping to cover a few more kilometres and move one step closer to his goal.
 
-However, his reservation was declined because, based on previous experience, the hostel staff knew that many pilgrims confused these demanding mountain trails with the much flatter stages of the Vía de La Mesa.
+However, his reservation was declined because, based on previous experience, the hostel staff knew that many pilgrims confused these demanding mountain trails with the much flatter stages of the Vía de "La Meseta".
 
 Since I knew the hostel in Bendueños, I told him that if he managed to get there, he would certainly be given a place to sleep.
 
@@ -196,9 +194,12 @@ This section remains difficult until shortly before Pajares. If you turn right e
 
 #### Ein Atempause für ein Foto 
 - A short break for a photo
+
+
+![](media/2025_Etappe-03/20250506_121918c.jpg)
+
 - Una pausa para una foto
 - Uma pausa para uma fotografia
-![](media/2025_Etappe-03/20250506_121918c.jpg)
 
 ![](media/2025_Etappe-03/20250506_122841c.jpg)
 #### 2 Fotos: 
@@ -266,7 +267,16 @@ Even when we passed through Pajares, there weren’t any cafés or bars open at 
 ↪ [Etappe-04_LLanos-de-Someron_Pola-de-Lena](Etappe-04_LLanos-de-Someron_Pola-de-Lena.md)
 
 ---
-***„Der Mensch braucht Erde unter den Füßen, sonst verdorrt ihm das Herz.“***
-Gertrud von le Fort, deutsche Schriftstellerin, 1876 – 1971
+>***„Der Mensch braucht Erde unter den Füßen, sonst verdorrt ihm das Herz.“***
+>— _Gertrud von le Fort, deutsche Schriftstellerin, 1876 – 1971_
+
+> _**«El ser humano necesita sentir la tierra bajo sus pies; de lo contrario, su corazón se marchita.»**_  
+> — _Gertrud von le Fort, escritora alemana (1876–1971)_
+
+> _**«O ser humano precisa da terra sob os pés; caso contrário, o seu coração definha.»**_  
+> — _Gertrud von le Fort, escritora alemã (1876–1971)_
+
+> _**“A person needs the earth beneath their feet; otherwise, the heart withers.”**_  
+> — _Gertrud von le Fort, German writer (1876–1971)_
 
  ...→

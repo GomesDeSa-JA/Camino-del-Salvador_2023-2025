@@ -53,7 +53,7 @@ Even 1,000 words wouldn’t be enough to describe what you see and how it makes 
 
 ![](media/2023_Etappe-04/20230430_090508c.jpg)
 
-Erlebe diesen wunderschönen Weg selbst
+- Erlebe diesen wunderschönen Weg selbst. 
 Mit 1000 Wörtern könnte ich nicht beschreiben, was man sieht und was man empfindet.
 
 ![](media/2023_Etappe-04/20230430_090513c.jpg)
@@ -64,17 +64,17 @@ Mit 1000 Wörtern könnte ich nicht beschreiben, was man sieht und was man empfi
 
 ![](media/2023_Etappe-04/20230430_092358c.jpg)
 
-Descubre por ti mismo este precioso sendero
+- Descubre por ti mismo este precioso sendero. 
 Ni siquiera con mil palabras podría describir lo que se ve y lo que se siente.
 
 ![](media/2023_Etappe-04/20230430_092634c.jpg)
 
 ![](media/2023_Etappe-04/20230430_092821c.jpg)
 
-→ Don’t follow the wooden sign; that’s a different path 
-→ No sigas el cartel de madera; ese es otro camino. 
-→ Folgt nicht dem Holzschild; das ist ein anderer Weg. 
-→ Não sigam o painel de madeira; esse é outro caminho
+- → Don’t follow the wooden sign; that’s a different path 
+- → No sigas el cartel de madera; ese es otro camino. 
+- → Folgt nicht dem Holzschild; das ist ein anderer Weg. 
+- → Não sigam o painel de madeira; esse é outro caminho
 
 ![](media/2023_Etappe-04/20230430_093018c.jpg)
 
@@ -101,7 +101,7 @@ Ni siquiera con mil palabras podría describir lo que se ve y lo que se siente.
 ![](media/2023_Etappe-04/20230430_132828.jpg)
 
 
->*"Konzentriere dich auf das, was du gerade tust"*
+>***"Konzentriere dich auf das, was du gerade tust"***
 >
 > *Ich hatte bereits einen langen Abschnitt zurückgelegt, die Müdigkeit machte sich langsam bemerkbar, und man nimmt alles ganz anders wahr als noch am frühen Morgen, als ich voller Energie aufgebrochen war.*
 
@@ -109,20 +109,20 @@ Ni siquiera con mil palabras podría describir lo que se ve y lo que se siente.
 Dieser Abschnitt erfordert absolute Konzentration, unabhängig vom Wetter. Der Untergrund ist steinig und mit grobem Sand bedeckt, auf dem man leicht ausrutschen kann.
 
 
->*‘Focus on what you're doing right now’*
+>***‘Focus on what you're doing right now’***
 >
 >*I had already covered a long stretch; tiredness was slowly setting in, and you perceive everything quite differently from how it was earlier that morning, when I had set off full of energy.*
 
 🇬🇧 The path leads downhill. 
 This section requires your full concentration, whatever the weather. The ground is stony and covered in coarse sand, on which it is easy to slip.
 
->*«Concentra-te naquilo que estás a fazer neste momento»*
+>***«Concentra-te naquilo que estás a fazer neste momento»***
 >
 >*Já tinha percorrido um longo trecho, o cansaço começava a fazer-se sentir e a forma como se percebe tudo é completamente diferente daquela do início da manhã, quando parti cheio de energia.*
 
 🇵🇹 O caminho é a descer. Este troço exige concentração absoluta, independentemente das condições meteorológicas. O solo é pedregoso e está coberto de areia grossa, sobre a qual é fácil escorregar.
 
->*«Concéntrate en lo que estás haciendo ahora mismo»*
+>***«Concéntrate en lo que estás haciendo ahora mismo»***
 >
 >*Ya había recorrido un largo tramo, el cansancio empezaba a hacerse notar poco a poco y uno percibe todo de forma muy diferente a como lo hacía a primera hora de la mañana, cuando había salido lleno de energía.*
 

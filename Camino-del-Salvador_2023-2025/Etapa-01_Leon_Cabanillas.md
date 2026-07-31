@@ -36,7 +36,7 @@ Yo (nosotros) seguí (seguimos) a lo largo del río Bernesga hasta el Estadio Ol
 #### Monumento a las Infantas de Leon
 
 ![](media/2023_Etappe-01/20230427_082444c.jpg)
-.
+
 Ein Foto am Morgen ⁘ Una foto por la mañana ⁘ Uma foto na manhã ⁘ A photo taken in the morning
 
 #### Ich bin auf den richtigen Weg ⁘ I’m on the right path ⁘ Voy por el buen camino ⁘Estou no caminho certo
@@ -123,8 +123,9 @@ In 2024, Roze and I stopped here for a break. The covered benches provided the p
 ↪ [Etapa-02_Cabanillas_La-Robla](Etapa-02_Cabanillas_La-Robla.md)
 
 ---
-*👣 "Gehen ist des Menschen beste Medizin"
+👣 *"Gehen ist des Menschen beste Medizin"*
 Hippokrates von Kos, griechischer Arzt, um 460 v. Chr. – um 370 v. Chr.)
 
- Ultreia et Suseia ! 🌟*
+Ultreia et Suseia ! 🌟
+ 
  ...→
