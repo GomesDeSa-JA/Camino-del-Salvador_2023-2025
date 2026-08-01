@@ -49,6 +49,7 @@ There are two sections, each 1 to 2 metres long, where you need to have your han
 Vielen Dank an die deutsche Pilgerin und Skandinavien-Kennerin.
 Du hast den Gegenstand, den ich verloren hatte, den ganzen Weg über bei dir getragen.
 Gerade als Roze und ich nach einem Plätzchen in der Sonne suchten, um eine kleine Pause zu machen und etwas zu essen, kamst du an uns vorbei und fragtest, ob wir etwas verloren hätten. Damit hatte ich nicht gerechnet, denn ich hatte mich schon damit abgefunden – solche Dinge passieren nun mal ab und zu. 
+
 Ich habe deinen Namen irgendwo tief in meinem Gedächtnis gespeichert, aber wenn wir uns wieder begegnen, werde ich dich erneut zu einem Butterbrot mit Bärlauch einladen, auch wenn mein Hut nicht verloren geht. Und ich hoffe, dass es dir in der Herberge in Bendueños genauso gut gefallen hat wie mir zwei Jahre zuvor.
 #### 🇪🇸 Estas cosas suelen pasar
  
@@ -62,7 +63,6 @@ Justo cuando Roze y yo buscábamos un rinconcito al sol para hacer una pequeña 
 
 He guardado tu nombre en lo más profundo de mi memoria, pero si volvemos a encontrarnos, te invitaré de nuevo a un bocadillo  con ajo silvestre, aunque no se me pierda el sombrero. Y espero que te lo hayas pasado tan bien en el albergue de Bendueños como yo dos años antes.
 ##### 🇵🇹 Coisas assim sempre acontecem
-
 
 ![](media/2025_Etappe-04/20250507_123953c.jpg)
 
@@ -84,26 +84,34 @@ You brought with you the item I’d lost during the entire walk.
 Just as Roze and I were looking for a sunny spot to take a short break and have a bite to eat, you walked by and asked if we’d lost anything. I wasn’t expecting that at all, since I’d already accepted the loss—these things happen from time to time.    
 
 I’ve stored your name somewhere deep in my memory, but if we meet again, I’ll treat you to a buttered bread roll with wild garlic once more, even if I don’t lose my hat. And I hope you enjoyed the hostel in Bendueños just as much as I did two years ago.
-#### Mas antes desta foto
+#### Sie blieb; wir gingen noch einen bisschen weiter 
 
 ![](media/2025_Etappe-04/20250507_155952c.jpg)
 
-- Aber vor diesem Foto
-- But before this photo
-- Pero antes de esta foto
+- Ela permaneceu; nós continuámos um pouco mais 
+- She stayed; we walked a little further
+- Ella se quedó; nosotros seguimos un poco más 
 #### Pola de Lena
 
 🇩🇪 Albergue de peregrinos San Martín
-Wir haben es geschafft, vor 18:30 Uhr dort anzukommen, und wurden sehr herzlich empfangen. Vielen Dank für den tollen Aufenthalt.
+Wir haben es geschafft, vor 18:30 Uhr dort anzukommen, und wurden sehr herzlich empfangen. 
+
+Vielen Dank für den tollen Aufenthalt.
 
 🇵🇹 Albergue de peregrinos San Martín
-Conseguimos chegar lá antes das 18h30 e fomos recebidos de forma muito bem-vinda. Muito obrigado pela agradável estadia.
+Conseguimos chegar lá antes das 18h30 e fomos recebidos de forma muito bem-vinda. 
+
+Muito obrigado por esta estadia tão agradável.
 
 🇪🇸 Albergue de peregrinos San Martín
-Conseguimos llegar antes de las 18:30 y nos recibieron muy cordialmente. Muchas gracias por esta estancia tan agradable.
+Conseguimos llegar antes de las 18:30 y nos recibieron muy cordialmente. 
+
+Muchas gracias por esta estancia tan agradable.
 
 🇬🇧 San Martín Pilgrims’ Albergue
-We managed to arrive there before 6.30 pm and were given a very warm welcome. Thank you very much for a lovely stay.
+We managed to arrive there before 6.30 pm and were given a very warm welcome. 
+
+Thank you very much for a lovely stay.
 
 ---
 

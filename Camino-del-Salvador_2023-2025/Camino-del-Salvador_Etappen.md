@@ -1,7 +1,7 @@
 ## Camino del Salvador
 
 ### Info
-[Las Etapas](#🇪🇸%20Camino%20del%20Salvador)  ⁘  [Die Etappen](#🇩🇪%20Camino%20del%20Salvador)  ⁘  [The Stages](#🇬🇧%20Camino%20del%20Salvador) ⁘  [As Etapas](#🇵🇹%20Camino%20del%20Salvador) 
+[🇪🇸 Las Etapas](#es)  ⁘  [🇩🇪 Die Etappen](#de)  ⁘  [🇬🇧 The_Stages](#gb) ⁘  [🇵🇹 As Etapas](#pt)
 
 Información básica sobre las etapas ⁘ Basisinformationen zu den Etappen ⁘ General information about the stages ⁘ Informações básicas sobre as etapas
 
@@ -60,10 +60,10 @@ Información básica sobre las etapas ⁘ Basisinformationen zu den Etappen ⁘ 
  🔁 [volver](#Info)
 
 ---
-#### 🇪🇸 Camino del Salvador
+###### es
+####  🇪🇸 Camino_del_Salvador
 
-El Camino del Salvador une León con Oviedo y recorre entre 120 y 130 kilómetros a través de la Cordillera Cantábrica. Se considera uno de los Caminos de Santiago más exigentes, pero también uno de los más bellos de España. La mayoría de los peregrinos lo completan en 5 o 6 días.
-
+ El Camino del Salvador une León con Oviedo y recorre entre 120 y 130 kilómetros a través de la Cordillera Cantábrica. Se considera uno de los Caminos de Santiago más exigentes, pero también uno de los más bellos de España. La mayoría de los peregrinos lo completan en 5 o 6 días.
 ##### Etapa 1: León → La Robla
 **Aprox. 27 km**
 
@@ -122,7 +122,8 @@ El Camino del Salvador une León con Oviedo y recorre entre 120 y 130 kilómetro
  🔁 [volver](#Info)
 
 ---
-##### 🇩🇪 Camino del Salvador
+###### de
+##### 🇩🇪 Camino delSalvador
 
 Der Camino del Salvador verbindet León mit Oviedo und führt auf etwa 120 bis 130 Kilometern über die Kantabrischen Berge. Er gilt als einer der anspruchsvollsten, aber auch schönsten Jakobswege Spaniens. Die meisten Pilger bewältigen ihn in 5 bis 6 Tagen.
 
@@ -189,9 +190,10 @@ Der Camino del Salvador verbindet León mit Oviedo und führt auf etwa 120 bis 1
  🔁 [volver](#Info)
 
 ---
+###### gb
 #### 🇬🇧 Camino del Salvador
 
-The Camino del Salvador links León with Oviedo and runs for around 120 to 130 kilometres across the Cantabrian Mountains. It is considered one of the most challenging, but also one of the most beautiful, routes to Santiago de Compostela in Spain. Most pilgrims complete it in 5 to 6 days.
+ The Camino del Salvador links León with Oviedo and runs for around 120 to 130 kilometres across the Cantabrian Mountains. It is considered one of the most challenging, but also one of the most beautiful, routes to Santiago de Compostela in Spain. Most pilgrims complete it in 5 to 6 days.
 
 ##### Stage 1: León → La Robla
 **Approx. 27 km**
@@ -255,9 +257,10 @@ The Camino del Salvador links León with Oviedo and runs for around 120 to 130 k
  🔁 [volver](#Info)
 
 ---
+###### pt
 #### 🇵🇹 Camino del Salvador
 
-  O Caminho do Salvador liga León a Oviedo e percorre cerca de 120 a 130 quilómetros através dos Montes Cantábricos. É considerado um dos Caminhos de Santiago mais exigentes, mas também um dos mais belos de Espanha. A maioria dos peregrinos percorre-o em 5 a 6 dias.
+O Caminho do Salvador liga León a Oviedo e percorre cerca de 120 a 130 quilómetros através dos Montes Cantábricos. É considerado um dos Caminhos de Santiago mais exigentes, mas também um dos mais belos de Espanha. A maioria dos peregrinos percorre-o em 5 a 6 dias.
 
 ##### Etapa 1: León → La Robla
 **Cerca de 27 km**

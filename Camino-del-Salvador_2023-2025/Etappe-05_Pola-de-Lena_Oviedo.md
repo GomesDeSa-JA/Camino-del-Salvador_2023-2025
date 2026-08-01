@@ -17,7 +17,7 @@
 > > — _Provérbio chinês_
 > >
 > > **Essa é a questão.**  
-> > Sobre isso pode-se discutir, e cada pessoa terá uma opinião diferente.  
+> > Sobre isso pode-se discutir, e cada um terá uma opinião diferente.  
 > 
 > 🇩🇪
 > > _**„Ob du eilst oder langsam gehst, der Weg vor dir bleibt derselbe.“**_  
@@ -108,13 +108,33 @@ Pequeños oasis en medio de la civilización
 
 ↪ [Camino-del-Salvador](Camino-del-Salvador.md)
 
- ...→
- 
----
-## Iter Sancti Salvatoris: Narratio Creationis Meae
+[...→](#∞)
 
+---
+#### 6 Tage   ⁘    Dias   ⁘    Days 
+
+> 🇩🇪 *Ich habe den Weg des Erlösers bereits zweimal zurückgelegt. Das erste Mal in 7 Tagen, das zweite Mal in 5 Tagen. Abschließend möchte ich diese Erfahrung mit der Schöpfungsgeschichte in Verbindung bringen, da der Weg des Erlösers von allen Wegen diese Geschichte am besten verkörpert.*
+> 
+> *Genau so viele Tage hatten wir für meinen zweiten Durchlauf ursprünglich auch geplant. Es sind die sechs Tage, die man sich für diesen unglaublichen Weg eigentlich nehmen sollte. Doch aufgrund von menschengemachten Terminen mussten wir die Reise auf fünf Tage verkürzen – deshalb mussten wir einen Teil dieser unglaublichen Strecke etwas schneller zurücklegen.*
+ ---
+> 🇪🇸 *Ya he recorrido el Camino del Redentor en dos ocasiones. La primera vez en 7 días, la segunda en 5 días. Para terminar, me gustaría relacionar esta experiencia con el relato de la Creación, ya que, de entre todos los caminos, el Camino del Redentor es el que mejor encarna este relato.*
+> 
+> *Exactamente esa cantidad de días habíamos planeado originalmente, y esos son los días que se deberían tomar para el Camino del Salvador. Debido a compromisos creados por el hombre, lo acortamos a cinco días, así que tuvimos que recorrer parte de esta increíble ruta un poco más rápido.*
+ ---
+> 🇵🇹 *Já percorri o Caminho do Salvador duas vezes. A primeira vez em 7 dias, a segunda vez em 5 dias. Para concluir, gostaria de relacionar esta experiência com a história da Criação, uma vez que, de todos os caminhos, o Caminho do Salvador é aquele que melhor encarna essa história.*
+> 
+> *Era exatamente esse o número de dias que tínhamos planeado inicialmente, e é exatamente esse o número de dias que se deve prever para o Caminho de Salvador. Tivemos de encurtar a caminhada para cinco dias devido a outros compromissos, razão pela qual  fomos obrigados a percorrer uma parte deste percurso incrível um pouco mais depressa.*
+
+---
+> *I have already completed the Path of the Saviour twice. The first time in 7 days, the second time in 5 days. Finally, I would like to link this experience to the story of Creation, as the Path of the Saviour, of all the paths, best embodies this story.*
+> 
+> *That’s exactly how many days we’d originally planned, and that’s exactly how many days you should allow for the Camino del Salvador. We’ve shortened the walk to five days due to other commitments, so we had to cover part of this incredible route a little more quickly.*
+
+---
+
+## Iter Sancti Salvatoris: Narratio Creationis Meae
+###### ∞
 ### 🇩🇪 In sechs Tagen schuf Gott die Welt
-Ich habe den Weg des Erlösers bereits zweimal zurückgelegt. Das erste Mal in 7 Tagen, das zweite Mal in 5 Tagen. Abschließend möchte ich diese Erfahrung mit der Schöpfungsgeschichte in Verbindung bringen, da der Weg des Erlösers von allen Wegen diese Geschichte am besten verkörpert.
 
 - **Tag 1**: Gott macht das Licht und trennt es von der Finsternis (Tag und Nacht).
 - **Tag 2**: Gott baut den Himmel über dem Wasser.
@@ -124,15 +144,12 @@ Ich habe den Weg des Erlösers bereits zweimal zurückgelegt. Das erste Mal in 7
 - **Tag 6**: Gott macht die Landtiere und die Menschen (Mann und Frau).
 
 **Ist das ein Zufall?**
-Genau so viele Tage hatten wir für meinen zweiten Durchlauf ursprünglich auch geplant. Es sind die sechs Tage, die man sich für diesen unglaublichen Weg eigentlich nehmen sollte. Doch aufgrund von menschengemachten Terminen mussten wir die Reise auf fünf Tage verkürzen – deshalb mussten wir einen Teil dieser unglaublichen Strecke etwas schneller zurücklegen.
-
 ### Am siebten Tag, Gott ruht sich aus und macht diesen Tag zu einem heiligen Tag.
-***Und betracht was Er geschaffen hat.***
+***Und betracht was Er geschaffen hat.*** 
+[🌍](#.)
 
 ---
 ### 🇪🇸 En seis días, Dios creó el mundo
-
-Ya he recorrido el Camino del Redentor en dos ocasiones. La primera vez en 7 días, la segunda en 5 días. Para terminar, me gustaría relacionar esta experiencia con el relato de la Creación, ya que, de entre todos los caminos, el Camino del Redentor es el que mejor encarna este relato.
 
 - **Día 1:** Dios hace la luz y la separa de las tinieblas (el día y la noche).
 - **Día 2:** Dios construye el cielo sobre el agua.
@@ -142,18 +159,13 @@ Ya he recorrido el Camino del Redentor en dos ocasiones. La primera vez en 7 dí
 - **Día 6:** Dios hace los animales terrestres y a los seres humanos (hombre y mujer).
 
 **¿Será una coincidencia?**
-Exactamente esa cantidad de días habíamos planeado originalmente, y esos son los días que se deberían tomar para el Camino del Salvador. Debido a compromisos creados por el hombre, lo acortamos a cinco días, así que tuvimos que recorrer parte de esta increíble ruta un poco más rápido.
-
-Dios descansa y hace de este día un día santo.
-Y contempla lo que ha creado.
-
 ### El séptimo día, Dios descansa y hace de este día un día santo.
 ***Y contempla lo que ha Creado.***
+[🌍](#.)
+
 
 ---
 ### 🇵🇹  Em seis dias, Deus criou o mundo
-
-Já percorri o Caminho do Salvador duas vezes. A primeira vez em 7 dias, a segunda vez em 5 dias. Para concluir, gostaria de relacionar esta experiência com a história da Criação, uma vez que, de todos os caminhos, o Caminho do Salvador é aquele que melhor encarna essa história.
 
 - Dia 1: Deus faz a luz e separa-a das trevas (dia e noite).
 - Dia 2: Deus constrói o céu sobre a água.
@@ -163,15 +175,12 @@ Já percorri o Caminho do Salvador duas vezes. A primeira vez em 7 dias, a segun
 - Dia 6: Deus faz os animais terrestres e os seres humanos (homem e mulher).
 
 **Será uma coincidência?**
-Era exatamente esse o número de dias que tínhamos planeado inicialmente, e é exatamente esse o número de dias que se deve prever para o Caminho de Salvador. Tivemos de encurtar a caminhada para cinco dias devido a outros compromissos, razão pela qual  fomos obrigados a percorrer uma parte deste percurso incrível um pouco mais depressa.
-
 ### No sétimo dia, Deus descansa e faz deste dia um dia santo.
-**E contempla o que Criou.**
+**E contempla o que Criou.** 
+[🌍](#.)
 
 ---
 ### 🇬🇧  In six days, God created the world
-
-I have already completed the Path of the Saviour twice. The first time in 7 days, the second time in 5 days. Finally, I would like to link this experience to the story of Creation, as the Path of the Saviour, of all the paths, best embodies this story.
 
 - Day 1: God makes the light and separates it from the darkness (day and night).
 - Day 2: God builds the sky over the water.
@@ -180,17 +189,16 @@ I have already completed the Path of the Saviour twice. The first time in 7 days
 - Day 5: God creates the fish in the sea and the birds in the sky.
 - Day 6: God makes the land animals and humans (man and woman).
 
-Is that a coincidence?
-That’s exactly how many days we’d originally planned, and that’s exactly how many days you should allow for the Camino del Salvador. We’ve shortened the walk to five days due to other commitments, so we had to cover part of this incredible route a little more quickly.
+**Is that a coincidence?**
 ### On the seventh day, God rests and makes this day a holy day.
 **And He contemplates what He has created.**
 
 ---
 # 🌍 
   ![](media/2025_Etappe-03/20250506_090019c.jpg)
-
+###### .
 좋은 여행 되세요!   ⁘  Bun viadi!   ⁘ Guten Weg!   ⁘   Hyvää matkaa!   ⁘   Jó utat!   ⁘   رحلة موفقة  ⁘
-Buon Cammino!   ⁘   İyi yolculuklar!   ⁘   God rejse!   ⁘  よい旅を！   ⁘  God tur!   ⁘   Bo Camiño! ⁘   
+Buon Cammino!   ⁘   İyi yolculuklar!   ⁘   God rejse!   ⁘  よい旅を！   ⁘  God tur!   ⁘   Bo Camiño! ⁘ 
 Good Camino!   ⁘  Magandang paglalakbay!   ⁘   Goede reis!   ⁘   Bon viatge!   ⁘  Drum bun! ⁘   
 Chúc thượng lộ bình an!   ⁘ Bon Chemin!   ⁘   一路順風   ⁘   Bom Caminho!   ⁘   Bon Camín! ⁘
 一路顺风   ⁘  שיהיה לך מסע טוב   ⁘   Счастливого пути!   ⁘   Selamat jalan!   ⁘  शुभ यात्रा!   ⁘    
