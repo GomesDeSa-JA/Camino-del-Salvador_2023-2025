@@ -106,7 +106,7 @@ I did not disagree with her because the Camino Primitivo is undoubtedly exactly 
 
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
-↪ [Etappe-01-Leon_La-Robla](Etappe-01-Leon_La-Robla.md)
+↪ [Etappe-01_Leon_La-Robla](Etappe-01_Leon_La-Robla.md)
 
 ---
 

@@ -25,7 +25,7 @@ Información básica sobre las etapas ⁘ Basisinformationen zu den Etappen ⁘ 
 ---
 ### Mein Weg 2025
 
-[Etappe-01-Leon_La-Robla](Etappe-01-Leon_La-Robla.md)
+[Etappe-01_Leon_La-Robla](Etappe-01_Leon_La-Robla.md)
 
 [Etappe-02_La-Robla_Poladura-de-la-Tercia](Etappe-02_La-Robla_Poladura-de-la-Tercia.md)
 
@@ -328,13 +328,13 @@ mit KI-Unterstützung  ChatGPT (OpenAI) / Gemini / Copilot und Deepl.com
 
 - **Überprüft und angepasst:**
 
- – ![224](media/IwiekDanD.png)
+ ![224](media/IwiekDanD.png)
 
 ---
 
 ↪ [Etapa-01_Leon_Cabanillas](Etapa-01_Leon_Cabanillas.md)
 
-↪ [Etappe-01-Leon_La-Robla](Etappe-01-Leon_La-Robla.md)
+↪ [Etappe-01_Leon_La-Robla](Etappe-01_Leon_La-Robla.md)
 
 ---
 

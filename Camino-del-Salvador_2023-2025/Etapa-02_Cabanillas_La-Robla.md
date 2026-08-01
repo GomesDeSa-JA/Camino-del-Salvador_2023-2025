@@ -41,7 +41,7 @@ En el año 2025 se me pasó por alto; el poncho ya limita la visión.
 
 - Eine Bank, die dazu einlädt, sich einen Moment hinzusetzen, die Wanderstiefel auszuziehen und tief durchzuatmen. Du bist angekommen.
 
-- Um banco que convida a sentar-se por um momento, a tirar as botas de caminhada e a respirar fundo. Chegaste.
+- Um banco que te convida a sentar-se por um momento, a tirar as botas de caminhada e a respirar fundo. Chegaste.
 
 - A bench that invites you to sit down for a moment, take off your walking boots and take a deep breath. You’ve arrived.
 

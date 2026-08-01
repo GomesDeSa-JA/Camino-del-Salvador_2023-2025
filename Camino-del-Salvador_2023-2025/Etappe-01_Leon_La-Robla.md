@@ -10,7 +10,7 @@
 
 ---
 ### Etappe 1: León – La Robla 
-Distanz:** 27,2 km ✦ ↑ 356 m |↓ 240 m  ✦  ca. 7 h 
+**Distanz:** 27,2 km ✦ ↑ 356 m ↓ 240 m  ✦  ca. 7 h 
 
 04 Mai 2025 
 

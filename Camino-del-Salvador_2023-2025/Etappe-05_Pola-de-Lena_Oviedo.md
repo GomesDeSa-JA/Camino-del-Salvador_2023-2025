@@ -33,7 +33,7 @@
 > > **That is the question.**  
 > >It is open to debate, and everyone will have a different opinion about it.  
 > 
->- ![224](media/IwiekDanD.png)
+>![224](media/IwiekDanD.png)
 
 ---
 
@@ -108,7 +108,7 @@ Pequeños oasis en medio de la civilización
 
 ↪ [Camino-del-Salvador](Camino-del-Salvador.md)
 
-[...→](#∞)
+[...→](#Iter_Sancti_Salvatoris)
 
 ---
 #### 6 Tage   ⁘    Dias   ⁘    Days 
@@ -132,8 +132,9 @@ Pequeños oasis en medio de la civilización
 
 ---
 
-## Iter Sancti Salvatoris: Narratio Creationis Meae
-###### ∞
+## Iter_Sancti_Salvatoris
+###### ***Narratio Creationis Meae***
+
 ### 🇩🇪 In sechs Tagen schuf Gott die Welt
 
 - **Tag 1**: Gott macht das Licht und trennt es von der Finsternis (Tag und Nacht).
@@ -146,7 +147,7 @@ Pequeños oasis en medio de la civilización
 **Ist das ein Zufall?**
 ### Am siebten Tag, Gott ruht sich aus und macht diesen Tag zu einem heiligen Tag.
 ***Und betracht was Er geschaffen hat.*** 
-[🌍](#.)
+[🌍](#Orbis)
 
 ---
 ### 🇪🇸 En seis días, Dios creó el mundo
@@ -161,8 +162,7 @@ Pequeños oasis en medio de la civilización
 **¿Será una coincidencia?**
 ### El séptimo día, Dios descansa y hace de este día un día santo.
 ***Y contempla lo que ha Creado.***
-[🌍](#.)
-
+[🌍](#Orbis)
 
 ---
 ### 🇵🇹  Em seis dias, Deus criou o mundo
@@ -177,7 +177,7 @@ Pequeños oasis en medio de la civilización
 **Será uma coincidência?**
 ### No sétimo dia, Deus descansa e faz deste dia um dia santo.
 **E contempla o que Criou.** 
-[🌍](#.)
+[🌍](#Orbis)
 
 ---
 ### 🇬🇧  In six days, God created the world
@@ -194,9 +194,9 @@ Pequeños oasis en medio de la civilización
 **And He contemplates what He has created.**
 
 ---
-# 🌍 
+# Orbis
   ![](media/2025_Etappe-03/20250506_090019c.jpg)
-###### .
+##### Gratias tibi ago! Et tibi valedico.
 좋은 여행 되세요!   ⁘  Bun viadi!   ⁘ Guten Weg!   ⁘   Hyvää matkaa!   ⁘   Jó utat!   ⁘   رحلة موفقة  ⁘
 Buon Cammino!   ⁘   İyi yolculuklar!   ⁘   God rejse!   ⁘  よい旅を！   ⁘  God tur!   ⁘   Bo Camiño! ⁘ 
 Good Camino!   ⁘  Magandang paglalakbay!   ⁘   Goede reis!   ⁘   Bon viatge!   ⁘  Drum bun! ⁘   
