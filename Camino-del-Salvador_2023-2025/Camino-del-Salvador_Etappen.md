@@ -327,7 +327,8 @@ O Caminho do Salvador liga León a Oviedo e percorre cerca de 120 a 130 quilóme
 mit KI-Unterstützung  ChatGPT (OpenAI) / Gemini / Copilot und Deepl.com 
 
 - **Überprüft und angepasst:**
-- ![](media/IwiekDanD.png)
+
+ – ![224](media/IwiekDanD.png)
 
 ---
 
