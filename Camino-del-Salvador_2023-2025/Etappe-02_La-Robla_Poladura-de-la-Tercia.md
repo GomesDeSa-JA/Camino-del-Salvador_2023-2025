@@ -2,7 +2,9 @@
 
 ---
 ### Etappe_02:  La Robla → Poladura de la Tercia
-05 Mai 2025
+**Distancia:** 23,3 km **Desnivel:** ↑ 594 m  ↓ 312 m **Duración:** 6 h 45 min
+
+05 Mai 2025 
 #### Um novo dia ⁘ A new day ⁘  Ein neuer Tag ⁘ Un nuevo día
 
 ![](media/2025_Etappe-02/20250505_081718c.jpg)

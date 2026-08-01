@@ -2,7 +2,6 @@
 
 ### Etappe_03: Poladura de la Tercia → LLanos de Somerón
 06 Mai 2025
-
 #### Der französische Pilger ⁘ The French pilgrim ⁘ El peregrino francés
 
 ##### 🇩🇪 Wir haben ihn nicht mehr gesehen
