@@ -113,9 +113,9 @@ I did not disagree with her because the Camino Primitivo is undoubtedly exactly 
 
 I showed her several photographs from the Camino del Salvador. This sparked her curiosity, and she decided that she wanted to walk the route as well.
 
-We therefore agreed to walk the Camino del Salvador together in 2024. In January of that year, we finalized the details and made our plans. Once everything had been arranged, a court hearing arose which, although expected, complicated our schedule. We had to adjust our plans once again.
+We therefore agreed to walk the Camino del Salvador together in 2025. In January of that year, we finalized the details and made our plans. Once everything had been arranged, a court hearing arose which, although expected, complicated our schedule. We had to adjust our plans once again.
 
-On May 4, 2024, at five o'clock in the morning, Roze and I began the Camino del Salvador together, my second time on this route.
+On May 4, 2025, at five o'clock in the morning, Roze and I began the Camino del Salvador together, my second time on this route.
 
 Despite the changeable weather, or perhaps because of it, the journey became a wonderful and exciting experience. Due to the weather conditions, several sections, about four to five kilometres of the approximately 120-kilometre route, became some of the most dangerous stretches I have encountered on any Camino.
 
@@ -168,9 +168,9 @@ Não lhe dei razão nem a contradisse, porque o Camino Primitivo é, sem dúvida
 
 Mostrei-lhe algumas fotografias do Camino del Salvador, e isso despertou a sua curiosidade. Ela decidiu que também queria fazer esse caminho.
 
-Assim, resolvemos percorrer juntos o Camino del Salvador em 2024. Em janeiro desse ano combinámos os detalhes e organizámos tudo. Quando o planeamento já estava concluído, surgiu uma audiência judicial que, embora fosse previsível, criou dificuldades no calendário. Tivemos então de ajustar novamente os nossos planos.
+Assim, resolvemos percorrer juntos o Camino del Salvador em 2025. Em janeiro desse ano combinámos os detalhes e organizámos tudo. Quando o planeamento já estava concluído, surgiu uma audiência judicial que, embora fosse previsível, criou dificuldades no calendário. Tivemos então de ajustar novamente os nossos planos.
 
-No dia 4 de maio de 2024, às cinco da manhã, Roze e eu iniciámos juntos, pela segunda vez para mim, o Camino del Salvador.
+No dia 4 de maio de 2025, às cinco da manhã, Roze e eu iniciámos juntos, pela segunda vez para mim, o Camino del Salvador.
 
 Apesar do tempo instável, ou talvez precisamente por causa dele, a viagem foi maravilhosa e cheia de emoção. Devido às condições meteorológicas, alguns troços, cerca de quatro a cinco quilómetros dos aproximadamente 120 quilómetros do percurso, transformaram-se nos segmentos mais perigosos que encontrei em todos os Caminhos que percorri.
 
@@ -224,9 +224,9 @@ No le di la razón ni la contradije, porque el Camino Primitivo es, sin duda, ex
 
 Le enseñé algunas fotos del Camino del Salvador y eso despertó su curiosidad. Decidió que también quería recorrer ese camino.
 
-Así que decidimos recorrer juntos el Camino del Salvador en 2024. En enero de ese año acordamos los detalles y lo organizamos todo. Cuando ya teníamos todo planeado, surgió una vista judicial que, aunque era previsible, nos planteó dificultades con el calendario. Así que tuvimos que volver a ajustar nuestros planes.
+Así que decidimos recorrer juntos el Camino del Salvador en 2025. En enero de ese año acordamos los detalles y lo organizamos todo. Cuando ya teníamos todo planeado, surgió una vista judicial que, aunque era previsible, nos planteó dificultades con el calendario. Así que tuvimos que volver a ajustar nuestros planes.
 
-El 4 de mayo de 2024, a las cinco de la mañana, Roze y yo emprendimos juntos, por segunda vez para mí, el Camino del Salvador.
+El 4 de mayo de 2025, a las cinco de la mañana, Roze y yo emprendimos juntos, por segunda vez para mí, el Camino del Salvador.
 
 A pesar del tiempo inestable, o quizá precisamente por ello, el viaje fue maravilloso y lleno de emoción. Debido a las condiciones meteorológicas, algunos tramos —unos cuatro o cinco kilómetros de los aproximadamente 120 que tiene la ruta— se convirtieron en los más peligrosos que he encontrado en todos los Caminos que he recorrido.
 

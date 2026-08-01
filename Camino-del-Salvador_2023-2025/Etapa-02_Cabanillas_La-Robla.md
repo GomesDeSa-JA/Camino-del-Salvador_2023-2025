@@ -24,12 +24,15 @@ Sem palavras  ⁘  Without words ⁘ Sin palabras
 I didn’t notice that in 2025; the poncho does restrict your view.
 
 🇩🇪 Street Art lädt dazu ein, Platz zu nehmen, danke, aber an diesen sonnigen Tagen suche ich lieber ein bisschen Schatten.
+
 Im Jahr 2025 ist mir das entgangen; der Poncho schränkt schon die Sicht ein.
 
 🇵🇹 Arte urbana convida a sentar-se, obrigado, mas nestes dias de sol prefiro procurar um pouco de sombra.
+
 Em 2025, isso passou-me despercebido; o poncho já limita a visão.
 
 🇪🇸 El arte urbano invita a sentarse, gracias, pero en estos días soleados prefiero buscar un poco de sombra.
+
 En el año 2025 se me pasó por alto; el poncho ya limita la visión.
 
 #### 🇪🇸 Albergue de La Robla

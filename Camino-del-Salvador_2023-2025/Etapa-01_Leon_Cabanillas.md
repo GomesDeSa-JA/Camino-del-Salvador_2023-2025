@@ -39,7 +39,7 @@ Yo (nosotros) seguí (seguimos) a lo largo del río Bernesga hasta el Estadio Ol
 
 Ein Foto am Morgen ⁘ Una foto por la mañana ⁘ Uma foto na manhã ⁘ A photo taken in the morning
 
-#### Ich bin auf den richtigen Weg ⁘ I’m on the right path ⁘ Voy por el buen camino ⁘Estou no caminho certo
+#### Ich bin auf den richtigen Weg  ⁘  I’m on the right path ⁘ Voy por el buen camino  ⁘  Estou no caminho certo
 
 ![](media/2023_Etappe-01/20230427_095424.jpg)
 

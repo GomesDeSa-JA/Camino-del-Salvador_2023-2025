@@ -3,10 +3,11 @@
 
 ### Etappe_05: Payares → Bendueños
 01 Mai 2023
-#### Así empezó el día So begann der Tag 
+#### Así empezó el día 
 
 ![](media/2023_Etappe-05/20230501_090344c.jpg)
 
+- So begann der Tag 
 - That’s how the day began
 
 ![](media/2023_Etappe-05/20230501_094840c.jpg)
@@ -18,6 +19,7 @@
 
 #### Llanos de Somerón
 **Albergue Cascoxu:** Sie befindet sich hinter dem Haus; dieses Jahr habe ich nicht hier übernachtet,  2025 aber schon
+
 ![](media/2023_Etappe-05/20230501_110816c.jpg)
 
 #### Der Augenblick ⁘ O Momento ⁘ The Moment ⁘ El momento
@@ -32,7 +34,7 @@ Als ich zwei Jahre später mit Roze diesen Weg erneut ging, hatte man diesen sch
 
 ---
 ##### 🇵🇹 Um dia maravilhoso
-Na noite anterior eu tinha jantado bem e dormido bem. Naquela manhã, eu estava apenas aproveitando o momento e pensando que todo dia poderia começar assim, quando uma voz me cumprimentou com um **„Buenos días“**. Era um senhor idoso que fazia sua caminhada matinal em Llanos de Somerón. Depois de elogiarmos juntos aquele dia maravilhoso, ele me aconselhou a seguir pela estrada até o vale, pois seria mais seguro. Além disso, acrescentou que a trilha que corre pela encosta da montanha, paralela ao vale, poderia ser muito difícil ou até intransitável em alguns pontos.
+Na noite anterior eu tinha jantado bem e dormido bem. Naquela manhã, eu estava apenas aproveitando o momento e pensando que todos os dias poderiam começar assim, quando uma voz me cumprimentou com um **„Buenos días“**. Era um senhor idoso que fazia sua caminhada matinal em Llanos de Somerón. Depois de elogiarmos juntos aquele dia maravilhoso, ele me aconselhou a seguir pela estrada até o vale, pois seria mais seguro. Além disso, acrescentou que a trilha que corre pela encosta da montanha, paralela ao vale, poderia ser muito difícil ou até intransitável em alguns pontos.
 
 Naquela manhã, porém, eu me sentia muito bem e confiei na minha intuição, por isso não segui o conselho dele. Eu nunca teria me perdoado se não tivesse percorrido esse trecho tão lindo. Mas o senhor idoso tinha razão: em um trecho de cerca de 50 metros, precisei usar as mãos para avançar com segurança. Durante toda essa passagem, meus valiosos bastões de caminhada só me atrapalharam, pois eu precisava das mãos livres. Por isso, no fundo, é recomendável seguir o conselho dele.
 

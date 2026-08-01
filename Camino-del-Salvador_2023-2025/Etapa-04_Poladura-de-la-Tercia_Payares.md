@@ -181,8 +181,18 @@ Dois anos depois, já não se podia falar de um passeio tranquilo, pois o chão 
 ↪ [Etapa-05_Payares_Benduenos](Etapa-05_Payares_Benduenos.md)
 
 ---
-***„Nur wo du zu Fuß warst, bist du auch wirklich gewesen.“***
-Johann Wolfgang von Goethe, deutscher Dichter, 1749 – 1832
+
+>***„Nur wo du zu Fuß warst, bist du auch wirklich gewesen.“***
+>– Johann Wolfgang von Goethe, deutscher Dichter, 1749 – 1832
+
+>**«Só onde andaste a pé é que realmente estiveste.»***
+>Johann Wolfgang von Goethe, poeta alemão, 1749 – 1832
+
+>**«Solo donde has caminado has realmente estado»***
+>Johann Wolfgang von Goethe, poeta alemán, 1749 – 1832
+
+> **“Only where you have walked have you truly been.”***
+> Johann Wolfgang von Goethe, German poet, 1749–1832
 
  ...→
  

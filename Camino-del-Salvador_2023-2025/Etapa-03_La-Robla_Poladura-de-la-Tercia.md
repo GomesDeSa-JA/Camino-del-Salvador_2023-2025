@@ -14,8 +14,8 @@
 🇪🇸 Llevan años haciendo peregrinaciones juntos; eso por sí solo ya es algo especial
 
 ---
-#### 🇵🇹 O grupo seguiu em frente, 
-eu fiquei para trás; os meus pés pareciam, de alguma forma, pesados neste caminho
+#### 🇵🇹 O grupo seguiu em frente
+, deixei-me ficar para trás; os meus pés pareciam, por algum motivo, pesados neste caminho.
 
 ![](media/2023_Etappe-03/20230429_083117.jpg)
 
@@ -86,7 +86,7 @@ Antigamente, este caminho era mais do que apenas um percurso espiritual e de cam
 - **Importância ecológica:** Contribui para a sustentabilidade e gestão dos ecossistemas serranos
 
 ---
-#### Ein Wolf beobachtet uns.
+#### Ein Wolf beobachtet uns
 Schau in die Ferne, nach links, auf den Felsvorsprung dort oben; bleib auf dem Weg, dann wird dir nichts passieren.
 
 ![](media/2023_Etappe-03/20230429_110116.jpg)
@@ -94,16 +94,19 @@ Schau in die Ferne, nach links, auf den Felsvorsprung dort oben; bleib auf dem W
 Im Jahr 2025 haben wir die Gefahr nicht bemerkt; die Regentropfen haben uns abgelenkt.
 
 🇵🇹 Um lobo está a observar-nos.
+
 Olha para longe, para a esquerda, para o saliente rochoso lá em cima; mantém-te no caminho e nada acontecerá.
 
 Em 2025, não nos demos conta do perigo; as gotas de chuva distraíram-nos.
 
 🇬🇧 A wolf is watching us.
+
 Look into the distance, to the left, at the rocky outcrop up there; stay on the path, and nothing will happen.
 
 In 2025, we didn’t realise the danger; the raindrops distracted us.
 
 🇪🇸 Un lobo nos está observando.
+
 Mira a lo lejos, a la izquierda, hacia ese saliente rocoso de ahí arriba; no te salgas del camino y no pasará nada.
 
 En el año 2025 no nos dimos cuenta del peligro; las gotas de lluvia nos distrajeron.
@@ -111,6 +114,7 @@ En el año 2025 no nos dimos cuenta del peligro; las gotas de lluvia nos distraj
 ---
 #### 🇪🇸 Buiza
  Un lugar en el que me hubiera gustado quedarme un poco más, pero había llegado demasiado pronto para terminar aquí mi etapa diaria del Camino de Peregrinación. Di unos pasos más hasta la fuente del pueblo, bebí un sorbo de agua, llené mis botellas y volví a reflexionar. Miré el reloj y me dije a mí mismo: «Para la próxima vez», porque este lugar es realmente un lugar de ensueño.
+ 
 ![](media/2023_Etappe-03/20230429_111712.jpg)
 
 ##### 🇩🇪  Buiza
@@ -129,35 +133,38 @@ Kaum hatte ich begonnen, diesen Weg zu gehen, wurde schon meine Neugier auf eine
 ![](media/2023_Etappe-03/20230429_111806.jpg)
 
 🇬🇧 The Forgotten Way to Santiago
+
 No sooner had I set out on this path than my curiosity was piqued by a new one. There’s so much to discover. Who knows – but time is running out for me.
 
 🇪🇸 Camino Olvidado a Santigo
+
 Apenas había empezado a recorrer este camino cuando ya se había despertado mi curiosidad por uno nuevo. Hay tanto por descubrir. Quién sabe, pero se me acaba el tiempo.
 
 🇵🇹 Caminho Esquecido a Santiago
+
 Mal tinha começado a caminhar este caminho e já me despertaram a curiosidade por um novo. Há tanto para descobrir. Quem sabe, mas o tempo está a esgotar-se-me.  
 
 ---
-#### 🇩🇪 Die Bilder sprechen für sich.
+#### 🇩🇪 Die Bilder sprechen für sich
 Das lässt sich nicht in Worte fassen.
 
 ![](media/2023_Etappe-03/20230429_115830.jpg)
 
 ![](media/2023_Etappe-03/20230429_121454.jpg)
 
-🇪🇸  Las imágenes hablan por sí solas.
+🇪🇸  Las imágenes hablan por sí solas. 
 No se puede explicar con palabras.
 
 ![](media/2023_Etappe-03/20230429_122212c.jpg)
 
 >![](media/2023_Etappe-03/20230429_130625c.jpg)
 
-🇵🇹  As imagens falam por si.
+🇵🇹  As imagens falam por si. 
 Não se consegue explicar com palavras.
 
 ![](media/2023_Etappe-03/20230429_130756c.jpg)
 
-🇬🇧  The pictures speak for themselves.
+🇬🇧  The pictures speak for themselves. 
 It’s impossible to put into words.
 
 ![](media/2023_Etappe-03/20230429_142414c.jpg)
@@ -177,7 +184,7 @@ Ich hatte keinen festen Plan, doch ich habe fast immer etwas Proviant dabei. Es 
 
 Mir schmeckte die Suppe hervorragend. Und wie man bei uns so schön sagt: **„In den Bergen schmeckt alles gut.“**
 
-Anschließend ging ich in die Bar und gönnte mir zwei kleine Bier à 0,3 Liter. In Spanien und Portugal ist das die übliche Größe, während sie in Deutschland eher eine Seltenheit ist – dort muss man zwischen den vielen 0,5-Liter-Kasten schon danach suchen.
+Anschließend ging ich in die Bar und gönnte mir zwei kleine Bier à 0,3 Liter. In Spanien und Portugal ist das die übliche Größe, während sie in Deutschland eher eine Seltenheit ist – dort muss man zwischen den vielen 0,5-Liter-Flaschen schon danach suchen.
 
 Als ich zwei Jahre später mit Roze wieder dort war, wollte ich diese Köstlichkeit noch einmal zubereiten. Doch wir waren zu müde, um noch einmal zum Flussufer zu gehen und Brennnesseln zu sammeln. Für den Caminho de Salvador hatte ich mir im Jahr 2023 sieben Tage Zeit genommen; 2025 blieben uns für dieselbe Strecke nur noch fünf Tage.
 

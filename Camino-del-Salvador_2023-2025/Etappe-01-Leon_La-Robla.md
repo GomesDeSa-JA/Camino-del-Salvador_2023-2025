@@ -27,7 +27,9 @@ Distanz:** 27,2 km ✦ ↑ 356 m |↓ 240 m  ✦  ca. 7 h
 ![](media/2025_Etappe-01/20250504_063628c.jpg)
 
 🇵🇹 Ainda antes de iniciarmos o caminho de peregrinação, a nossa motivação foi posta à prova.
+
 🇬🇧 Even before we set out on our pilgrimage, our determination was put to the test.
+
 🇪🇸 Aún antes de emprender el camino de peregrinación, nuestra motivación se puso a prueba.
 
 #### 🇵🇹 Apesar disso, não é motivo para parar, vai ser um belo percurso.

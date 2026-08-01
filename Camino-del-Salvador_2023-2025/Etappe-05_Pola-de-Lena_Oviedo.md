@@ -189,12 +189,12 @@ That’s exactly how many days we’d originally planned, and that’s exactly h
 # 🌍 
   ![](media/2025_Etappe-03/20250506_090019c.jpg)
 
-좋은 여행 되세요!   ⁘  Bun viadi!   ⁘ Guten Weg!   ⁘ Hyvää matkaa!   ⁘Jó utat!   ⁘رحلة موفقة  ⁘
-Buon Cammino!   ⁘   İyi yolculuklar!   ⁘God rejse!   ⁘  よい旅を！   ⁘  God tur!   ⁘   Bo Camiño! ⁘
-Good Camino!   ⁘  Magandang paglalakbay!   ⁘Goede reis!   ⁘   Bon viatge!   ⁘  Drum bun! ⁘
-Chúc thượng lộ bình an!   ⁘ Bon Chemin!   ⁘一路順風   ⁘   Bom Caminho!   ⁘   Bon Camín! ⁘
-一路顺风   ⁘  שיהיה לך מסע טוב   ⁘   Счастливого пути!   ⁘   Selamat jalan!   ⁘  शुभ यात्रा!   ⁘ 
-ভাল যাত্রা!   ⁘   Καλό δρόμο!   ⁘   Šťastnú cestu!   ⁘   Счастливого пути!   ⁘   Szczęśliwej drogi!   ⁘Доброго шляху!   ⁘   Selamat jalan!   
+좋은 여행 되세요!   ⁘  Bun viadi!   ⁘ Guten Weg!   ⁘   Hyvää matkaa!   ⁘   Jó utat!   ⁘   رحلة موفقة  ⁘
+Buon Cammino!   ⁘   İyi yolculuklar!   ⁘   God rejse!   ⁘  よい旅を！   ⁘  God tur!   ⁘   Bo Camiño! ⁘   
+Good Camino!   ⁘  Magandang paglalakbay!   ⁘   Goede reis!   ⁘   Bon viatge!   ⁘  Drum bun! ⁘   
+Chúc thượng lộ bình an!   ⁘ Bon Chemin!   ⁘   一路順風   ⁘   Bom Caminho!   ⁘   Bon Camín! ⁘
+一路顺风   ⁘  שיהיה לך מסע טוב   ⁘   Счастливого пути!   ⁘   Selamat jalan!   ⁘  शुभ यात्रा!   ⁘    
+ভাল যাত্রা!   ⁘   Καλό δρόμο!   ⁘   Šťastnú cestu!   ⁘   Счастливого пути!   ⁘   Szczęśliwej drogi!   ⁘   Доброго шляху!   ⁘   Selamat jalan!   
 
  👣¡Buen Camino!
 

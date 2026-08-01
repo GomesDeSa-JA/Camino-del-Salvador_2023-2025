@@ -40,31 +40,36 @@ There are two sections, each 1 to 2 metres long, where you need to have your han
 
 🇬🇧 Hiking poles are a great help here too, as it’s easy to slip on this stretch, especially when it’s raining.
 
-#### 🇩🇪 Mein Hut wurde gefunden.
-- Irgendwo auf dieser Wegstrecke
+#### 🇩🇪 So etwas kommt schon mal vor.
 
 ![](media/2025_Etappe-04/20250507_120757c.jpg)
 
+- Irgendwo auf dieser Wegstrecke
+
 Vielen Dank an die deutsche Pilgerin und Skandinavien-Kennerin.
 Ich habe deinen Namen irgendwo tief in meinem Gedächtnis gespeichert, aber wenn wir uns wieder begegnen, werde ich dich erneut zu einem Butterbrot mit Bärlauch einladen, auch wenn mein Hut nicht verloren geht. Und ich hoffe, dass es dir in der Herberge in Bendueños genauso gut gefallen hat wie mir zwei Jahre zuvor.
-#### 🇪🇸 Me han encontrado el sombrero.
-- En algún punto de este tramo del camino
+#### 🇪🇸 Estas cosas suelen pasar
  
 ![](media/2025_Etappe-04/20250507_122023c.jpg)
 
+- En algún punto de este tramo del camino
+
 Muchas gracias a la peregrina alemana y experta en Escandinavia.
 He guardado tu nombre en lo más profundo de mi memoria, pero si volvemos a encontrarnos, te invitaré de nuevo a un bocadillo  con ajo silvestre, aunque no se me pierda el sombrero. Y espero que te lo hayas pasado tan bien en el albergue de Bendueños como yo dos años antes.
-##### 🇵🇹 Encontraram o meu chapéu.
-- Algures ao longo deste percurso
+##### 🇵🇹 Coisas assim sempre acontecem
+
 
 ![](media/2025_Etappe-04/20250507_123953c.jpg)
 
+- Algures ao longo deste percurso
+
 Muito obrigado à peregrina alemã e conhecedora da Escandinávia.
 Guardei o teu nome algures no fundo da minha memória, mas quando nos voltarmos a encontrar, vou convidar-te novamente para um sanduíche com alho selvagem, mesmo que o meu chapéu não se perca. E espero que tenhas apreciado o albergue em Bendueños tanto quanto eu há dois anos.
-#### 🇬🇧 My hat has been found.
-- Somewhere along this stretch of the route
+#### 🇬🇧 Things like that happen from time to time.
 
 ![](media/2025_Etappe-04/20250507_140510c.jpg)
+
+- Somewhere along this stretch of the route
 
 Many thanks to the German pilgrim and expert on Scandinavia.
 I’ve stored your name somewhere deep in my memory, but if we meet again, I’ll treat you to a buttered bread roll with wild garlic once more, even if I don’t lose my hat. And I hope you enjoyed the hostel in Bendueños just as much as I did two years ago.

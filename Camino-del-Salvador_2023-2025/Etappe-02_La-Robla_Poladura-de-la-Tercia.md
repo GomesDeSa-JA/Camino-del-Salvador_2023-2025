@@ -3,8 +3,8 @@
 ---
 ### Etappe_02:  La Robla → Poladura de la Tercia
 05 Mai 2025
-
 #### Um novo dia ⁘ A new day ⁘  Ein neuer Tag ⁘ Un nuevo día
+
 ![](media/2025_Etappe-02/20250505_081718c.jpg)
 
 🇵🇹 Ontem aqui chegamos, hoje partimos novamente
@@ -82,7 +82,7 @@ Thank you very much for the warm welcome and your kind hospitality.
 
 ---
 > ***„Der Weg ist immer besser als die schönste Herberge.“***
- Miguel de Cervantes, spanischer Schriftsteller, 1547 – 1616)
+> — Miguel de Cervantes, spanischer Schriftsteller, 1547 – 1616)
 
 > _**«El camino siempre es mejor que la posada más hermosa.»**_  
 > — _Miguel de Cervantes, escritor español (1547–1616)_
