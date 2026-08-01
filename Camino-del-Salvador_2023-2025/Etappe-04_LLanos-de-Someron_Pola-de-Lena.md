@@ -47,6 +47,8 @@ There are two sections, each 1 to 2 metres long, where you need to have your han
 - Irgendwo auf dieser Wegstrecke
 
 Vielen Dank an die deutsche Pilgerin und Skandinavien-Kennerin.
+Du hast den Gegenstand, den ich verloren hatte, den ganzen Weg über bei dir getragen.
+Gerade als Roze und ich nach einem Plätzchen in der Sonne suchten, um eine kleine Pause zu machen und etwas zu essen, kamst du an uns vorbei und fragtest, ob wir etwas verloren hätten. Damit hatte ich nicht gerechnet, denn ich hatte mich schon damit abgefunden – solche Dinge passieren nun mal ab und zu. 
 Ich habe deinen Namen irgendwo tief in meinem Gedächtnis gespeichert, aber wenn wir uns wieder begegnen, werde ich dich erneut zu einem Butterbrot mit Bärlauch einladen, auch wenn mein Hut nicht verloren geht. Und ich hoffe, dass es dir in der Herberge in Bendueños genauso gut gefallen hat wie mir zwei Jahre zuvor.
 #### 🇪🇸 Estas cosas suelen pasar
  
@@ -54,7 +56,10 @@ Ich habe deinen Namen irgendwo tief in meinem Gedächtnis gespeichert, aber wenn
 
 - En algún punto de este tramo del camino
 
-Muchas gracias a la peregrina alemana y experta en Escandinavia.
+Muchísimas gracias a la peregrina alemana y conocedora de Escandinavia.
+Te llevaste contigo el objeto que había perdido durante todo el camino.
+Justo cuando Roze y yo buscábamos un rinconcito al sol para hacer una pequeña pausa y comer algo, pasaste junto a nosotros y nos preguntaste si habíamos perdido algo. No me lo esperaba, ya que me había conformado con la pérdida; estas cosas pasan de vez en cuando.  
+
 He guardado tu nombre en lo más profundo de mi memoria, pero si volvemos a encontrarnos, te invitaré de nuevo a un bocadillo  con ajo silvestre, aunque no se me pierda el sombrero. Y espero que te lo hayas pasado tan bien en el albergue de Bendueños como yo dos años antes.
 ##### 🇵🇹 Coisas assim sempre acontecem
 
@@ -64,6 +69,9 @@ He guardado tu nombre en lo más profundo de mi memoria, pero si volvemos a enco
 - Algures ao longo deste percurso
 
 Muito obrigado à peregrina alemã e conhecedora da Escandinávia.
+Levaste contigo o objeto que eu tinha perdido durante todo o percurso.
+Justamente quando a Roze e eu procurávamos um cantinho ao sol para fazer uma pequena pausa e comer alguma coisa, passaste por nós e perguntaste se tínhamos perdido alguma coisa. Não estava à espera disso, pois já me tinha conformado com a perda – estas coisas acontecem de vez em quando.  
+
 Guardei o teu nome algures no fundo da minha memória, mas quando nos voltarmos a encontrar, vou convidar-te novamente para um sanduíche com alho selvagem, mesmo que o meu chapéu não se perca. E espero que tenhas apreciado o albergue em Bendueños tanto quanto eu há dois anos.
 #### 🇬🇧 Things like that happen from time to time.
 
@@ -71,7 +79,10 @@ Guardei o teu nome algures no fundo da minha memória, mas quando nos voltarmos 
 
 - Somewhere along this stretch of the route
 
-Many thanks to the German pilgrim and expert on Scandinavia.
+Many thanks to the German pilgrim who knows Scandinavia so well.
+You brought with you the item I’d lost during the entire walk.
+Just as Roze and I were looking for a sunny spot to take a short break and have a bite to eat, you walked by and asked if we’d lost anything. I wasn’t expecting that at all, since I’d already accepted the loss—these things happen from time to time.    
+
 I’ve stored your name somewhere deep in my memory, but if we meet again, I’ll treat you to a buttered bread roll with wild garlic once more, even if I don’t lose my hat. And I hope you enjoyed the hostel in Bendueños just as much as I did two years ago.
 #### Mas antes desta foto
 
