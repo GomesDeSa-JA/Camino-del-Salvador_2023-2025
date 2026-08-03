@@ -47,7 +47,41 @@
 
 ![](media/2023_Etappe-07/20230503_111944c.jpg)
 
-Was verbindet sie? ⁘ O que é que ela liga? ⁘ What does it connect? ⁘ ¿Qué es lo que une?
+🇩🇪 **Was verbindet sie?**
+
+Vielleicht ist das nicht die richtige Frage. Vielleicht müsste sie vielmehr lauten: Was hat sie überwunden?
+
+Ich kenne die Antwort nicht. Doch ihr Anblick erfreut mein Auge, und die Schritte, die davon hätten Zeugnis ablegen können, sind längst verhallt. 
+
+Was bleibt, ist nicht ihre Geschichte, sondern ihre stille Gegenwart.
+
+---
+
+🇵🇹 **O que ela une?** 
+
+Talvez essa não seja a pergunta certa. Talvez a pergunta devesse ser: O que ela superou?
+
+Não sei a resposta. Mas sua presença alegra o meu olhar, e os passos que poderiam ter testemunhado sua história há muito se perderam no tempo.
+
+O que permanece não é a sua história, mas a serenidade de sua presença.
+
+---
+
+🇬🇧 **What does it connect?**
+
+Perhaps that is not the right question. Perhaps the question should be: What has it overcome?
+
+I do not know the answer. Yet the sight of it delights my eyes, and the footsteps that might have borne witness to its story have long since faded away.
+What remains is not its story, but the quiet certainty of its presence.
+
+---
+
+🇪🇸 **Qué une?**
+
+Tal vez esa no sea la pregunta adecuada. Quizá la pregunta debería ser: ¿Qué ha logrado superar?
+
+No conozco la respuesta. Pero su presencia alegra mi mirada, y los pasos que podrían haber dado testimonio de su historia hace ya mucho que se perdieron en el tiempo.
+Lo que permanece no es su historia, sino la quietud de su presencia.
 
 ---
 #### _Siéntate un momento, ya casi has llegado_ .
@@ -88,7 +122,7 @@ No le di la razón ni la contradije, porque el Camino Primitivo es, sin duda, ex
 
 🇩🇪 Auf dem Camino Primitivo traf ich Roze aus Irati im brasilianischen Bundesstaat Paraná. Wir tauschten unsere Pilgererfahrungen aus und sprachen darüber, was uns auf den Camino Primitivo geführt hatte. Sie hatte ein Jahr zuvor den Camino Francés absolviert und dort viel über diesen schönen und anspruchsvollen Weg gehört. Deshalb hatte sie sich für den Camino Primitivo entschieden.
 
-Ich widersprach ihr nicht, denn ohne Zweifel ist der Camino Primitivo genau das, was man über ihn sagt. Wenn man jedoch zuvor den Camino del Salvador gegangen ist, fällt die Entscheidung schwer, welcher von beiden d---er schönere Weg ist.
+Ich widersprach ihr nicht, denn ohne Zweifel ist der Camino Primitivo genau das, was man über ihn sagt. Wenn man jedoch zuvor den Camino del Salvador gegangen ist, fällt die Entscheidung schwer, welcher von beiden der schönere Weg ist.
 
 ---
 

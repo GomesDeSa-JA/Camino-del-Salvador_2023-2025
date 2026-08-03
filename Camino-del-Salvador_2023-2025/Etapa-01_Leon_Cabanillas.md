@@ -82,7 +82,7 @@ Im Jahr 2024 machten Roze und ich hier während unserer Wanderung eine Pause. Di
 
 *Fiquei hospedado neste albergue em 2023 e, em 2025, utilizámos a área coberta e a mesa para descansar e comer alguma coisa.*
 
-É uma excelente opção para quem prefere dividir a primeira etapa antes de chegar a La Robla. No entanto, convém telefonar com antecedência e levar alguma comida, pois existem poucos serviços na aldeia.
+É uma excelente opção para quem prefere dividir a primeira etapa antes de chegar a La Robla. No entanto, convém telefonar com antecedência e levar alguma comida, uma vez que as possibilidades de abastecimento na localidade são limitadas ou inexistentes.
 
 O edifício funciona como centro comunitário e apenas uma pequena parte está adaptada para peregrinos, com quatro camas rebatíveis instaladas numa parede. Em 2023 existiam apenas máquinas automáticas de café e bebidas, que nem sempre estavam abastecidas, segundo relatos de outros peregrinos.
 
@@ -95,7 +95,7 @@ Em 2024, Roze e eu fizemos aqui uma pausa. Aproveitámos os bancos cobertos para
 
 *Me alojé en este albergue en 2023 y, en 2025, utilizamos la zona cubierta y la mesa para descansar y comer algo.*
  
-Es una buena alternativa para quienes prefieren no caminar hasta La Robla el primer día. Conviene llamar con antelación y llevar algo de comida, ya que la oferta de servicios es limitada.
+Es una buena alternativa para quienes prefieren no caminar hasta La Robla el primer día. Conviene llamar con antelación y llevar algo de comida,dado que las posibilidades de abastecimiento en la localidad son limitadas o inexistentes.
 
 El edificio funciona principalmente como centro social del pueblo y dispone de cuatro camas abatibles para peregrinos. En 2023 solo había máquinas expendedoras de café y bebidas, que no siempre estaban abastecidas.
 
@@ -108,7 +108,7 @@ En 2025, Roze y yo hicimos aquí una agradable pausa para descansar bajo la zona
 
 *I stayed at this hostel in 2023, and in 2025 we used the covered area and the table to relax and have a bite to eat.*
 
-It is an excellent option for pilgrims who do not wish to continue all the way to La Robla on the first day. It is advisable to call in advance and bring some food, as services in the village are limited.
+It is an excellent option for pilgrims who do not wish to continue all the way to La Robla on the first day. It is advisable to call in advance and bring some food, as the local amenities are limited or non-existent.
 
 The building mainly serves as the village community centre, with four fold-away beds installed for pilgrims. In 2023 there were only coffee and drink vending machines, which were not always fully stocked.
 
