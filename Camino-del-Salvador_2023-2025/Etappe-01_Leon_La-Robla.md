@@ -1,16 +1,10 @@
-
-
-
-### 🇪🇸 Spanisch
-
-
 ## Camino del Salvador 2025 
 
 > _Der Camino del Salvador begann für uns einen Tag später als geplant. Ein Gerichtstermin in Sintra hatte unsere sorgfältig vorbereitete Planung durcheinander gebracht. Trotzdem standen wir nun in León – voller Vorfreude auf einen Weg, von dem ich  sagen kann, dass er einer der schönsten Spaniens ist._
 
 ---
 ### Etappe 1: León – La Robla 
-**Distanz:** 27,2 km ✦ ↑ 356 m ↓ 240 m  ✦  ca. 7 h 
+**Distanz:** 27,2 km **Desnivel:** ↑ 356 m ↓ 240 m  **Duración:**  ca. 7 h 
 
 04 Mai 2025 
 

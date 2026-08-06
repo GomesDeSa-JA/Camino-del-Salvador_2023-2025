@@ -69,7 +69,7 @@ Ao fim de semana, já há muitos caminhantes e desportistas a percorrer o trilho
 
 ![](media/2023_Etappe-01/20230427_153852c.jpg)
 
-🇩🇪  Diese Unterkunft eignet sich besonders für Pilger, die die erste Etappe nicht bis nach La Robla verlängern möchten. Wer hier übernachten möchte, sollte vorher telefonisch nachfragen und vorsichtshalber etwas Verpflegung mitnehmen, da die Versorgungsmöglichkeiten im Ort begrenzt sind bzw nicht vorhanden sind.
+🇩🇪  Diese Unterkunft eignet sich besonders für Pilger, die die erste Etappe nicht bis nach La Robla verlängern möchten. Wer hier übernachten möchte, sollte vorher telefonisch nachfragen und vorsichtshalber etwas Verpflegung mitnehmen, da die Versorgungsmöglichkeiten im Ort begrenzt bzw nicht vorhanden sind.
 
 Die Herberge befindet sich in einem Mehrzweckgebäude des Dorfes, das auch für Veranstaltungen genutzt wird. Für Pilger wurden an einer Wand vier klappbare Betten eingerichtet. Als ich 2023 dort übernachtete, gab es lediglich einen Kaffee- und Getränkeautomaten. Aus früheren Pilgerberichten wusste ich, dass diese Automaten nicht immer aufgefüllt waren.
 

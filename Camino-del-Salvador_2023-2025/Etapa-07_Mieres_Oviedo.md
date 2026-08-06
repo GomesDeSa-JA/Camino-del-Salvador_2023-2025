@@ -1,8 +1,11 @@
 # Camino del Salvador 2023 
 
 ### Etappe_07: Mieres → Oviedo 
+**Distancia:** 18,0 km **Desnivel:**  ↑531 m  ↓503 m  **Duración:** 4 h 45 min
+
 3 Mai 2023
 #### El Escanciador de la Plaza de Requexu
+
 ![](media/2023_Etappe-07/20230503_083038c.jpg)
 #### Iglesia De San Juan
 

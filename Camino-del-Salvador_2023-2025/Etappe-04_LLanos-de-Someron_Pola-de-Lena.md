@@ -15,15 +15,19 @@
 #### 🇪🇸 A partir de aquí hay un tramo difícil de unos 50 m.
 
 ![](media/2025_Etappe-04/20250507_102208c.jpg)
+
 Hay dos tramos de entre 1 y 2 m de longitud en los que hay que tener las manos libres para poder utilizarlas como apoyo.
 
  🇩🇪 Ab hier folgt ein schwieriger Abschnitt von etwa 50 m.
+ 
 Es gibt zwei Stellen von 1 bis 2 m Länge, an denen man die Hände frei haben muss, um sie als Stütze nutzen zu können.
 
 🇵🇹 A partir daqui, há um troço difícil com cerca de 50 m.
+
 Existem dois troços com 1 a 2 m de comprimento em que é necessário ter as mãos livres para poder utilizá-los como apoio.
 
 🇬🇧 From here on, there is a difficult stretch of about 50 metres.
+
 There are two sections, each 1 to 2 metres long, where you need to have your hands free so that you can use them for support.
 
 ![](media/2025_Etappe-04/20250507_102224c.jpg)

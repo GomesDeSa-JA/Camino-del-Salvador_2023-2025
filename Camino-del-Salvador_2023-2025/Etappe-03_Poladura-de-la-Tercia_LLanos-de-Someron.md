@@ -194,7 +194,6 @@ This section remains difficult until shortly before Pajares. If you turn right e
 #### Ein Atempause für ein Foto 
 - A short break for a photo
 
-
 ![](media/2025_Etappe-03/20250506_121918c.jpg)
 
 - Una pausa para una foto
