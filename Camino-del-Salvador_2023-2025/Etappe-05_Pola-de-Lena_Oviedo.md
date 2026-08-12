@@ -104,11 +104,18 @@ Pequeños oasis en medio de la civilización
 
 ---
 
-
 <details>
 <summary>Credencial del Peregrino</summary>
 
-[2025-05-03_08-Credencial_del_Peregrino_Camino_San_Salvador](2025-05-03_08-Credencial_del_Peregrino_Camino_San_Salvador.pdf)
+![Credencial](media/2025_Ettappe-05/2025-05-03a08_Credencial-del-Peregrino_Camino-de-San-Salvador-1.jpg)
+![Credencial](media/2025_Ettappe-05/2025-05-03a08_Credencial-del-Peregrino_Camino-de-San-Salvador-2.jpg)
+![Credencial](media/2025_Ettappe-05/2025-05-03a08_Credencial-del-Peregrino_Camino-de-San-Salvador-3.jpg)
+![Credencial](media/2025_Ettappe-05/2025-05-03a08_Credencial-del-Peregrino_Camino-de-San-Salvador-4.jpg)
+![Credencial](media/2025_Ettappe-05/2025-05-03a08_Credencial-del-Peregrino_Camino-de-San-Salvador-5.jpg)
+![Credencial](media/2025_Ettappe-05/2025-05-03a08_Credencial-del-Peregrino_Camino-de-San-Salvador-6.jpg)
+![Credencial](media/2025_Ettappe-05/2025-05-03a08_Credencial-del-Peregrino_Camino-de-San-Salvador-7.jpg)
+
+![](2025-05-03a08_Credencial-del-Peregrino_Camino-de-San-Salvador-8.jpg)
 
 </details>
 

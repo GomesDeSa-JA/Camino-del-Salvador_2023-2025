@@ -144,7 +144,12 @@ I did not disagree with her because the Camino Primitivo is undoubtedly exactly 
 <details>
 <summary>Credencial del Peregrino</summary>
 
-[2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador_sig](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador_sig.pdf)
+![](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador1.jpeg)
+![](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador.jpeg)
+![](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador2.jpeg)
+![](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador3.jpeg)
+![](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador4.jpeg)
+![](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador5.jpeg)
 
 </details>
 

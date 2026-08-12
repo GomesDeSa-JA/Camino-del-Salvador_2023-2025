@@ -1,3 +1,4 @@
+
 # O Meu Caminho
 ***Memórias, Credenciais e Horizontes por descobrir***
 
@@ -29,7 +30,7 @@ Agora, não sei qual será o Caminho que vai narrar, com passos documentados nes
 <details>
 <summary>🇩🇪 Wie alles begann </summary>
 
-Es gab Zeiten, da bin ich mit dem Bus der  Eurolines nach Portugal gefahren. Das waren 24 Stunden Fahrt ohne Zwischenstopps, sehr eng, mit 5-Liter-Großflaschen unter dem Sitz und mit Provianttaschen voller Chouriço und Schinken aus der Heimat oder Tüten mit Schokolade und Bonbons für die Verwandten dort. Danach bin ich anderthalb Jahrzehnte lang immer mit dem Zug gefahren – mit dem Nachtzug (D-Zug) und dem Sul-Expresso, in denen man die normalen Sitzplätze nicht reservieren konnte. Glück hatte, wer einen freien Platz fand; oft verbrachten wir die Nacht an die Tür gelehnt, und wer ein kleines Plätzchen im Gang fand, um sich hinhocken zu können, konnte wenigstens mal die Augen schließen. Ein Plausch hier, eine Zigarette dort, das war unsere nächtliche Ablenkung, um wach zu bleiben. Aber mit den neuen TGV- und Thalys-Zügen hat sich alles geändert; man kann die Fenster nicht mehr öffnen, um die frische Nachtluft einzuatmen und eine Zigarette zu rauchen.
+Es gab Zeiten, da bin ich mit dem Bus der  Eurolines nach Portugal gefahren. Das waren 24 Stunden Fahrt ohne Zwischenstopps, sehr eng, mit 5-Liter-Großflaschen Wein unter dem Sitz und mit Provianttaschen voller Chouriço und Schinken aus der Heimat oder Tüten mit Schokolade und Bonbons für die Verwandten dort. Danach bin ich anderthalb Jahrzehnte lang immer mit dem Zug gefahren – mit dem Nachtzug (D-Zug) und dem Sul-Expresso, in denen man die normalen Sitzplätze nicht reservieren konnte. Glück hatte, wer einen freien Platz fand; oft verbrachten wir die Nacht an die Tür gelehnt, und wer ein kleines Plätzchen im Gang fand, um sich hinhocken zu können, konnte wenigstens mal die Augen schließen. Ein Plausch hier, eine Zigarette dort, das war unsere nächtliche Ablenkung, um wach zu bleiben. Aber mit den neuen TGV- und Thalys-Zügen hat sich alles geändert; man kann die Fenster nicht mehr öffnen, um die frische Nachtluft einzuatmen und eine Zigarette zu rauchen.
 
 Genau zu dieser Zeit tauchte Ryanair am Himmel auf, und im Porto wurden die unterirdischen Tunnel gebaut, damit die Metro eine Anbindung an den Flughafen hat. In zwei oder drei Stunden macht man heute einen Sprung und erreicht die halbe Welt. Wenn man am Wochenende auf den Restaurantbesuch verzichtet, reicht das Geld schon für das Ticket, und es bleibt sogar noch etwas Kleingeld für ein Bier in Portugal übrig. 
 
@@ -47,8 +48,15 @@ Jetzt weiß ich noch nicht, welcher Weg die Geschichte dieses Ausweises mit doku
 </details>
 
 ---
+This route takes us there too
+
+Este caminho também nos leva até lá
 
 ![](media/Brienzwiler-Brünigpass.jpg)
+
+Auch dieser Weg führt uns dorthin
+
+Este camino también nos lleva hasta allá.
 
 ---
 # Mi camino
@@ -101,11 +109,12 @@ The lady who attended to me saw me with my small rucksack; I wasn’t tired, I l
 
 ## A minha Credencial com Horizontes por descobrir
 
-
+- Significado de la inscripción
+- Significado da inscrição
+- Meaning of the inscription
 
 <details>
-<summary>Bedeutung der Inschrift </summary>
-
+<summary>Bedeutung der Aufschrift </summary>
 
 **CVM  CRVCE  TEMPLA  VIDE  FIERI  IACOBO  ZEBEDEI  NAM  CRVCIS  ABSQVE  FIDE  NEMO  FIT  AVLA  DEI** 
 
@@ -125,11 +134,15 @@ The lady who attended to me saw me with my small rucksack; I wasn’t tired, I l
 
 ---
 
+Começar o caminho aqui seria o meu sonho.
+
+Hier den Weg zu beginnen, wäre mein Traum.
+
 ![](media/Interlaken-Brienzwiler.jpg)
-Auch dieser Weg führt uns dorthin
-Este camino también nos lleva hasta allá.
-This route takes us there too
-Este caminho também nos leva até lá
+
+Mi sueño sería empezar el camino aquí
+
+It would be my dream to start the way here
 
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 

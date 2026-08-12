@@ -11,13 +11,15 @@
 ---
 
 ### Die_wichtigste_Erfahrungen 
-🇩🇪 Auf dem Camino del Salvador
 
-### 1. Ein fast unbekannter Pilgerweg
+<details>
+<summary>🇩🇪 Auf dem Camino del Salvador</summary>
+
+#### 1. Ein fast unbekannter Pilgerweg
 
 Der Camino del Salvador wird unter Pilgern vergleichsweise seltener erwähnt, obwohl er zu den schönsten und eindrucksvollsten Pilgerwege Spaniens gehört.
 
-### 2. Anspruchsvoll, aber gut machbar
+#### 2. Anspruchsvoll, aber gut machbar
 
 Der Weg ist körperlich fordernd, insbesondere wegen seiner Anstiege und des Gebirgsgeländes. Mit normaler Kondition, ausreichend Zeit und guter Vorbereitung ist er jedoch gut zu bewältigen.
 
@@ -53,11 +55,15 @@ Trotz aller Herausforderungen hinterließ der Camino del Salvador einen so stark
 
 Die beiden Erfahrungen auf demselben Weg waren völlig unterschiedlich. Faktoren wie Wetter, körperliche Verfassung, Begleitung und persönliche Umstände machen jede Pilgerreise zu einem einzigartigen Erlebnis.
 
+</details>
+
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
 ---
 ### Key_Experiences 
-🇬🇧 On the Camino del Salvador
+
+<details>
+<summary>🇬🇧 On the Camino del Salvado</summary>
 
 #### 1. An almost unknown pilgrimage route
 I was surprised that the Camino del Salvador is mentioned so rarely among pilgrims, despite considering it one of the most beautiful pilgrimage routes in Spain.
@@ -98,11 +104,15 @@ Despite its difficulties, the Camino del Salvador left such a strong impression 
 
 The two journeys on the same route were completely different experiences, demonstrating how factors such as weather, fitness, timing, and companionship can shape a pilgrimage in unique ways.
 
+</details>
+
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
 ---
 ### As_principais_Experiências 
-🇵🇹  No Camino del Salvador
+
+<details>
+<summary>🇵🇹  No Camino del Salvador</summary>
 
 #### 1. Um caminho de peregrinação quase desconhecido
 
@@ -144,11 +154,15 @@ Apesar das dificuldades, o Camino del Salvador deixou uma impressão tão forte 
 
 Mesmo percorrendo exatamente o mesmo caminho, as experiências podem ser completamente diferentes. O clima, a companhia, a preparação física e as circunstâncias pessoais tornam cada caminhada única e especial.
 
+</details>
+
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
 ---
 ### Las_principales_Experiencias 
-🇪🇸 En el Camino del Salvador
+
+<details>
+<summary>🇪🇸 En el Camino del Salvador</summary>
 
 #### 1. Una ruta de peregrinación casi desconocida
 
@@ -190,6 +204,7 @@ A pesar de las dificultades, el Camino del Salvador le causó una impresión tan
 
 Aunque se recorra exactamente el mismo camino, las experiencias pueden ser completamente diferentes. El clima, la compañía, la preparación física y las circunstancias personales hacen que cada caminata sea única y especial.
 
+</details>
 ---
 
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
