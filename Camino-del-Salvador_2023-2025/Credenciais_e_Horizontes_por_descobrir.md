@@ -1,4 +1,5 @@
-# O Meu Caminho: Memórias, Credenciais e Horizontes por descobrir
+# O Meu Caminho
+***Memórias, Credenciais e Horizontes por descobrir***
 
 ## 📜 A História da Minha Credencial 
 
@@ -18,7 +19,9 @@ Agora, não sei qual será o Caminho que vai narrar, com passos documentados nes
 </details>
 
 ---
-# Mein Weg: Erinnerungen, Pilgerausweise und zu entdeckende Horizonte
+# Mein Weg
+***Erinnerungen, Pilgerausweise und zu entdeckende Horizonte***
+
 ## 📜 Die Geschichte meines Pilgerausweises
 
 <details>
@@ -43,10 +46,11 @@ Jetzt weiß ich noch nicht, welcher Weg die Geschichte dieses Ausweises mit doku
 
 ---
 
-![](Brienzwiler-Brünigpass.jpg)
+![](media/Brienzwiler-Brünigpass.jpg)
 
 ---
-# Mi camino: Recuerdos, Credenciales de Peregrino y Horizontes por descubrir
+# Mi camino
+***Recuerdos, Credenciales de Peregrino y Horizontes por descubrir***
 
 ## 📜 La Historia de mi Credencial de Peregrino
 
@@ -67,7 +71,8 @@ Ahora no sé cuál será el Camino que narrará, con pasos documentados en estos
 </details>
 
 ---
-# My journey: memories, pilgrim’s credentials and horizons yet to be discovered
+# My journey 
+***Memories, Pilgrim’s Credentials and Horizons yet to be discovered***
 
 ## 📜 The story of my pilgrim’s credential
 
@@ -87,14 +92,14 @@ The lady who attended to me saw me with my small rucksack; I wasn’t tired, I l
 
 </details>
 
-![](Interlaken-Brienzwiler.jpg)
+![](media/Interlaken-Brienzwiler.jpg)
 
 
 ---
 ## A minha Credencial com Horizontes por descobrir
 
 
-![](PT-Vila-do-Conde_CH-Brienzwiler.pdf)
+![](media/PT-Vila-do-Conde_CH-Brienzwiler.pdf)
 
 ---
 
