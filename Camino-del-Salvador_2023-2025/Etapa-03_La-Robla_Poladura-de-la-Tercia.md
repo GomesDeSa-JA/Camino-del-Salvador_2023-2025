@@ -33,12 +33,15 @@
 Even when you’re deep in the mountains, you can stay in touch with the world for free thanks to state-of-the-art communication systems. 
 
 🇪🇸 Una conexión con el mundo
+
 Aunque te encuentres en plena montaña, puedes mantenerte en contacto con el mundo de forma gratuita gracias a los sistemas de comunicación más modernos. 
 
 🇩🇪 Eine Verbindung zu der Welt
+
 Auch wenn man sich mitten in den Bergen befindet, kann man über modernste Kommunikationssysteme kostenlos mit der Welt in Verbindung bleiben. 
 
 🇵🇹 Uma ligação com o mundo
+
 Mesmo estando no meio das montanhas, é possível manter-se em contacto com o mundo gratuitamente através de sistemas de comunicação de última geração.
 
 ---

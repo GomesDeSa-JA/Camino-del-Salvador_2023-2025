@@ -107,8 +107,7 @@ The lady who attended to me saw me with my small rucksack; I wasn’t tired, I l
 <summary>Bedeutung der Inschrift </summary>
 
 
-**CVM CRVCE - TEMPLA VIDE FIERI IACOBO ZEBEDEI  
-NAM CRVCIS ABSQVE FIDE NEMO FIT AVLA DEI** 
+**CVM  CRVCE  TEMPLA  VIDE  FIERI  IACOBO  ZEBEDEI  NAM  CRVCIS  ABSQVE  FIDE  NEMO  FIT  AVLA  DEI** 
 
 **Diese Inschrift gehört zu den Weihekreuzen der Kathedrale von Santiago de Compostela.**
 
@@ -127,7 +126,10 @@ NAM CRVCIS ABSQVE FIDE NEMO FIT AVLA DEI**
 ---
 
 ![](media/Interlaken-Brienzwiler.jpg)
-
+Auch dieser Weg führt uns dorthin
+Este camino también nos lleva hasta allá.
+This route takes us there too
+Este caminho também nos leva até lá
 
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
