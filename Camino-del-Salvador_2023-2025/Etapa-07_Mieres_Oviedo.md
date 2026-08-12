@@ -141,6 +141,15 @@ I did not disagree with her because the Camino Primitivo is undoubtedly exactly 
 
 ---
 
+<details>
+<summary>Credencial del Peregrino</summary>
+
+[2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador_sig](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador_sig.pdf)
+
+</details>
+
+---
+
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
 ↪ [Etappe-01_Leon_La-Robla](Etappe-01_Leon_La-Robla.md)

@@ -104,8 +104,17 @@ Pequeños oasis en medio de la civilización
 
 ---
 
+
+<details>
+<summary>Credencial del Peregrino</summary>
+
+[2025-05-03_08-Credencial_del_Peregrino_Camino_San_Salvador](2025-05-03_08-Credencial_del_Peregrino_Camino_San_Salvador.pdf)
+
+</details>
+
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
+---
 ↪ [Camino-del-Salvador](Camino-del-Salvador.md)
 
 [...→](#Iter_Sancti_Salvatoris)

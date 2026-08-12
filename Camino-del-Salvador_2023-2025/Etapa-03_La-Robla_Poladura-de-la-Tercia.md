@@ -145,6 +145,14 @@ Apenas había empezado a recorrer este camino cuando ya se había despertado mi 
 Mal tinha começado a caminhar este caminho e já me despertaram a curiosidade por um novo. Há tanto para descobrir. Quem sabe, mas o tempo está a esgotar-se-me.  
 
 ---
+##### Um outro Camino Olvidado
+
+[Credenciais_e_Horizontes_por_descobrir](Credenciais_e_Horizontes_por_descobrir.md)
+
+
+>***Legenda / Beschreibung:** Nova/velha credencial pronta para dar vida aos campos em branco,  e descobrir Caminos Olvidados.*
+
+---
 #### 🇩🇪 Die Bilder sprechen für sich
 Das lässt sich nicht in Worte fassen.
 
