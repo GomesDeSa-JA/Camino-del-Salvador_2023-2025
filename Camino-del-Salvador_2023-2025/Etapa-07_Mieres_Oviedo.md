@@ -99,16 +99,44 @@ Lo que permanece no es su historia, sino la quietud de su presencia.
 ### La Salvadorana
 hoc praesens scriptum Salvadoranam vocatum libenter ei concedit
 
-![](media/2023_Etappe-07/20230503-Salvadoriana.jpg)
+![](media/2023_Etappe-07/2023-05-03_Salvadorana.jpg)
 
-„Das Pilgerzertifikat ist mehr als nur ein einfaches Zeugnis; es ist der Weg, den wir in uns tragen.“
 
-„O certificado de peregrinação é mais do que um simples testemunho, é o caminho que levamos dentro de nós.“
+🇩🇪 „Das Pilgerzertifikat ist mehr als nur ein einfaches Zeugnis; es ist der Weg, den wir in uns tragen.“
 
-„El certificado de peregrinación es más que un simple testimonio; es el camino que llevamos dentro de nosotros.“
+🇵🇹 „O certificado de peregrinação é mais do que um simples testemunho, é o caminho que levamos dentro de nós.“
 
-„The pilgrimage certificate is more than just a simple testimony; it is the path we carry within us.“
+🇪🇸 „El certificado de peregrinación es más que un simple testimonio; es el camino que llevamos dentro de nosotros.“
+
+🇬🇧 „The pilgrimage certificate is more than just a simple testimony; it is the path we carry within us.“
+
+---
+
+<details>
+<summary>**Hoc signo tuetur pius, hoc signo vincitur inimicus**.</summary>
+
+- 🇩🇪 „Durch dieses Zeichen wird der Fromme beschützt, durch dieses Zeichen wird der Feind besiegt.“ **oder** „Dieses Zeichen beschützt dich – und die Gegner haben keine Chance.“
+
+- 🇪🇸 „Con este signo se protege al piadoso, con este signo se vence al enemigo.“ **o** „Esta señal te protege – y los rivales no tienen ninguna oportunidad.“
+
+- 🇵🇹 „Por este sinal é protegido o piedoso, por este sinal é vencido o inimigo.“ **ou** „Este sinal protege-te – e os adversários não têm hipótese/chance.“
+
+- 🇬🇧 „By this sign the pious is protected, by this sign the enemy is defeated.“ **or** „This sign keeps you safe – and the opponents don't stand a chance.“
+
+„Diese Inschrift befindet sich auf der Rückseite des Cruz de la Victoria (Siegeskreuz) in der Cámara Santa der Kathedrale von Oviedo. Was im Jahr 908 als Schutzversprechen für Könige und Kreuzritter in Stein und Gold gemeißelt wurde, lässt sich heute als kraftvoller Zuspruch für den Lebens- und Pilgerweg verstehen: Wer das Zeichen des Schutzes in sich trägt, meistert jede Herausforderung und lässt innere wie äußere Widerstände hinter sich.“
+<details>
+<summary>📜 _Cruz de la Victoria_ und die Bedeutung des Stiftungsjahres 908</summary>
+
+Im Jahr **908** gab König Alfons III.  das _Cruz de la Victoria_ (Siegeskreuz) bei fränkischen Goldschmieden in Auftrag und schenkte es der Kathedrale San Salvador in Oviedo.
+
+- **Das Symbol:** Das goldene, edelsteinbesetzte Kreuz umschloss das einfache Holzkreuz, mit dem die christliche Rückeroberung (Reconquista) im Jahr 722 begonnen hatte.
+- **Das Zeichen für Pilger:** Es wurde zum ultimativen Schutzsymbol. Pilger, die in Oviedo starteten oder vorbeikamen, suchten den Segen unter genau diesem Kreuz und lasen die Inschrift (_Hoc signo tuetur..._), um spirituelle Kraft für die gefährliche Weiterreise nach Santiago de Compostela zu schöpfen.
+</details>
+</details>
+---
+
 ## Catedral de San Salvador
+### Santa Iglesia Catedral Basílica Metropolitana ***“Sancta Ovetensis”***
 
 -  ![](media/2023_Etappe-07/20230504_075544c.jpg)
 
@@ -144,12 +172,12 @@ I did not disagree with her because the Camino Primitivo is undoubtedly exactly 
 <details>
 <summary>Credencial del Peregrino</summary>
 
-![](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador1.jpeg)
-![](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador.jpeg)
-![](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador2.jpeg)
-![](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador3.jpeg)
-![](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador4.jpeg)
-![](2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador5.jpeg)
+![](media/2023_Etappe-07/2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador1.jpeg)
+![](media/2023_Etappe-07/2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador.jpeg)
+![](media/2023_Etappe-07/2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador2.jpeg)
+![](media/2023_Etappe-07/2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador3.jpeg)
+![](media/2023_Etappe-07/2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador4.jpeg)
+![](media/2023_Etappe-07/2023-04-26_2023-05-03_Credencial-del-Peregrino_Camino-de-San-Salvador5.jpeg)
 
 </details>
 
