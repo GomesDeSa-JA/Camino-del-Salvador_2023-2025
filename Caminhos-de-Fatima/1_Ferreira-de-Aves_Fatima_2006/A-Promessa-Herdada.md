@@ -63,3 +63,11 @@ Im Jahr 2006 waren wir eine der letzten Pilgergruppen aus dieser Gegend auf dem 
 Am 10. März 2017 war ich bei der Arbeit im „Signalwerk Wuppertal“, Vohwinkelerstraße 268, in der Elektronikabteilung am „Wobbeln-Messplatz“ und analysierte gerade „die Empfänger- und Sender-Kennlinien“, als ich einen Anruf von meiner Schwester Fátima aus Paris erhielt, die mich fragte, ob ich in Portugal sei, um ein Gelübde zu erfüllen.
 Als sie mir einen Screenshot schickte, war ich nicht überrascht, dass das Foto veröffentlicht worden war, denn in Deutschland wurden wir durch die Presse und das Fernsehen gut über ein neues europäisches Gesetz zur Veröffentlichung von Fotos Dritter informiert. Sind zwei Personen auf dem Foto zu sehen, muss zwingend eine Einwilligung eingeholt werden, um es veröffentlichen zu dürfen. Bei Fotos mit drei oder mehr Personen ist eine Einwilligung nicht mehr erforderlich.
 </details>
+
+---
+
+🔁 [Os_Caminhos](Os_Caminhos.md)
+
+↪ 
+
+ ...→
