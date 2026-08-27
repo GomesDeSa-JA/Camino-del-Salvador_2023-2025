@@ -10,8 +10,7 @@ aktualisiert: 2026-08-26T04:50:00
 
 🔁 [El Camino Primitivo Etappen](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/06_Camino-Primitivo_2023/El-Camino-Primitivo_Etappen.md)
 
-🔁 [El Caminhos de Caravaggio Etapas]([https://github.com/GomesDeSa-JA/Jakobswege/blob/main/](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
-
+🔁 [Caminhos de Caravaggio Etapas](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
 
  ...→
  
