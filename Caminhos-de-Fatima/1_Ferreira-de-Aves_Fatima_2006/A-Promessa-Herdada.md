@@ -15,7 +15,7 @@ O certo é que, por volta de 1976, debilitada pela idade e por graves problemas 
 ..., ... .
 
 Esta fotografia foi publicada a 10 de março de 2017 e tirada a 8 de maio de 2006, por volta das 14 horas, na IP3, perto do Lidl.
-Nessa altura, a tia Elena já estava a receber cuidados no hospital do Viseu. E, se bem me lembro, o peregrino (o Zé? de Aldeia Nova), que tinha começado o caminho connosco em Ferreira de Aves, também foi ao hospital para fazer exames, depois de ter sentido dores na perna.  Mais tarde, ele disse que as dores que sentira se deviam ao esforço inicial e que, segundo os médicos, poderia ter continuado a caminhar. Devido à placa metálica que tinha na perna, temia que a situação pudesse agravar-se, mas depois de saber que estava tudo bem, lamentou não ter continuado a peregrinação.
+Nessa altura, a tia Elena já estava a receber cuidados no hospital de Viseu. E, se bem me lembro, o peregrino (o Zé? de Aldeia Nova), que tinha começado o caminho connosco em Ferreira de Aves, também foi ao hospital para fazer exames, depois de ter sentido dores na perna.  Mais tarde, ele disse que as dores que sentira se deviam ao esforço inicial e que, segundo os médicos, poderia ter continuado a caminhar. Devido à placa metálica que tinha na perna, temia que a situação pudesse agravar-se, mas depois de saber que estava tudo bem, lamentou não ter continuado a peregrinação.
 
 <details>
 <summary>🇩🇪 Das geerbte Gelübde</summary>
