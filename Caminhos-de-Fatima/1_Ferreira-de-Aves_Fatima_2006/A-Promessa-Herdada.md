@@ -34,11 +34,11 @@ Zu diesem Zeitpunkt wurde Tante Elena bereits im Krankenhaus in Viseu versorgt. 
 ### Mein Großonkel
 >Wer meinen Großonkel kannte, wusste, dass er ein friedlicher Mensch war, und in seinem Verhalten waren Anzeichen dieser Ereignisse so deutlich zu erkennen, dass zwar jeder etwas ahnte, aber niemand Fragen stellte, geschweige denn offen darüber sprach, was geschehen war. Stattdessen legten sie Nossa Senhora de Fátima ein Gelübde ab, um diese Momente der Sorge und Ungewissheit zu überwinden.
 </details>
-
 ---
 ![](20060508-14hxx.webp)
-Foto de 2006  publicada no Diário de Viseu no dia 10 de Março de 2017
-Foto aus dem Jahr 2006, veröffentlicht im „Diário de Viseu“ am 10. März 2017
+-Foto de 2006  publicada no Diário de Viseu no dia 10 de Março de 2017.
+
+-Foto aus dem Jahr 2006, veröffentlicht im „Diário de Viseu“ am 10. März 2017
 
 ### 🇵🇹 Os últimos Peregrinos
 
