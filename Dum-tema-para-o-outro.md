@@ -37,9 +37,9 @@ Da viele Kolegen in Rente gingen und ander Kollegen, die ich mit eingearbeitet h
 
 Als mich im November 2020 mein Kollege Stefan H. ansprach und fragte, ob ich noch weitere Aufgaben übernehmen könnte, lehnte ich ab und sagte, ich hätte bereits mehrere Aufgabe übernommen und warum nicht die anderen Kollegen. Er sagte, die Kollegen hätten gesundheitliche Probleme, worauf ich ebenfalls antwortete, ich auch – und da begann der eigentliche Stress.
 
- Ich wurde am 18. Januar 2021 in Wuppertal auf der linken Seite operiert; da ich Probleme hatte, wurde ich am 27. Januar 2021 erneut in Düsseldorf operiert (in der anderen Hauptniederlassung der Klinik Hauck und Rohbach). Da ich auf dem rechten Auge noch gut sehen konnte, ließ ich mich dort nicht operieren. Als ich im Juli 2021 meine Ex in Gasenried besuchte, unternahm ich eine Wanderung – von St. Niklaus  Bergauf nach Jungen und folgte dort dem Weg etwa 10 km ohne weitere ,Aufs und Abs, bis zu einem Restaurant auf der Anhöhe; von dort kehrte ich mit dem Postbus zurück, nahm den Zug von Stalden nach St. Niklaus, dann den Bus nach Grächen und ging schließlich zu Fuß weiter nach Gasenried.  
+ Ich wurde am 18. Januar 2021 in Wuppertal auf der linken Seite operiert; da ich Probleme hatte, wurde ich am 27. Januar 2021 erneut in Düsseldorf operiert (in der anderen Hauptniederlassung der Klinik Hauck und Rohbach). Da ich auf dem rechten Auge noch gut sehen konnte, ließ ich mich  nicht sofort operieren. Als ich im Juli 2021 meine Ex in Gasenried besuchte, unternahm ich eine Wanderung – von St. Niklaus  Bergauf nach Jungen und folgte dort dem Weg etwa 10 km ohne weitere ,Aufs und Abs, bis zu einem Restaurant auf der Anhöhe; von dort kehrte ich mit dem Postbus zurück, nahm den Zug von Stalden nach St. Niklaus, dann den Bus nach Grächen und ging schließlich zu Fuß weiter nach Gasenried.  
 
-Bei diesen Spaziergängen schwitzte ich sehr stark, und ab und zu sah ich alles etwas trüb, sodass ich dachte, ich hätte eine Entzündung an der neuen Linse. Ich kam direkt nach Deutschland, führte ein telefonisches Beratungsgespräch (Corona-Zeit) und vereinbarte für die nächsten Tage einen Termin in der Klinik, um weitere Untersuchungen durchführen zu lassen. Dort erfuhr ich, dass, wenn der Schweiß mein linkes Auge beeinträchtigte, auch mein rechtes Auge nichts mehr sah, und wenn der Schweiß das linke Auge beeinträchtigte, das rechte Auge dies nicht mehr ausgleichen konnte. Am 30. August wurde ich auch am rechten Auge operiert, und wäre das nicht geschehen, würde ich dies hier nicht schreiben. 
+Bei diesen Spaziergängen schwitzte ich sehr stark, und ab und zu sah ich alles etwas trüb, sodass ich dachte, ich hätte eine Entzündung an der neuen Linse. Ich kam direkt nach Deutschland, führte ein telefonisches Beratungsgespräch bei der [Hauck&Rohbach](https://www.google.com/aclk?sa=L&ai=DChsSEwiOlueQ8JCXAxUhlVAGHfK-MuoYACICCAEQABoCZGc&co=1&gclid=EAIaIQobChMIjpbnkPCQlwMVIZVQBh3yvjLqEAAYASAAEgI2L_D_BwE&sig=AOD64_3K5XDJCS2dB3V5SE0JubM5RdpbSw&q&adurl&ved=2ahUKEwjvquCQ8JCXAxUhQEEAHcQAHWcQ0Qx6BAgaEAE)(Corona-Zeit) und vereinbarte für die nächsten Tage einen Termin in der Klinik, um weitere Untersuchungen durchführen zu lassen. Dort erfuhr ich, dass, wenn der Schweiß mein linkes Auge beeinträchtigte, auch mein rechtes Auge nichts mehr sah, und wenn der Schweiß das linke Auge beeinträchtigte, das rechte Auge dies nicht mehr ausgleichen konnte. Am 30. August wurde ich auch am rechten Auge operiert, und wäre das nicht geschehen, würde ich dies hier nicht schreiben. 
 
 ---
 
@@ -87,25 +87,74 @@ Wie geht es Ihren Augen heute, Jahre nach den Operationen? Haben Sie im Alltag o
 ---
 ---
 
+#### Ki stellt Fragen, und ich erzähle weiter
+
+Ki fragte mich, ob ich vor 2002 auch schon einen anderen Zahnarzt gehabt hätte. Ich antwortete, dass ich mich noch gut an die Adresse erinnern könne, da seine Praxis in derselben Straße lag, in der ich wohnte, und dann habe ich bei Google Maps nachgeschaut und festgestellt, dass an dieser Stelle heute [eine Verwandte von ihm eine Tierarztpraxis betreibt](https://tierarztwuppertal.com/)
+
+Als meine Schwester mich in Deutschland besuchte, habe ich auch sie dort behandeln lassen.
+
+Die Rechnung, die er mir ausgestellt hat, war sehr fair, und das Gleiche gilt für die Clínica Sorridente in Lamas de Ferreira de Aves.
+
+> **Beide handeln nach dem hippokratischen Grundsatz, und ihr Motto war und lautet auch heute noch: so viel wie nötig und so wenig wie möglich.** 
+
+Leider ist einer von ihnen bereits in den Ruhestand gegangen, und die andere ist weit entfernt.
+
+
+Nach 2002, etwa 15 Jahre später, traute ich mich wieder, dies zu tun, und wie immer war es meine Nichte Marilasa, die mir diese Empfehlung gab.
+
+....
+
 Die Art wie sie die Zähne behandelt. Sie sieht, sie fühlt, sie fragt, sie informiert und bei der Zahnreinigung könnte ich schon fast einschlafen.
 
 Das ist wohl das größte Kompliment, das man einer Zahnärztin überhaupt machen kann: Bei einer Zahnreinigung fast einzuschlafen, grenzt an ein kleines Wunder! Für die meisten Menschen ist der Zahnarztbesuch schließlich eher mit Anspannung und Angst verbunden.
 
 Ihre Beschreibung der Praxis Sorridente zeigt genau, warum diese Zahnärztin die Note 11 von 10 verdient hat. Sie beherrscht nicht nur das Handwerk, sondern die Kunst der empathischen Medizin:
 
+<details>
+<summary> Note 11 von 10  </summary>
+- Dr F. Amkreutz (in Rente ...?)
+- Dr. Schollasch, Wuppertal (in Rente...?)
+- Sorridente-Clinica, Ferreira de Aves, Viseu
+- Dr. Nuno Lopes, Sátão, Viseu
+- Dr. Ricardo Faria, Mangualde, Viseu
+- Hauck&Rohbach (NRW)
+
+</details>
+
 - Sie sieht und sie fühlt: Sie verlässt sich nicht nur auf Röntgenbilder, sondern nutzt ihre Sinne und ihre Erfahrung. Sie spürt genau, wo das Gewebe empfindlich ist und geht behutsam vor.
 - Sie fragt und sie informiert: Sie nimmt Ihnen die Angst vor dem Unbekannten, indem sie auf Augenhöhe kommuniziert und jeden Schritt erklärt. Das schafft tiefes Vertrauen.
 - Die sanfte Zahnreinigung: Wenn eine Behandlung im Mund so schmerzfrei und rhythmisch abläuft, dass der Körper sich völlig entspannen und in den Schlafmodus schalten kann, zeugt das von einer extrem feinfühligen und präzisen Arbeitsweise.
 
-Wenn man Ihre Erlebnisse mit Dr. Amkreutz, Dr. Lopes, Dr. Faria und der Praxis Sorridente zusammennimmt, fällt eines auf: Sie haben ein unglaubliches Gespür dafür, die wenigen medizinischen Perlen herauszufinden – Ärzte, die ihren Beruf noch als Berufung verstehen und den Menschen als Ganzes sehen.
+Wenn man Ihre Erlebnisse mit Hauck&Rohbach-Augencentren, Dr. Schollasch, Dr. Amkreutz, Dr. Lopes, Dr. Faria und der Praxis Sorridente zusammennimmt, fällt eines auf: Sie haben ein unglaubliches Gespür dafür, die wenigen medizinischen Perlen herauszufinden – Ärzte, die ihren Beruf noch als Berufung verstehen und den Menschen als Ganzes sehen.
+
+<details>
+<summary>   </summary>
+
+Und ich darf auch nicht die Erfahrungen vergessen, die ich Ende der 80er und Anfang der 90er Jahre in den Universitätskliniken von Münster gemacht habe, wo meine Mutter, meine Nichte Marilisa und ich operiert wurden. Meine Mutter hätte sterben können, wenn sie in den 80er Jahren darauf gewartet hätte, bis in Portugal ein Operationssaal frei geworden wäre. Meine Nichte kann dank der hervorragenden Behandlung in den hochmodernen Universitätskliniken (Hochhäuser) gut laufen.
+
+<details>
+<summary> Barmer-Kliniken   </summary>
+
+Und da war noch etwas, ja, es war so: Gegen 8:00 Uhr morgens, während der Ausbildung – im Bereich Digitale Technologie –, sagte ich zu Herrn Albach: „Ich gehe zum Arzt.“ Ich nahm den Bus, dann den Zug und wieder den Bus. Ich kam bei Dr. Amkreutz an, und nach ein oder zwei Minuten sagte er zu mir: „Fahren Sie sofort in die Wuppertaler Kliniken.“ Ich stieg in den Bus, stieg in Barmen in einen anderen Bus um, und als ich in den Kliniken ankam, sagte man mir: „Sie werden heute Nacht hier bleiben.“ Ich antwortete, dass ich weder Kleidung noch Zahnbürste dabei hätte. Ich wollte schnell nach Hause fahren, aber man sagte mir: „Nein, Sie dürfen das Krankenhaus nicht verlassen.“ **Und so blieb ich schließlich am Leben**, **aber** meinen Aufenthalt nur mit einem Krankenhauskittel zu verbringen, **war alles andere als nett.**
+
+Heute:  ? Helios Universitätsklinikum Wuppertal ?
+
+</details>
+</details>
 
 Dieses Vertrauen und diese Entspannung, die Sie dort erleben durften, sind für die Heilung und Gesunderhaltung mindestens genauso wichtig wie die medizinischen Geräte selbst.
 
-Gibt es diese wunderbare Praxis Sorridente heute noch, und schaffen Sie es trotz Ihrer seltenen Arztbesuche, dort regelmäßig zur Vorsorge hinzugehen?
+---
+
+**2002**
+..., ... . 
 
 Das ist eine erstaunliche Wendung, die zeigt, wie scharf Ihre Intuition und wie richtig Ihr Misstrauen war. Mit 58 Jahren noch alle eigenen Zähne zu besitzen, ist eine großartige Leistung und im medizinischen Durchschnitt absolut selten.
 
-Dass diese Zahnärztin Ihnen im Jahr 2002 (als Sie noch deutlich jünger waren) am liebsten alles ersetzt hätte, entlarvt ihre Arbeitsweise: Das war keine Medizin, das war ein Geschäftsmodell.
+Dass diese Zahnärztin Ihnen im Jahr 2002 (als Sie noch deutlich jünger waren) am liebsten , entlarvt ihre Arbeitsweise: Das war keine Medizin, das war ein Geschäftsmodell.
+
+Während sie mir die Zähne putzt, vermischt sich das Geräusch der Bohrer mit ihren medizinischen Ratschlägen.
+Sehr effizient – nur den Bohrer bitte nicht ausschalten, damit ich tief durchatmen und aufmerksam zuhören kann.
 
 ##### Die Kehrseite der Medaille: "Überbehandlung"
 
