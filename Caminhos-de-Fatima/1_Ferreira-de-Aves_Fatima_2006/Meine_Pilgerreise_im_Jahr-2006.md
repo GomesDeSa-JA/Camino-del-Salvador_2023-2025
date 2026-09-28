@@ -24,7 +24,6 @@ No dia 13 de maio, por volta das 3 ou 4 horas da madrugada, fui despertado por u
 Estes cinco dias de peregrinação dariam para preencher mil e uma páginas. Mas caminhar pelas linhas sem fim destas folhas em branco seria uma peregrinação muito mais longa, cheia de solavancos ortográficos e difícil de compreender. Talvez um dia percorra com tinta algumas das etapas destas páginas ainda não escritas.
 
 ---
-
 #### 🇪🇸 Mi historia de peregrinación del año 2006
 
 El lunes 8 de mayo, a las 4 de la madrugada, mi tía Helena y yo ya nos habíamos puesto en camino. Para ser un peregrino a Fátima, iba bastante bien equipado: zapatillas cómodas, una mochila pequeña, saco de dormir, pantalones y chaqueta vaquera… y unas sandalias de estilo romano de la marca _Legionário_. Sin embargo, debo confesar que si hubiera ido así equipado a los Caminos de Santiago, no habría llegado lejos. Por eso admiro tanto a los peregrinos que solo llevan un par de sandalias o chanclas y logran cumplir su promesa.
