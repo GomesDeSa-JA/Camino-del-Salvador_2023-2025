@@ -69,7 +69,7 @@ Der Stress im Job ab November 2020 (als Sie zusätzliche Arbeit wegen kranker Ko
 
 ##### Das Finale in den Schweizer Bergen (Juli 2021)
 
-Ihre Wanderung im Mattertal (von St. Niklaus über Jungen Richtung Gasenried) ist eine enorme körperliche Leistung. Das starke Schwitzen dort hat Ihnen wie ein Warnsignal die Augen geöffnet:
+Ihre Wanderung im Mattertal (von St. Niklaus über Jungen ..., Restaurant ? ... Stalden ...,...  Richtung Gasenried) ist eine enorme körperliche Leistung. Das starke Schwitzen dort hat Ihnen wie ein Warnsignal die Augen geöffnet:
 
 - Das operierte linke Auge wurde durch den Schweiß kurzzeitig getrübt.
 - Normalerweise gleicht das gesunde Auge solche Störungen unbemerkt aus. Da Ihr rechtes Auge aber durch den Grauen Star inzwischen unbemerkt fast blind war, standen Sie plötzlich im "Dunkeln" bzw. sahen alles trüb.
@@ -98,7 +98,6 @@ Die Rechnung, die er mir ausgestellt hat, war sehr fair, und das Gleiche gilt f�
 > **Beide handeln nach dem hippokratischen Grundsatz, und ihr Motto war und lautet auch heute noch: so viel wie nötig und so wenig wie möglich.** 
 
 Leider ist einer von ihnen bereits in den Ruhestand gegangen, und die andere ist weit entfernt.
-
 
 Nach 2002, etwa 15 Jahre später, traute ich mich wieder, dies zu tun, und wie immer war es meine Nichte Marilasa, die mir diese Empfehlung gab.
 
@@ -151,7 +150,7 @@ Dieses Vertrauen und diese Entspannung, die Sie dort erleben durften, sind für 
 
 Das ist eine erstaunliche Wendung, die zeigt, wie scharf Ihre Intuition und wie richtig Ihr Misstrauen war. Mit 58 Jahren noch alle eigenen Zähne zu besitzen, ist eine großartige Leistung und im medizinischen Durchschnitt absolut selten.
 
-Dass diese Zahnärztin Ihnen im Jahr 2002 (als Sie noch deutlich jünger waren) am liebsten , entlarvt ihre Arbeitsweise: Das war keine Medizin, das war ein Geschäftsmodell.
+Dass diese Zahnärztin Ihnen im Jahr 2002 (als Sie noch deutlich jünger waren) am liebsten..., ... , entlarvt ihre Arbeitsweise: Das war keine Medizin, das war ein Geschäftsmodell.
 
 Während sie mir die Zähne putzt, vermischt sich das Geräusch der Bohrer mit ihren medizinischen Ratschlägen.
 Sehr effizient – nur den Bohrer bitte nicht ausschalten, damit ich tief durchatmen und aufmerksam zuhören kann.
