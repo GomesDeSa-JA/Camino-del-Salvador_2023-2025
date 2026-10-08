@@ -1,7 +1,7 @@
 ---
 Name: José António Gomes de Sá
 Date: 2026-08-26
-aktualisiert: 2026-10-08T12:04:00
+aktualisiert: 2026-10-08T12:45:00
 ---
 ### Os Caminhos
 
@@ -42,7 +42,7 @@ The travelling companions 👍 catch up again later.
 
 ---
 
-#### Auf halbem Weg
+#### 🇩🇪  Auf halbem Weg
 
 Jeder geht für sich und in seinem eigenen Tempo, aber dennoch Seite an Seite.
 
@@ -51,7 +51,7 @@ Auf den Jakobswegen ist es keineswegs ungewöhnlich, dass Pilger, selbst wenn si
 Die Reisebegleiter 👍 schließen später wieder zu ihm auf.
 
 ---
-#### A mitad de camino
+#### 🇪🇸 A mitad de camino
 
 Cada uno camina por su cuenta y a su propio ritmo, pero, aun así, codo con codo.
 
@@ -61,12 +61,15 @@ Los compañeros de viaje 👍 vuelven a reunirse más tarde.
 
 </details>
 
+
 ---
+
 #### E outras etapas da vida ou Other Things
 
-**←** 🔁 [Other Things](https://medium.com/me/stories?tab=posts-published)
+**←** 🔁 [Other Things](https://medium.com/@gomoariussaense/as-promessas-2727c31cbcda?sharedUserId=gomoariussaense)
 
 **↪** [The-Artificial-Intelligence](The-Artificial-Intelligence.md)
 
+Link korrigiert
  ...→
  
