@@ -13,7 +13,7 @@ Man könnte tausend und eine Seite über diese fünf Tage der Pilgerschaft schre
 ---
 #### 🇵🇹 A minha história de peregrinação do ano de 2006
 
-Na segunda-feira, dia 8 de maio, às 4 horas da madrugada, a tia Helena e eu já estávamos a caminho. Para um peregrino de Fátima, eu até ia bem equipado: ténis confortáveis, uma mochila pequena, saco-cama, calças e casaco de ganga… e umas sandálias estilo romano da marca _Legionário_. Contudo, devo confessar que, se fosse assim equipado para os Caminhos de Santiago, teria ficado por terra. Por isso mesmo, admiro profundamente os peregrinos que trazem apenas umas sandálias ou chinelos e conseguem cumprir a sua promessa.
+Na segunda-feira, dia 8 de maio, às 4 horas da madrugada, a tia Helena e eu já estávamos a caminho. Para um peregrino de Fátima, eu até ia bem equipado: ténis confortáveis, uma mochila pequena, saco-cama, calças e casaco de ganga… e umas sandálias estilo romano da marca **_Legionário_.** Contudo, devo confessar que, se fosse assim equipado para os Caminhos de Santiago, teria ficado por terra. Por isso mesmo, admiro profundamente os peregrinos que trazem apenas umas sandálias ou chinelos e conseguem cumprir a sua promessa.
 
 Esperámos no frio da madrugada e caminhámos sob o calor da tarde. Estava muito calor e os pés queriam libertar-se dos ténis fechados. Ao segundo dia, fiz-lhes a vontade e calcei as sandálias para que sentissem a aragem do dia. Se eu soubesse que esse capricho, ao descer a Serra do Luso, me iria criar tantas bolhas, não teria cedido ao desejo dos meus pés.
 
