@@ -7,6 +7,8 @@ aktualisiert: 2026-10-08T12:45:00
 
 ↪ [A Promessa Herdada](Caminhos-de-Fatima/1_Ferreira-de-Aves_Fatima_2006/A-Promessa-Herdada.md)
 
+↪ [Readme](Readme.md)
+
 🔁 [Camino Francés –Etapas– ](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/01_Camino-Frances_2012/Camino-Frances_Etapas.md)
 
 🔁 [Camino del Norte –Readme– ](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/04_Camino-del-Norte_2018-X/Readme.md)
