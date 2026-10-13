@@ -7,7 +7,7 @@ aktualisiert: 2026-10-08T12:45:00
 
 ↪ [A Promessa Herdada](Caminhos-de-Fatima/1_Ferreira-de-Aves_Fatima_2006/A-Promessa-Herdada.md)
 
-↪ [Readme](Readme.md)
+↪ [Readme](Jakobswege/Readme.md)
 
 🔁 [Camino Francés –Etapas– ](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/01_Camino-Frances_2012/Camino-Frances_Etapas.md)
 
@@ -72,6 +72,5 @@ Los compañeros de viaje 👍 vuelven a reunirse más tarde.
 
 **↪** [Artificial-Intelligence](Artificial-Intelligence.md)
 
-Link korrigiert
  ...→
  
