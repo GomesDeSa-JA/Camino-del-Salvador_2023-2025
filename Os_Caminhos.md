@@ -70,7 +70,7 @@ Los compañeros de viaje 👍 vuelven a reunirse más tarde.
 
 **←** 🔁 [Other Things](https://medium.com/@gomoariussaense/as-promessas-2727c31cbcda?sharedUserId=gomoariussaense)
 
-**↪** [The-Artificial-Intelligence](The-Artificial-Intelligence.md)
+**↪** [Artificial-Intelligence](Artificial-Intelligence.md)
 
 Link korrigiert
  ...→
