@@ -43,7 +43,6 @@ El 13 de mayo, entre las 3 y las 4 de la madrugada, me despertaron los cantos de
 Estos cinco días de peregrinación darían para llenar mil y una páginas. Pero recorrer las líneas incontables de estas hojas en blanco sería una peregrinación mucho más larga, llena de baches ortográficos y difícil de comprender. Tal vez algún día recorra con tinta algunas etapas de estas páginas no escritas.
 
 ---
-
 #### 🇬🇧 My Pilgrimage Story from 2006
 
 It was Monday, May 8th, at 4:00 AM, when Aunt Helena and I were already on our way. For a pilgrim heading to Fátima, I thought I was quite well-equipped: comfortable sneakers, a small backpack, a sleeping bag, jeans, a denim jacket… and a pair of Roman-style sandals by the brand _Legionário_. However, I must confess that if I had set off for the Camino de Santiago with that gear, I wouldn't have made it very far. That is why I deeply admire those pilgrims who wear nothing but sandals or flip-flops and still manage to fulfill their vows.
