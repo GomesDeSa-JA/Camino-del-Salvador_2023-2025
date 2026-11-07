@@ -1,7 +1,7 @@
 ---
 Name: José António Gomes de Sá
-Date: 2026-10-27
-aktualisiert: 2026-10-30T05:49:00
+Date: 2026-11-07
+aktualisiert: 2026-11-07T06:55:00
 ---
 ### Os Caminhos
 
@@ -15,6 +15,8 @@ aktualisiert: 2026-10-30T05:49:00
 
 **←**🔁 [Camino de Levante –Etapas–](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/03_Camino-Levante_2015_2019/Camino-de-Levante_Etapas.md)
 
+**←** 🔁  [Santiago de Compostela→Fátima –Etapas– ]( https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
+
 **←**🔁 [Camino del Norte –Readme– ](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/04_Camino-del-Norte_2018-X/Readme.md)
 
 **←**🔁 [Camino del Norte –Etappen–](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
@@ -26,7 +28,6 @@ aktualisiert: 2026-10-30T05:49:00
 **←**🔁 [Caminhos de Caravaggio –Etapas–](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
 
 
-Link ergänzt
 
 <details>
 <summary>A meio do caminho  ⁘ In the middle of the journey </summary>
@@ -70,7 +71,6 @@ Los compañeros de viaje 👍 vuelven a reunirse más tarde.
 </details>
 
 ---
-
 #### E outras etapas da vida ou Other Things
 
 

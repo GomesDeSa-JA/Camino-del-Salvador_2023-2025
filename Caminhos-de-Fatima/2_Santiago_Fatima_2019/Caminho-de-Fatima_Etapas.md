@@ -1,4 +1,4 @@
-## Caminho de Santiago – Fátima 2019 
+## Etapas: Caminho de Santiago – Fátima 2019 
 
 ### Santiago de Compostela → Fátima (xx Km)
 - **Start:**  13 Juni  2019
