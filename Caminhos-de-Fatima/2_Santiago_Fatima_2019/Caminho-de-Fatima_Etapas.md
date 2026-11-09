@@ -1,14 +1,14 @@
 ## Etapas: Caminho de Santiago – Fátima 2019 
 
-### Santiago de Compostela → Fátima (xx Km)
-- **Start:**  13 Juni  2019
-- **Ende:**  27  Juni 2019
+### Santiago de Compostela → Fátima ( Soma = 462,7 Km  "ca. 490 Km")
+- **Start:** 13 Juni  2019
+- **Ende:** 27 Juni 2019
 
-> **xx Etappen bei etwa 30 Km pro Etappe**
-> 
-> **xx Etappen bei etwa 25 Km pro Etappe**
+> **"17" Etappen** bei etwa 30 Km pro Etappe
 
-### ![](Rota-Caramelita-10.png) Camino Português
+> **"20"** Etappen bei etwa 25 Km pro Etappe
+
+### ![](Rota-Carmelita10.png) Camino Português
 
 #### Santiago de Compostela → Coimbra
 
@@ -24,11 +24,11 @@
 15 de Junho 2019
 
 ---
-#### [Etappe-04_O-Porrino_Sao-Pedro-de-Rubiaes](Etappe-04_O-Porrino_Sao-Pedro-de-Rubiaes.md)
+#### [Etappe-04_O-Porrino_Rubiaes](Etappe-04_O-Porrino_Rubiaes.md)
 16 de Junho 2019
 
 ---
-#### [Etappe-05_Sao-Pedro-de-Rubiaes_Vitorino-dos-Piaes](Etappe-05_Sao-Pedro-de-Rubiaes_Vitorino-dos-Piaes.md)
+#### [Etappe-05_Rubiaes_Vitorino-dos-Piaes](Etappe-05_Rubiaes_Vitorino-dos-Piaes.md)
 17 de Junho 2019
 
 ---
@@ -56,7 +56,8 @@
 23 de Junho 2019
 
 ---
-### ![](Rota-Caramelita-10.png) Rota Caramelita 111 Km
+### ![](Rota-Carmelita10.png) Rota Carmelita 111 Km (***Soma = ca. 95 Km***)
+
 #### Coimbra → Fátima
 
 #### [Etappe-12_Sernadelo_Coimbra](Etappe-12_Sernadelo_Coimbra.md)
@@ -75,6 +76,7 @@
 27 de Junho 2019
 
 ---
+
 #### [Etappe-16_Fatima](Etappe-16_Fatima.md)
 28 de Junho 2019
 
@@ -85,32 +87,14 @@
 
 🇬🇧 🇪🇸 🇵🇹 🇩🇪 
 
-
-<details>
-<summary></summary>
-
-🇬🇧  
-
-----
- 🇪🇸 
-
----
-🇵🇹  
-
----
-🇩🇪 
-
----
-</details>
-
 </details>
 
 ---
 
-↪ 
+↪ [Readme](Jakobswege/Readme.md) 
 
-**←** 🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
+↪ [Os_Caminhos](Os_Caminhos.md)
 
-**←** 🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
 
  ...→

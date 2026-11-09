@@ -4,28 +4,27 @@ Date: 2026-11-07
 ---
 ### Os Caminhos
 
-↪   ![](Rota-Caramelita-6.png)  [A Promessa Herdada](Caminhos-de-Fatima/1_Ferreira-de-Aves_Fatima_2006/A-Promessa-Herdada.md)
+![](Rota-Carmelita6.png)  [A Promessa Herdada](Caminhos-de-Fatima/1_Ferreira-de-Aves_Fatima_2006/A-Promessa-Herdada.md)
 
-**←** 🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
+🔁 [Readme](https://github.com/GomesDeSa-JA/Jakobswege#)
 
-**←** 🔁 [Camino Francés –Etapas– ](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/01_Camino-Frances_2012/Camino-Frances_Etapas.md)
+🔁 [Camino Francés](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/01_Camino-Frances_2012/Camino-Frances_Etapas.md)
 
-**←** 🔁 [Camino Mozárabe –Etapas–](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/02_Camino-Mozarabe_2014/Camino_Mozarabe_Etapas.md)
+🔁 [Camino Mozárabe](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/02_Camino-Mozarabe_2014/Camino_Mozarabe_Etapas.md)
 
-**←** 🔁 [Camino de Levante –Etapas–](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/03_Camino-Levante_2015_2019/Camino-de-Levante_Etapas.md)
+🔁 [Camino de Levante](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/03_Camino-Levante_2015_2019/Camino-de-Levante_Etapas.md)
 
-**←** ![](Rota-Caramelita-6.png) [Santiago de Compostela→Fátima –Etapas– ]( https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
+![](Rota-Carmelita6.png)  [Santiago de Compostela→Fátima]( https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
-**←** 🔁 [Camino del Norte –Readme– ](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/04_Camino-del-Norte_2018-X/Readme.md)
+🔁 [Camino del Norte –Readme– ](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/04_Camino-del-Norte_2018-X/Readme.md)
 
-**←** 🔁 [Camino del Norte –Etappen–](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
+🔁 [Camino del Norte](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/04_Camino-del-Norte_2018-X/Camino-del-Norte_Etapas.md)
 
- **←** 🔁 [Camino del Salvador –Etappen–](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Camino-del-Salvador_2023-2025/Camino-del-Salvador_Etappen.md)
+ 🔁 [Camino del Salvador](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Camino-del-Salvador_2023-2025/Camino-del-Salvador_Etappen.md)
 
-**←** 🔁 [El Camino Primitivo –Etappen–](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/06_Camino-Primitivo_2023/El-Camino-Primitivo_Etappen.md)
+🔁 [El Camino Primitivo](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/06_Camino-Primitivo_2023/El-Camino-Primitivo_Etappen.md)
 
-**←** 🔁 [Caminhos de Caravaggio –Etapas–](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
-
+🔁 [Caminhos de Caravaggio](https://github.com/GomesDeSa-JA/Jakobswege/blob/main/Caminhos-de-Caravaggio/Caminhos-de-Caravaggio_Etapas.md)
 
 <details>
 <summary>A meio do caminho  ⁘ In the middle of the journey </summary>
@@ -69,12 +68,22 @@ Los compañeros de viaje 👍 vuelven a reunirse más tarde.
 </details>
 
 ---
-#### E outras etapas da vida ou Other Things
+### Outras etapas da vida ou Other Things
 
+🔁 [Other Things](https://medium.com/@gomoariussaense/as-promessas-2727c31cbcda?sharedUserId=gomoariussaense)
 
-**←** 🔁 [Other Things](https://medium.com/@gomoariussaense/as-promessas-2727c31cbcda?sharedUserId=gomoariussaense)
+🔁 [Index](https://github.com/GomesDeSa-JA/X-Projekte/blob/main/Index.md)
 
-**←** 🔁 [Index](https://github.com/GomesDeSa-JA/X-Projekte/blob/main/Index.md)
+<details>
+<summary>  </summary>
 
- ...→
+🇬🇧  🇪🇸  🇵🇹 🇩🇪
+
+**Updated:** 2026-11-07 20:40
+
+</details>
+
+Obsidian Link
+ - ↪  [Index](Index.md)
  
+ ...→

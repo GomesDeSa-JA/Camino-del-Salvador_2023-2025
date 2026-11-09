@@ -1,6 +1,6 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
-### Etappe-02: Padrón  →  Pontevedra ( 21,1+18,6 Km)
+### Etappe-02: Padrón  →  Pontevedra ( 39,7 Km)
 **14 Juni 2019** 👣  
 
 
@@ -82,6 +82,6 @@
 
 ↪ [Etappe-03_Pontevedra_O-Porrino](Etappe-03_Pontevedra_O-Porrino.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

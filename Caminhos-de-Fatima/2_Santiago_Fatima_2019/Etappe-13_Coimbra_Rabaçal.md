@@ -1,6 +1,6 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
-### Etappe-13: Coimbra → Rabaçal  (media3/28,4 Km)
+### Etappe-13: Coimbra → Rabaçal  ( 28,4 Km)
 **25 Juni 2019** 👣  
 
 ![](media3/20190625-064348.webp)
@@ -103,6 +103,6 @@
 
 ↪ [Etappe-14_Rabaçal_Ansiao](Etappe-14_Rabaçal_Ansiao.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

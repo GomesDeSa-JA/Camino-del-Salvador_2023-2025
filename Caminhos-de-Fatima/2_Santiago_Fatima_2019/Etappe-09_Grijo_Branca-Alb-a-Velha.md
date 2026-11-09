@@ -1,7 +1,6 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
-### Etappe-09: Grijó → (*Albergaria-a-Nova*) Branca-Outeirinho (19,0 + 28,8 - (6,5 + 2,6) = 37,9 Km )
-Albergaria-a-Nova
+### Etappe-09: Grijó → (*Albergaria-a-Nova*) Branca-Outeirinho ( 38,7 Km )
 **21 Juni 2019** 👣  
 
 ![](media3/20190621-075929.webp)
@@ -18,7 +17,7 @@ Albergaria-a-Nova
 
 ### Algures por aqui 
 
-- 5 minutos para o meio dia  
+**5 minutos para o meio dia**  
 - Bom dia!  Já servem? 
 - Só mais uns minutos. 
 - Então uma cerveijinha e eu espero
@@ -64,6 +63,6 @@ Google Maps Foto von Eduardo Torturici
 
 ↪ [Etappe-10_Branca_Agueda](Etappe-10_Branca_Agueda.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

@@ -1,6 +1,6 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
-###  ![](Rota-Caramelita-10.png)  
+###  ![](Rota-Carmelita-10.png)  
 **28 Juni 2019** 👣  
 
 ![](media3/20190628-142907.webp)
@@ -53,7 +53,7 @@
 
 ↪ [Etappe-01_Santiago-de-Compostela_Padron](Etappe-01_Santiago-de-Compostela_Padron.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
 
 

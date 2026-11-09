@@ -1,4 +1,4 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
 ### Etappe-06: Porto → Grijó ( 15,1 Km)
 **20 Juni 2019** 👣  
@@ -33,7 +33,7 @@
 
 ..., ... .
 Não estava no plano parar, foi uma das surpresas mais agradâveis do Caminho  
-e não esquecer de narrar a historia dos 100 peregrinos velhos e jovens  com cavalos e carro$a de Andaluzia que param em Campobecerros. ..., ... .
+e não esquecer de narrar a historia dos 100 peregrinos velhos e jovens  com cavalos e carroça de Andaluzia que param em Campobecerros. ..., ... .
 
 ![](media2/20190620-194346.webp)
 
@@ -55,6 +55,6 @@ e não esquecer de narrar a historia dos 100 peregrinos velhos e jovens  com cav
 
 ↪ [Etappe-09_Grijo_Branca-Alb-a-Velha](Etappe-09_Grijo_Branca-Alb-a-Velha.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

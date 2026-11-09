@@ -1,9 +1,11 @@
-## Camino de Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
-### Etappe-05: São Pedro de Rubiães → Vitorino dos Piães ( 22,3 Km)
+### Etappe-05: Rubiães → Vitorino dos Piães ( 29,6 Km)
 **17 Juni 2019** 👣  
 
+
 ![](media2/20190617-070134.webp)
+Albergue de Peregrinos de S. Pedro de Rubiães
 
 ![](media2/20190617-070417.webp)
 
@@ -118,6 +120,6 @@
 
 ↪ [Etappe-06_Vitorino-dos-Piaes_Sao-Pedro-de-Rates](Etappe-06_Vitorino-dos-Piaes_Sao-Pedro-de-Rates.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

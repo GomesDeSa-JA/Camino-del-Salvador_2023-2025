@@ -1,6 +1,6 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
-### Etappe-06: Rabaçal → Ansião  (31,7 Km)
+### Etappe-06: Rabaçal → Ansião  (19 Km)
 **26 Juni 2019** 👣  
 
 ![](media3/20190626-084145.webp)
@@ -67,6 +67,6 @@
 
 ↪ [Etappe-15_Ansiao_Fatima](Etappe-15_Ansiao_Fatima.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

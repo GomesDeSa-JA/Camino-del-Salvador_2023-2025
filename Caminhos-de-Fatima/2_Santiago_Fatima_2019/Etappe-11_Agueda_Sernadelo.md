@@ -1,6 +1,6 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
-### Etappe-06: Águeda  → Sernadelo ( 23,5 Km)
+### Etappe-11: Águeda  → Sernadelo ( 23,5 Km)
 **23 Juni 2019** 👣  
 
 ![](media3/20190623-081653.webp)
@@ -29,6 +29,6 @@ Uma cerveja artesanal "tinha um gosto especial" já fora da data.
 
 ↪ [Etappe-12_Sernadelo_Coimbra](Etappe-12_Sernadelo_Coimbra.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

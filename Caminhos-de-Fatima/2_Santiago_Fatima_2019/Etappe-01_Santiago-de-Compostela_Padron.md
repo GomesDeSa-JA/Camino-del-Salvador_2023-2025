@@ -1,8 +1,7 @@
-## Camino Santiago de Compostela  👣 → Fátima 2019
+## Santiago de Compostela  👣 → Fátima 2019
 
-### Etappe-01: Santiago de Compostela  →  Padrón (media1/24,4 Km)
+### Etappe-01: Santiago de Compostela  →  Padrón ( 24,4 Km)
 **13 Juni 2019** 👣  
-
 
 ![](media1/20190613-065054.webp)
 
@@ -119,6 +118,6 @@
 
 ↪ [Etappe-02_Padron_Pontevedra](Etappe-02_Padron_Pontevedra.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

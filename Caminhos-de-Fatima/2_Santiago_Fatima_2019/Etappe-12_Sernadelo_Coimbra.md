@@ -1,6 +1,6 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
-### Etappe-06: Sernadelo → Coimbra  (media3/24,8 Km)
+### Etappe-12: Sernadelo → Coimbra  ( 24,8 Km)
 **24 Juni 2019** 👣  
 
 ![](media3/20190624-072659.webp)
@@ -55,6 +55,6 @@ Aqui neste restaurante, tambem se não estragava nada, porque tudo era aproveita
 
 ↪ [Etappe-13_Coimbra_Rabaçal](Etappe-13_Coimbra_Rabaçal.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

@@ -1,7 +1,8 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
-### Etappe-04: O Porriño → São Pedro de Rubiães  (31,9 - 16,1 + 19,1 + 17,4  Km)
+### Etappe-04: O Porriño → Rubiães  ( 35,2 Km)
 **16 Juni 2019** 👣  
+
 
 
 ![](media2/20190616-082444.webp)
@@ -95,6 +96,8 @@
 
 ![](media2/20190616-162838.webp)
 
+Albergue de Peregrinos de S. Pedro de Rubiães
+
 ![](media2/20190616-175642.webp)
 
 ---
@@ -113,8 +116,8 @@
 
 ---
 
-↪ [Etappe-05_Sao-Pedro-de-Rubiaes_Vitorino-dos-Piaes](Etappe-05_Sao-Pedro-de-Rubiaes_Vitorino-dos-Piaes.md)
+↪ [Etappe-05_Rubiaes_Vitorino-dos-Piaes](Etappe-05_Rubiaes_Vitorino-dos-Piaes.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

@@ -1,4 +1,4 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
 ### Etappe-07: São Pedro de Rates → Porto  ( 38,5 Km)
 **19 Juni 2019** 👣  
@@ -61,6 +61,6 @@
 
 ↪ [Etappe-08_Porto_Grijo](Etappe-08_Porto_Grijo.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

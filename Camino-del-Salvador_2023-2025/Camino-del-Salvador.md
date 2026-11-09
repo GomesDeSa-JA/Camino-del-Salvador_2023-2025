@@ -66,9 +66,8 @@ Eine gute Ausrüstung, insbesondere geeignetes Schuhwerk, ist in solchen Situati
 
 Trotzdem habe ich fest vor, diesen Weg noch einmal zu gehen. Die Erfahrungen, die ich bei meinen beiden Begehungen gemacht habe, hätten unterschiedlicher kaum sein können. Auf diese Kontraste werde ich bei der Beschreibung der einzelnen Etappen und meiner persönlichen Erfahrungen noch ausführlicher eingehen.
 
-
-
 ---
+
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
 ↪ [Camino-del-Salvador_Erfahrung](Camino-del-Salvador_Erfahrung.md)
@@ -179,6 +178,7 @@ Um bom equipamento, especialmente calçado adequado, é indispensável nestas si
 Mesmo assim, pretendo voltar a fazer este caminho. As experiências que vivi nas duas ocasiões não poderiam ter sido mais diferentes. Falarei desses contrastes quando descrever as etapas e as experiências vividas em cada uma delas.
 
 ---
+
 🔁 [Camino-del-Salvador_Etappen](Camino-del-Salvador_Etappen.md)
 
 ↪ [Camino-del-Salvador_Erfahrung](Camino-del-Salvador_Erfahrung.md)

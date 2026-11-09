@@ -1,4 +1,4 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
 ### Etappe-10: Branca → Águeda ( 24,9 Km)
 **22 Juni 2019** 👣  
@@ -65,6 +65,6 @@ Calçou as botas de montanha, preparou a mochila e disse à família: «Vou-me e
 
 ↪ [Etappe-11_Agueda_Sernadelo](Etappe-11_Agueda_Sernadelo.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

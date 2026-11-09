@@ -1,6 +1,6 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
-### Etappe-03: Pontevedra → O Porriño  ( 35,9 Km)
+### Etappe-03: Pontevedra → O Porriño ( 35,9 Km)
 **15 Juni 2019** 👣  
 
 ![](media1/20190615-072241.webp)
@@ -102,8 +102,8 @@
 
 ---
 
-↪ [Etappe-04_O-Porrino_Sao-Pedro-de-Rubiaes](Etappe-04_O-Porrino_Sao-Pedro-de-Rubiaes.md)
+↪ [Etappe-04_O-Porrino_Rubiaes](Etappe-04_O-Porrino_Rubiaes.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→

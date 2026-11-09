@@ -1,6 +1,6 @@
-## Camino Santiago de Compostela 👣 → Fátima 2019
+## Santiago de Compostela 👣 → Fátima 2019
 
-### Etappe-06:  Vitorino dos Piães → São Pedro de Rates  ( 34,5 - 22,3 + 12 Km)
+### Etappe-06:  Vitorino dos Piães → São Pedro de Rates  ( 38,4 Km)
 **18 Juni 2019** 👣  
 
 ![](media2/20190618-064935.webp)
@@ -18,6 +18,7 @@
 
 ![](media2/20190618-071059.webp)
 
+
 <details>
 <summary></summary>
 
@@ -27,7 +28,7 @@
 
 ![](media2/20190618-103840.webp)
 
-![](media2/20190618-071053.webp)
+
 
 </details>
 
@@ -51,6 +52,6 @@
 
 ↪ [Etappe-07_Sao-Pedro-de-Rates_Porto](Etappe-07_Sao-Pedro-de-Rates_Porto.md)
 
-🔁  [Caminho-de-Fatima_Etapas](Caminho-de-Fatima_Etapas.md)
+🔁  [Caminho-de-Fatima_Etapas](Camino-del-Salvador/Caminhos-de-Fatima/2_Santiago_Fatima_2019/Caminho-de-Fatima_Etapas.md)
 
  ...→
