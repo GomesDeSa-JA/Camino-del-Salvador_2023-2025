@@ -1,4 +1,4 @@
-### ![](Rota-Carmelita10.png) Rota Carmelita 2025 
+### ![](../Rota-Carmelita8.png) Rota Carmelita 2025 
 
 ### Coimbra → Fátima ( 111 Km )
 - **Start:** 16 de Junho 2025
@@ -48,7 +48,7 @@
 
 ---
 #### Obsidian-Link
-- interne Links
+>*Internal links that don't work on GitHub*
 
 ↪ [Readme](Jakobswege/Readme.md) 
 

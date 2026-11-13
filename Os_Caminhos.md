@@ -83,7 +83,11 @@ Los compañeros de viaje 👍 vuelven a reunirse más tarde.
 
 </details>
 
-Obsidian Link
- - ↪  [Index](Index.md)
+**Obsidian Links**
+ >*Internal links that don't work on GitHub*
  
+ ↪  [Index](Index.md)
+ 
+ ↪ [Readme](Jakobswege/07_Camino-del-Norte_2024/Readme.md)
+
  ...→

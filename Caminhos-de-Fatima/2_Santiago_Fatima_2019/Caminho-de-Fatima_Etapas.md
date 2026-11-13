@@ -8,7 +8,7 @@
 
 > **"20"** Etappen bei etwa 25 Km pro Etappe
 
-### ![](Rota-Carmelita10.png) Camino Português
+### ![](../Rota-Carmelita8.png) Camino Português
 
 #### Santiago de Compostela → Coimbra
 
@@ -56,7 +56,7 @@
 23 de Junho 2019
 
 ---
-### ![](Rota-Carmelita10.png) Rota Carmelita 111 Km (***Soma = ca. 95 Km***)
+### ![](../Rota-Carmelita8.png) Rota Carmelita 111 Km (***Soma = ca. 95 Km***)
 
 #### Coimbra → Fátima
 
@@ -91,10 +91,16 @@
 
 ---
 
+🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+
+---
+#### Obsidian-Link
+>interne Links
+
 ↪ [Readme](Jakobswege/Readme.md) 
 
-↪ [Os_Caminhos](Os_Caminhos.md)
+↪ [Os Caminhos](Os_Caminhos.md)
 
-🔁 [ Os Caminhos](https://github.com/GomesDeSa-JA/Camino-del-Salvador_2023-2025/blob/main/Os_Caminhos.md)
+↪ [Index](Index.md)
 
  ...→
